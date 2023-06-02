@@ -1,0 +1,1114 @@
+stream,date,species,fork_length,lifestage,weight,count,mort,is_plus_count
+mill creek,2021-05-10T00:00:00Z,chinook salmon,84,silvery parr,7,1,NA,FALSE
+mill creek,2021-05-10T00:00:00Z,chinook salmon,83,silvery parr,7,1,NA,FALSE
+mill creek,2021-05-10T00:00:00Z,chinook salmon,72,silvery parr,5,1,NA,FALSE
+mill creek,2021-05-10T00:00:00Z,chinook salmon,81,silvery parr,7,1,NA,FALSE
+mill creek,2021-05-10T00:00:00Z,chinook salmon,79,silvery parr,5,1,NA,FALSE
+mill creek,2021-05-10T00:00:00Z,chinook salmon,95,silvery parr,10,1,NA,FALSE
+mill creek,2021-05-10T00:00:00Z,chinook salmon,85,silvery parr,8,1,NA,FALSE
+mill creek,2021-05-10T00:00:00Z,chinook salmon,81,silvery parr,6,1,NA,FALSE
+mill creek,2021-05-10T00:00:00Z,chinook salmon,87,silvery parr,7,1,NA,FALSE
+mill creek,2021-05-10T00:00:00Z,chinook salmon,80,silvery parr,6,1,NA,FALSE
+mill creek,2021-05-10T00:00:00Z,chinook salmon,NA,NA,NA,15,NA,TRUE
+mill creek,2021-05-10T00:00:00Z,rainbow trout,243,smolt,149,1,NA,FALSE
+mill creek,2021-05-10T00:00:00Z,rainbow trout,215,smolt,121,1,NA,FALSE
+mill creek,2021-05-10T00:00:00Z,RiFScu,56,NA,NA,1,NA,FALSE
+mill creek,2022-04-25T00:00:00Z,chinook salmon,66,parr,NA,1,NA,FALSE
+mill creek,2022-04-25T00:00:00Z,chinook salmon,85,parr,NA,1,NA,FALSE
+mill creek,2022-04-25T00:00:00Z,chinook salmon,66,parr,NA,1,NA,FALSE
+mill creek,2022-04-25T00:00:00Z,chinook salmon,45,parr,NA,1,NA,FALSE
+mill creek,2022-04-25T00:00:00Z,chinook salmon,68,parr,NA,1,NA,FALSE
+mill creek,2022-04-25T00:00:00Z,chinook salmon,78,parr,NA,1,NA,FALSE
+mill creek,2022-04-25T00:00:00Z,chinook salmon,70,parr,NA,1,NA,FALSE
+mill creek,2022-04-25T00:00:00Z,chinook salmon,68,parr,NA,1,NA,FALSE
+mill creek,2022-04-25T00:00:00Z,chinook salmon,75,parr,NA,1,NA,FALSE
+mill creek,2022-04-25T00:00:00Z,chinook salmon,68,parr,NA,1,NA,FALSE
+mill creek,2022-04-25T00:00:00Z,chinook salmon,NA,NA,NA,42,NA,TRUE
+mill creek,2022-04-25T00:00:00Z,HarHe,55,NA,NA,1,NA,FALSE
+mill creek,2022-04-25T00:00:00Z,HarHe,53,NA,NA,1,NA,FALSE
+mill creek,2022-04-25T00:00:00Z,HarHe,63,NA,NA,1,NA,FALSE
+mill creek,2022-04-25T00:00:00Z,HarHe,45,NA,NA,1,NA,FALSE
+mill creek,2022-04-25T00:00:00Z,HarHe,53,NA,NA,1,NA,FALSE
+mill creek,2022-04-25T00:00:00Z,HarHe,35,NA,NA,1,NA,FALSE
+mill creek,2022-04-25T00:00:00Z,HarHe,53,NA,NA,1,NA,FALSE
+mill creek,2022-04-25T00:00:00Z,HarHe,52,NA,NA,1,NA,FALSE
+mill creek,2022-04-25T00:00:00Z,HarHe,35,NA,NA,1,NA,FALSE
+mill creek,2022-04-25T00:00:00Z,HarHe,45,NA,NA,1,NA,FALSE
+mill creek,2022-04-25T00:00:00Z,HarHe,50,NA,NA,1,NA,FALSE
+mill creek,2022-04-25T00:00:00Z,HarHe,51,NA,NA,1,NA,FALSE
+mill creek,2022-04-15T00:00:00Z,chinook salmon,74,parr,NA,1,NA,FALSE
+mill creek,2022-04-15T00:00:00Z,chinook salmon,55,fry,NA,1,NA,FALSE
+mill creek,2022-04-15T00:00:00Z,chinook salmon,54,fry,NA,1,NA,FALSE
+mill creek,2022-04-15T00:00:00Z,chinook salmon,55,fry,NA,1,NA,FALSE
+mill creek,2022-04-15T00:00:00Z,chinook salmon,52,fry,NA,1,NA,FALSE
+mill creek,2022-04-15T00:00:00Z,chinook salmon,48,fry,NA,1,NA,FALSE
+mill creek,2022-04-15T00:00:00Z,chinook salmon,61,fry,NA,1,NA,FALSE
+mill creek,2022-04-15T00:00:00Z,chinook salmon,62,fry,NA,1,NA,FALSE
+mill creek,2022-04-15T00:00:00Z,chinook salmon,61,fry,NA,1,NA,FALSE
+mill creek,2022-04-15T00:00:00Z,chinook salmon,53,fry,NA,1,NA,FALSE
+mill creek,2022-04-15T00:00:00Z,chinook salmon,NA,NA,NA,15,NA,TRUE
+mill creek,2022-04-15T00:00:00Z,HarHe,75,NA,NA,1,NA,FALSE
+mill creek,2022-04-14T00:00:00Z,chinook salmon,52,parr,NA,1,NA,FALSE
+mill creek,2022-04-14T00:00:00Z,chinook salmon,71,parr,NA,1,NA,FALSE
+mill creek,2022-04-13T00:00:00Z,chinook salmon,65,parr,0.6,1,NA,FALSE
+mill creek,2022-04-13T00:00:00Z,chinook salmon,61,parr,0.9,1,NA,FALSE
+mill creek,2022-04-13T00:00:00Z,chinook salmon,35,fry,0.1,1,NA,FALSE
+mill creek,2022-04-13T00:00:00Z,chinook salmon,110,silvery parr,6.5,1,NA,FALSE
+mill creek,2022-04-13T00:00:00Z,chinook salmon,66,parr,1.4,1,NA,FALSE
+mill creek,2022-04-13T00:00:00Z,chinook salmon,74,parr,1.4,1,NA,FALSE
+mill creek,2022-04-13T00:00:00Z,chinook salmon,63,parr,0.8,1,NA,FALSE
+mill creek,2022-04-13T00:00:00Z,chinook salmon,66,parr,0.9,1,NA,FALSE
+mill creek,2022-04-13T00:00:00Z,chinook salmon,62,parr,1.5,1,NA,FALSE
+mill creek,2022-04-13T00:00:00Z,chinook salmon,58,parr,1.3,1,NA,FALSE
+mill creek,2022-04-13T00:00:00Z,chinook salmon,55,parr,0.5,1,NA,FALSE
+mill creek,2022-04-13T00:00:00Z,SacSuc,143,NA,NA,1,NA,FALSE
+mill creek,2022-04-12T00:00:00Z,chinook salmon,54,parr,0.7,1,NA,FALSE
+mill creek,2022-04-12T00:00:00Z,chinook salmon,65,parr,1.1,1,NA,FALSE
+mill creek,2022-04-12T00:00:00Z,chinook salmon,38,fry,0.1,1,NA,FALSE
+mill creek,2022-04-12T00:00:00Z,chinook salmon,63,parr,1,1,NA,FALSE
+mill creek,2022-04-12T00:00:00Z,chinook salmon,58,fry,0.8,1,NA,FALSE
+mill creek,2022-04-12T00:00:00Z,chinook salmon,62,parr,0.9,1,NA,FALSE
+mill creek,2022-04-12T00:00:00Z,chinook salmon,60,parr,0.9,1,NA,FALSE
+mill creek,2022-04-12T00:00:00Z,chinook salmon,52,parr,0.7,1,NA,FALSE
+mill creek,2022-04-12T00:00:00Z,chinook salmon,64,parr,1.2,1,NA,FALSE
+mill creek,2022-04-12T00:00:00Z,chinook salmon,63,parr,0.9,1,NA,FALSE
+mill creek,2022-04-12T00:00:00Z,chinook salmon,NA,NA,NA,12,NA,TRUE
+mill creek,2022-04-12T00:00:00Z,RiFScu,67,NA,NA,1,NA,FALSE
+mill creek,2022-04-12T00:00:00Z,Amm,81,NA,NA,1,NA,FALSE
+mill creek,2022-04-08T00:00:00Z,chinook salmon,53,fry,1.1,1,NA,FALSE
+mill creek,2022-04-08T00:00:00Z,chinook salmon,54,fry,1.3,1,NA,FALSE
+mill creek,2022-04-08T00:00:00Z,chinook salmon,34,fry,0.3,1,NA,FALSE
+mill creek,2022-04-08T00:00:00Z,chinook salmon,34,fry,0.3,1,NA,FALSE
+mill creek,2022-04-08T00:00:00Z,chinook salmon,51,fry,0.3,1,NA,FALSE
+mill creek,2022-04-08T00:00:00Z,chinook salmon,55,parr,0.3,1,NA,FALSE
+mill creek,2022-04-08T00:00:00Z,chinook salmon,42,fry,0.2,1,NA,FALSE
+mill creek,2022-04-08T00:00:00Z,chinook salmon,44,fry,0.2,1,NA,FALSE
+mill creek,2022-04-08T00:00:00Z,chinook salmon,53,parr,0.5,1,NA,FALSE
+mill creek,2022-04-08T00:00:00Z,chinook salmon,57,parr,0.7,1,NA,FALSE
+mill creek,2022-04-08T00:00:00Z,chinook salmon,131,smolt,13,1,NA,FALSE
+mill creek,2022-04-08T00:00:00Z,chinook salmon,NA,NA,NA,1,NA,TRUE
+mill creek,2022-04-08T00:00:00Z,HarHe,54,NA,NA,1,NA,FALSE
+mill creek,2022-04-08T00:00:00Z,HarHe,52,NA,NA,1,NA,FALSE
+mill creek,2022-04-08T00:00:00Z,HarHe,124,NA,NA,1,NA,FALSE
+mill creek,2022-04-08T00:00:00Z,SpeDac,67,NA,NA,1,NA,FALSE
+mill creek,2022-04-08T00:00:00Z,PacLam,102,NA,NA,1,NA,FALSE
+mill creek,2022-04-08T00:00:00Z,PacLam,127,NA,NA,1,NA,FALSE
+mill creek,2022-04-07T00:00:00Z,chinook salmon,58,parr,NA,1,NA,FALSE
+mill creek,2022-04-07T00:00:00Z,chinook salmon,60,parr,NA,1,NA,FALSE
+mill creek,2022-04-07T00:00:00Z,chinook salmon,51,parr,NA,1,NA,FALSE
+mill creek,2022-04-07T00:00:00Z,chinook salmon,57,parr,NA,1,NA,FALSE
+mill creek,2022-04-07T00:00:00Z,chinook salmon,55,parr,NA,1,NA,FALSE
+mill creek,2022-04-07T00:00:00Z,chinook salmon,67,parr,NA,1,NA,FALSE
+mill creek,2022-04-07T00:00:00Z,chinook salmon,61,parr,NA,1,NA,FALSE
+mill creek,2022-04-07T00:00:00Z,chinook salmon,42,fry,NA,1,NA,FALSE
+mill creek,2022-04-07T00:00:00Z,chinook salmon,56,parr,NA,1,NA,FALSE
+mill creek,2022-04-07T00:00:00Z,chinook salmon,48,parr,NA,1,NA,FALSE
+mill creek,2022-04-07T00:00:00Z,chinook salmon,NA,NA,NA,6,NA,TRUE
+mill creek,2022-04-07T00:00:00Z,SacPik,55,NA,NA,1,NA,FALSE
+mill creek,2022-04-06T00:00:00Z,chinook salmon,59,parr,2,1,NA,FALSE
+mill creek,2022-04-06T00:00:00Z,chinook salmon,59,parr,3,1,NA,FALSE
+mill creek,2022-04-06T00:00:00Z,chinook salmon,48,parr,1,1,NA,FALSE
+mill creek,2022-04-06T00:00:00Z,chinook salmon,51,parr,1,1,NA,FALSE
+mill creek,2022-04-06T00:00:00Z,chinook salmon,53,parr,1,1,NA,FALSE
+mill creek,2022-04-06T00:00:00Z,chinook salmon,50,parr,1,1,NA,FALSE
+mill creek,2022-04-06T00:00:00Z,chinook salmon,51,parr,2,1,NA,FALSE
+mill creek,2022-04-06T00:00:00Z,chinook salmon,62,parr,2,1,NA,FALSE
+mill creek,2022-04-06T00:00:00Z,chinook salmon,109,silvery parr,115,1,NA,FALSE
+mill creek,2022-04-06T00:00:00Z,RiFScu,69,NA,NA,1,NA,FALSE
+mill creek,2022-04-06T00:00:00Z,Amm,118,NA,NA,1,NA,FALSE
+mill creek,2022-04-06T00:00:00Z,Amm,116,NA,NA,1,NA,FALSE
+mill creek,2022-04-06T00:00:00Z,Amm,92,NA,NA,1,NA,FALSE
+mill creek,2022-04-05T00:00:00Z,chinook salmon,48,parr,2,1,NA,FALSE
+mill creek,2022-04-05T00:00:00Z,chinook salmon,56,parr,2,1,NA,FALSE
+mill creek,2022-04-05T00:00:00Z,chinook salmon,53,parr,2,1,NA,FALSE
+mill creek,2022-04-05T00:00:00Z,chinook salmon,59,parr,2,1,NA,FALSE
+mill creek,2022-04-05T00:00:00Z,chinook salmon,54,parr,1,1,NA,FALSE
+mill creek,2022-04-05T00:00:00Z,chinook salmon,49,parr,1,1,NA,FALSE
+mill creek,2022-04-05T00:00:00Z,chinook salmon,48,parr,1,1,NA,FALSE
+mill creek,2022-04-05T00:00:00Z,chinook salmon,52,parr,1,1,NA,FALSE
+mill creek,2022-04-05T00:00:00Z,chinook salmon,45,parr,1,1,NA,FALSE
+mill creek,2022-04-05T00:00:00Z,chinook salmon,58,parr,2,1,NA,FALSE
+mill creek,2022-04-05T00:00:00Z,chinook salmon,122,NA,21,1,NA,FALSE
+mill creek,2022-04-05T00:00:00Z,chinook salmon,99,NA,12,1,NA,FALSE
+mill creek,2022-04-05T00:00:00Z,chinook salmon,NA,NA,NA,10,NA,TRUE
+mill creek,2022-04-05T00:00:00Z,RiFScu,84,NA,NA,1,NA,FALSE
+mill creek,2022-03-31T00:00:00Z,chinook salmon,64,silvery parr,4,1,NA,FALSE
+mill creek,2022-03-31T00:00:00Z,chinook salmon,44,fry,2,1,NA,FALSE
+mill creek,2022-03-31T00:00:00Z,HarHe,69,NA,NA,1,NA,FALSE
+mill creek,2022-03-31T00:00:00Z,RiFScu,79,NA,NA,1,NA,FALSE
+mill creek,2022-03-31T00:00:00Z,RiFScu,72,NA,NA,1,NA,FALSE
+mill creek,2022-04-01T00:00:00Z,chinook salmon,30,fry,0.1,1,NA,FALSE
+mill creek,2022-04-01T00:00:00Z,chinook salmon,54,parr,4,1,NA,FALSE
+mill creek,2022-04-01T00:00:00Z,chinook salmon,54,parr,2,1,NA,FALSE
+mill creek,2022-04-01T00:00:00Z,chinook salmon,15,smolt,17,1,NA,FALSE
+mill creek,2022-04-01T00:00:00Z,RiFScu,75,NA,NA,1,NA,FALSE
+mill creek,2022-04-01T00:00:00Z,RiFScu,83,NA,NA,1,NA,FALSE
+mill creek,2022-04-01T00:00:00Z,RiFScu,76,NA,NA,1,NA,FALSE
+mill creek,2022-04-01T00:00:00Z,PacLam,82,NA,NA,1,NA,FALSE
+mill creek,2022-03-30T00:00:00Z,chinook salmon,102,silvery parr,12,1,NA,FALSE
+mill creek,2022-03-30T00:00:00Z,SacPik,155,NA,NA,1,NA,FALSE
+mill creek,2022-03-30T00:00:00Z,SacSuc,68,NA,NA,1,NA,FALSE
+mill creek,2022-03-30T00:00:00Z,HarHe,133,NA,NA,1,NA,FALSE
+mill creek,2022-03-30T00:00:00Z,Amm,119,NA,NA,1,NA,FALSE
+mill creek,2022-03-29T00:00:00Z,chinook salmon,43,fry,NA,1,NA,FALSE
+mill creek,2022-03-29T00:00:00Z,chinook salmon,52,fry,NA,1,NA,FALSE
+mill creek,2022-03-29T00:00:00Z,chinook salmon,35,fry,NA,1,NA,FALSE
+mill creek,2022-03-29T00:00:00Z,chinook salmon,110,silvery parr,NA,1,NA,FALSE
+mill creek,2022-03-29T00:00:00Z,SacPik,100,NA,NA,1,NA,FALSE
+mill creek,2022-03-29T00:00:00Z,Amm,70,NA,NA,1,NA,FALSE
+mill creek,2022-03-29T00:00:00Z,RiFScu,72,NA,NA,1,NA,FALSE
+mill creek,2022-03-25T00:00:00Z,chinook salmon,32,fry,NA,1,NA,FALSE
+mill creek,2022-03-25T00:00:00Z,chinook salmon,34,fry,NA,1,NA,FALSE
+mill creek,2022-03-25T00:00:00Z,chinook salmon,33,fry,NA,1,NA,FALSE
+mill creek,2022-03-25T00:00:00Z,chinook salmon,44,parr,NA,1,NA,FALSE
+mill creek,2022-03-25T00:00:00Z,chinook salmon,52,parr,NA,1,NA,FALSE
+mill creek,2022-03-25T00:00:00Z,chinook salmon,54,parr,NA,1,NA,FALSE
+mill creek,2022-03-25T00:00:00Z,chinook salmon,124,NA,NA,1,NA,FALSE
+mill creek,2022-03-25T00:00:00Z,chinook salmon,130,NA,NA,1,NA,FALSE
+mill creek,2022-03-25T00:00:00Z,rainbow trout,101,NA,NA,1,NA,FALSE
+mill creek,2022-03-25T00:00:00Z,rainbow trout,99,NA,NA,1,NA,FALSE
+mill creek,2022-03-25T00:00:00Z,HarHe,77,NA,NA,1,NA,FALSE
+mill creek,2022-03-25T00:00:00Z,HarHe,135,NA,NA,1,NA,FALSE
+mill creek,2022-03-25T00:00:00Z,HarHe,129,NA,NA,1,NA,FALSE
+mill creek,2022-03-25T00:00:00Z,HarHe,140,NA,NA,1,NA,FALSE
+mill creek,2022-03-25T00:00:00Z,HarHe,92,NA,NA,1,NA,FALSE
+mill creek,2022-03-25T00:00:00Z,HarHe,62,NA,NA,1,NA,FALSE
+mill creek,2022-03-25T00:00:00Z,HarHe,65,NA,NA,1,NA,FALSE
+mill creek,2022-03-25T00:00:00Z,HarHe,49,NA,NA,1,NA,FALSE
+mill creek,2022-03-25T00:00:00Z,HarHe,51,NA,NA,1,NA,FALSE
+mill creek,2022-03-25T00:00:00Z,PacLam,113,NA,NA,1,NA,FALSE
+mill creek,2022-03-25T00:00:00Z,PacLam,97,NA,NA,1,NA,FALSE
+mill creek,2022-03-25T00:00:00Z,PacLam,121,NA,NA,1,NA,FALSE
+mill creek,2022-03-25T00:00:00Z,PacLam,130,NA,NA,1,NA,FALSE
+mill creek,2022-03-25T00:00:00Z,PacLam,105,NA,NA,1,NA,FALSE
+mill creek,2022-03-25T00:00:00Z,PacLam,121,NA,NA,1,NA,FALSE
+mill creek,2022-03-25T00:00:00Z,PacLam,110,NA,NA,1,NA,FALSE
+mill creek,2022-03-25T00:00:00Z,PacLam,97,NA,NA,1,NA,FALSE
+mill creek,2022-03-25T00:00:00Z,PacLam,96,NA,NA,1,NA,FALSE
+mill creek,2022-03-25T00:00:00Z,PacLam,102,NA,NA,1,NA,FALSE
+mill creek,2022-03-25T00:00:00Z,PacLam,100,NA,NA,1,NA,FALSE
+mill creek,2022-03-25T00:00:00Z,PacLam,98,NA,NA,1,NA,FALSE
+mill creek,2022-03-25T00:00:00Z,PacLam,103,NA,NA,1,NA,FALSE
+mill creek,2022-03-25T00:00:00Z,PacLam,92,NA,NA,1,NA,FALSE
+mill creek,2022-03-25T00:00:00Z,PacLam,91,NA,NA,1,NA,FALSE
+mill creek,2022-03-25T00:00:00Z,PacLam,77,NA,NA,1,NA,FALSE
+mill creek,2022-03-25T00:00:00Z,PacLam,93,NA,NA,1,NA,FALSE
+mill creek,2022-03-25T00:00:00Z,PacLam,68,NA,NA,1,NA,FALSE
+mill creek,2022-03-25T00:00:00Z,PacLam,61,NA,NA,1,NA,FALSE
+mill creek,2022-03-25T00:00:00Z,RiFScu,78,NA,NA,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,chinook salmon,135,silvery parr,6.8,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,chinook salmon,132,smolt,8.8,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,chinook salmon,35,fry,0.1,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,chinook salmon,37,fry,0.3,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,chinook salmon,36,fry,0.2,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,chinook salmon,35,fry,0.3,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,chinook salmon,34,fry,0.3,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,chinook salmon,34,fry,0.2,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,chinook salmon,33,fry,0.1,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,chinook salmon,41,fry,0.7,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,chinook salmon,35,fry,0.3,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,chinook salmon,37,fry,0.4,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,chinook salmon,NA,NA,NA,40,NA,TRUE
+mill creek,2022-03-24T00:00:00Z,PacLam,596,NA,NA,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,SacPik,112,NA,NA,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,SacPik,131,NA,NA,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,SacPik,211,NA,NA,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,SacPik,59,NA,NA,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,SacPik,65,NA,NA,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,SacPik,53,NA,NA,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,SacPik,49,NA,NA,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,SacPik,55,NA,NA,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,SacPik,65,NA,NA,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,SacPik,121,NA,NA,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,SacPik,128,NA,NA,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,SacPik,126,NA,NA,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,SacPik,121,NA,NA,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,SacPik,115,NA,NA,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,SacPik,63,NA,NA,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,SacPik,71,NA,NA,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,SacPik,96,NA,NA,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,SacPik,62,NA,NA,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,SacPik,65,NA,NA,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,SacPik,71,NA,NA,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,RiFScu,71,NA,NA,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,LamSpp,100,NA,NA,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,LamSpp,117,NA,NA,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,LamSpp,85,NA,NA,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,LamSpp,115,NA,NA,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,LamSpp,104,NA,NA,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,LamSpp,123,NA,NA,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,LamSpp,123,NA,NA,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,LamSpp,95,NA,NA,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,LamSpp,94,NA,NA,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,LamSpp,103,NA,NA,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,LamSpp,75,NA,NA,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,LamSpp,51,NA,NA,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,LamSpp,117,NA,NA,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,LamSpp,120,NA,NA,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,LamSpp,124,NA,NA,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,LamSpp,89,NA,NA,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,LamSpp,93,NA,NA,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,LamSpp,84,NA,NA,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,LamSpp,117,NA,NA,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,LamSpp,81,NA,NA,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,LamSpp,NA,NA,NA,36,NA,TRUE
+mill creek,2022-03-24T00:00:00Z,CalRoa,63,NA,NA,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,SpeckDace,71,NA,NA,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,SpeckDace,75,NA,NA,1,NA,FALSE
+mill creek,2022-03-24T00:00:00Z,SpeckDace,63,NA,NA,1,NA,FALSE
+mill creek,2022-03-23T00:00:00Z,chinook salmon,35,sac fry,0.3,1,NA,FALSE
+mill creek,2022-03-23T00:00:00Z,chinook salmon,37,fry,0.3,1,NA,FALSE
+mill creek,2022-03-23T00:00:00Z,chinook salmon,42,fry,0.4,1,NA,FALSE
+mill creek,2022-03-23T00:00:00Z,chinook salmon,34,fry,0.3,1,NA,FALSE
+mill creek,2022-03-23T00:00:00Z,chinook salmon,35,fry,0.2,1,NA,FALSE
+mill creek,2022-03-23T00:00:00Z,chinook salmon,33,fry,0.1,1,NA,FALSE
+mill creek,2022-03-23T00:00:00Z,chinook salmon,37,fry,0.4,1,NA,FALSE
+mill creek,2022-03-23T00:00:00Z,chinook salmon,37,fry,0.3,1,NA,FALSE
+mill creek,2022-03-23T00:00:00Z,chinook salmon,36,fry,0.2,1,NA,FALSE
+mill creek,2022-03-23T00:00:00Z,chinook salmon,38,fry,0.2,1,NA,FALSE
+mill creek,2022-03-23T00:00:00Z,chinook salmon,56,parr,0.6,1,NA,FALSE
+mill creek,2022-03-23T00:00:00Z,chinook salmon,102,parr,4,1,NA,FALSE
+mill creek,2022-03-23T00:00:00Z,chinook salmon,109,silvery parr,5.1,1,NA,FALSE
+mill creek,2022-03-23T00:00:00Z,LamSpp,116,NA,NA,1,NA,FALSE
+mill creek,2022-03-23T00:00:00Z,LamSpp,77,NA,NA,1,NA,FALSE
+mill creek,2022-03-23T00:00:00Z,LamSpp,99,NA,NA,1,NA,FALSE
+mill creek,2022-03-23T00:00:00Z,LamSpp,118,NA,NA,1,NA,FALSE
+mill creek,2022-03-23T00:00:00Z,LamSpp,116,NA,NA,1,NA,FALSE
+mill creek,2022-03-23T00:00:00Z,LamSpp,110,NA,NA,1,NA,FALSE
+mill creek,2022-03-23T00:00:00Z,LamSpp,90,NA,NA,1,NA,FALSE
+mill creek,2022-03-23T00:00:00Z,CalRoa,76,NA,NA,1,NA,FALSE
+mill creek,2022-03-23T00:00:00Z,CalRoa,84,NA,NA,1,NA,FALSE
+mill creek,2022-03-23T00:00:00Z,SacPik,50,NA,NA,1,NA,FALSE
+mill creek,2022-03-23T00:00:00Z,SacPik,119,NA,NA,1,NA,FALSE
+mill creek,2022-03-23T00:00:00Z,SacPik,152,NA,NA,1,NA,FALSE
+mill creek,2022-03-22T00:00:00Z,chinook salmon,32,fry,NA,1,NA,FALSE
+mill creek,2022-03-22T00:00:00Z,chinook salmon,32,sac fry,NA,1,NA,FALSE
+mill creek,2022-03-22T00:00:00Z,chinook salmon,38,fry,NA,1,NA,FALSE
+mill creek,2022-03-22T00:00:00Z,chinook salmon,48,fry,NA,1,NA,FALSE
+mill creek,2022-03-22T00:00:00Z,chinook salmon,54,fry,NA,1,NA,FALSE
+mill creek,2022-03-22T00:00:00Z,chinook salmon,36,fry,NA,1,NA,FALSE
+mill creek,2022-03-22T00:00:00Z,chinook salmon,43,fry,NA,1,NA,FALSE
+mill creek,2022-03-22T00:00:00Z,chinook salmon,42,fry,NA,1,NA,FALSE
+mill creek,2022-03-22T00:00:00Z,chinook salmon,37,fry,NA,1,NA,FALSE
+mill creek,2022-03-22T00:00:00Z,chinook salmon,38,fry,NA,1,NA,FALSE
+mill creek,2022-03-22T00:00:00Z,chinook salmon,74,silvery parr,NA,1,NA,FALSE
+mill creek,2022-03-22T00:00:00Z,chinook salmon,74,parr,NA,1,NA,FALSE
+mill creek,2022-03-22T00:00:00Z,HarHe,127,NA,NA,1,NA,FALSE
+mill creek,2022-03-22T00:00:00Z,SacPik,113,NA,NA,1,NA,FALSE
+mill creek,2022-03-22T00:00:00Z,SacSuc,112,NA,NA,1,NA,FALSE
+mill creek,2022-03-18T00:00:00Z,chinook salmon,52,fry,0.6,1,NA,FALSE
+mill creek,2022-03-18T00:00:00Z,chinook salmon,37,fry,0.1,1,NA,FALSE
+mill creek,2022-03-18T00:00:00Z,chinook salmon,34,fry,0.1,1,NA,FALSE
+mill creek,2022-03-18T00:00:00Z,chinook salmon,34,fry,0.1,1,NA,FALSE
+mill creek,2022-03-18T00:00:00Z,chinook salmon,35,fry,0.1,1,NA,FALSE
+mill creek,2022-03-18T00:00:00Z,chinook salmon,37,fry,0.2,1,NA,FALSE
+mill creek,2022-03-18T00:00:00Z,chinook salmon,34,fry,0.1,1,NA,FALSE
+mill creek,2022-03-18T00:00:00Z,chinook salmon,44,fry,0.3,1,NA,FALSE
+mill creek,2022-03-18T00:00:00Z,chinook salmon,39,fry,0.2,1,NA,FALSE
+mill creek,2022-03-18T00:00:00Z,chinook salmon,39,fry,0.2,1,NA,FALSE
+mill creek,2022-03-18T00:00:00Z,chinook salmon,96,smolt,3.2,1,NA,FALSE
+mill creek,2022-03-18T00:00:00Z,chinook salmon,NA,NA,NA,26,NA,TRUE
+mill creek,2022-03-18T00:00:00Z,rainbow trout,88,parr,NA,1,NA,FALSE
+mill creek,2022-03-18T00:00:00Z,PacLam,110,NA,NA,1,NA,FALSE
+mill creek,2022-03-18T00:00:00Z,SpeckDace,65,NA,NA,1,NA,FALSE
+mill creek,2022-03-18T00:00:00Z,SpeckDace,65,NA,NA,1,NA,FALSE
+mill creek,2022-03-18T00:00:00Z,SpeckDace,77,NA,NA,1,NA,FALSE
+mill creek,2022-03-18T00:00:00Z,HarHe,145,NA,NA,1,NA,FALSE
+mill creek,2022-03-18T00:00:00Z,HarHe,125,NA,NA,1,NA,FALSE
+mill creek,2022-03-17T00:00:00Z,chinook salmon,41,fry,NA,1,NA,FALSE
+mill creek,2022-03-17T00:00:00Z,chinook salmon,33,fry,NA,1,NA,FALSE
+mill creek,2022-03-17T00:00:00Z,chinook salmon,32,fry,NA,1,NA,FALSE
+mill creek,2022-03-17T00:00:00Z,chinook salmon,31,fry,NA,1,NA,FALSE
+mill creek,2022-03-17T00:00:00Z,chinook salmon,30,fry,NA,1,NA,FALSE
+mill creek,2022-03-17T00:00:00Z,chinook salmon,35,fry,NA,1,NA,FALSE
+mill creek,2022-03-17T00:00:00Z,chinook salmon,30,fry,NA,1,NA,FALSE
+mill creek,2022-03-17T00:00:00Z,chinook salmon,35,fry,NA,1,NA,FALSE
+mill creek,2022-03-17T00:00:00Z,chinook salmon,28,fry,NA,1,NA,FALSE
+mill creek,2022-03-17T00:00:00Z,chinook salmon,30,fry,NA,1,NA,FALSE
+mill creek,2022-03-17T00:00:00Z,chinook salmon,NA,NA,NA,22,NA,TRUE
+mill creek,2022-03-17T00:00:00Z,SacSuc,42,NA,NA,1,NA,FALSE
+mill creek,2022-03-17T00:00:00Z,SacSuc,46,NA,NA,1,NA,FALSE
+mill creek,2022-03-17T00:00:00Z,SacPik,105,NA,NA,1,NA,FALSE
+mill creek,2022-03-17T00:00:00Z,SacPik,145,NA,NA,1,NA,FALSE
+mill creek,2022-03-17T00:00:00Z,SacPik,149,NA,NA,1,NA,FALSE
+mill creek,2022-03-17T00:00:00Z,SacPik,104,NA,NA,1,NA,FALSE
+mill creek,2022-03-17T00:00:00Z,SacPik,152,NA,NA,1,NA,FALSE
+mill creek,2022-03-17T00:00:00Z,Bullfrog,64,NA,NA,1,NA,FALSE
+mill creek,2022-03-17T00:00:00Z,PacLam,94,NA,NA,1,NA,FALSE
+mill creek,2022-03-17T00:00:00Z,PacLam,130,NA,NA,1,NA,FALSE
+mill creek,2022-03-17T00:00:00Z,PacLam,140,NA,NA,1,NA,FALSE
+mill creek,2022-03-17T00:00:00Z,PacLam,105,NA,NA,1,NA,FALSE
+mill creek,2022-03-16T00:00:00Z,chinook salmon,36,fry,NA,1,NA,FALSE
+mill creek,2022-03-16T00:00:00Z,chinook salmon,64,parr,NA,1,NA,FALSE
+mill creek,2022-03-16T00:00:00Z,chinook salmon,103,parr,NA,1,NA,FALSE
+mill creek,2022-03-16T00:00:00Z,chinook salmon,94,parr,NA,1,NA,FALSE
+mill creek,2022-03-16T00:00:00Z,chinook salmon,34,fry,NA,1,NA,FALSE
+mill creek,2022-03-16T00:00:00Z,chinook salmon,38,fry,NA,1,NA,FALSE
+mill creek,2022-03-16T00:00:00Z,chinook salmon,36,fry,NA,1,NA,FALSE
+mill creek,2022-03-16T00:00:00Z,chinook salmon,33,fry,NA,1,NA,FALSE
+mill creek,2022-03-16T00:00:00Z,chinook salmon,49,fry,NA,1,NA,FALSE
+mill creek,2022-03-16T00:00:00Z,chinook salmon,34,fry,NA,1,NA,FALSE
+mill creek,2022-03-16T00:00:00Z,chinook salmon,NA,NA,NA,118,NA,TRUE
+mill creek,2022-03-16T00:00:00Z,SacSuc,419,NA,NA,1,NA,FALSE
+mill creek,2022-03-16T00:00:00Z,SacSuc,393,NA,NA,1,NA,FALSE
+mill creek,2022-03-16T00:00:00Z,SacSuc,381,NA,NA,1,NA,FALSE
+mill creek,2022-03-16T00:00:00Z,SacPik,63,NA,NA,1,NA,FALSE
+mill creek,2022-03-16T00:00:00Z,SacPik,42,NA,NA,1,NA,FALSE
+mill creek,2022-03-16T00:00:00Z,SacPik,145,NA,NA,1,NA,FALSE
+mill creek,2022-03-16T00:00:00Z,SacPik,64,NA,NA,1,NA,FALSE
+mill creek,2022-03-16T00:00:00Z,SacPik,153,NA,NA,1,NA,FALSE
+mill creek,2022-03-16T00:00:00Z,SacPik,144,NA,NA,1,NA,FALSE
+mill creek,2022-03-16T00:00:00Z,SacPik,114,NA,NA,1,NA,FALSE
+mill creek,2022-03-16T00:00:00Z,SacPik,154,NA,NA,1,NA,FALSE
+mill creek,2022-03-16T00:00:00Z,SacPik,155,NA,NA,1,NA,FALSE
+mill creek,2022-03-16T00:00:00Z,SacPik,117,NA,NA,1,NA,FALSE
+mill creek,2022-03-16T00:00:00Z,LamSpp,130,NA,NA,1,NA,FALSE
+mill creek,2022-03-16T00:00:00Z,LamSpp,110,NA,NA,1,NA,FALSE
+mill creek,2022-03-16T00:00:00Z,LamSpp,102,NA,NA,1,NA,FALSE
+mill creek,2022-03-16T00:00:00Z,HarHe,95,NA,NA,1,NA,FALSE
+mill creek,2022-03-16T00:00:00Z,HarHe,108,NA,NA,1,NA,FALSE
+mill creek,2022-03-16T00:00:00Z,HarHe,125,NA,NA,1,NA,FALSE
+mill creek,2022-03-16T00:00:00Z,PacLam,107,NA,NA,1,NA,FALSE
+mill creek,2022-03-15T00:00:00Z,chinook salmon,39,fry,NA,1,NA,FALSE
+mill creek,2022-03-15T00:00:00Z,chinook salmon,39,fry,NA,1,NA,FALSE
+mill creek,2022-03-15T00:00:00Z,chinook salmon,38,fry,NA,1,NA,FALSE
+mill creek,2022-03-15T00:00:00Z,chinook salmon,38,fry,NA,1,NA,FALSE
+mill creek,2022-03-15T00:00:00Z,chinook salmon,37,fry,NA,1,NA,FALSE
+mill creek,2022-03-15T00:00:00Z,chinook salmon,37,fry,NA,1,NA,FALSE
+mill creek,2022-03-15T00:00:00Z,chinook salmon,39,fry,NA,1,NA,FALSE
+mill creek,2022-03-15T00:00:00Z,chinook salmon,38,fry,NA,1,NA,FALSE
+mill creek,2022-03-15T00:00:00Z,chinook salmon,39,fry,NA,1,NA,FALSE
+mill creek,2022-03-15T00:00:00Z,chinook salmon,37,fry,NA,1,NA,FALSE
+mill creek,2022-03-15T00:00:00Z,chinook salmon,NA,NA,NA,43,NA,TRUE
+mill creek,2022-03-15T00:00:00Z,SacPik,38,NA,NA,1,NA,FALSE
+mill creek,2022-03-15T00:00:00Z,HarHe,154,NA,NA,1,NA,FALSE
+mill creek,2022-03-15T00:00:00Z,CalRoa,99,NA,NA,1,NA,FALSE
+mill creek,2022-03-11T00:00:00Z,chinook salmon,34,fry,0.1,1,NA,FALSE
+mill creek,2022-03-11T00:00:00Z,chinook salmon,34,fry,0.1,1,NA,FALSE
+mill creek,2022-03-11T00:00:00Z,chinook salmon,36,fry,0.2,1,NA,FALSE
+mill creek,2022-03-11T00:00:00Z,chinook salmon,34,fry,0.2,1,NA,FALSE
+mill creek,2022-03-11T00:00:00Z,chinook salmon,36,fry,0.1,1,NA,FALSE
+mill creek,2022-03-11T00:00:00Z,chinook salmon,36,fry,0.1,1,NA,FALSE
+mill creek,2022-03-11T00:00:00Z,chinook salmon,37,fry,0.2,1,NA,FALSE
+mill creek,2022-03-11T00:00:00Z,chinook salmon,35,fry,0.1,1,NA,FALSE
+mill creek,2022-03-11T00:00:00Z,chinook salmon,38,fry,0.2,1,NA,FALSE
+mill creek,2022-03-11T00:00:00Z,chinook salmon,35,fry,0.1,1,NA,FALSE
+mill creek,2022-03-11T00:00:00Z,chinook salmon,112,smolt,24,1,NA,FALSE
+mill creek,2022-03-11T00:00:00Z,chinook salmon,110,smolt,22,1,NA,FALSE
+mill creek,2022-03-11T00:00:00Z,chinook salmon,78,silvery parr,4,1,NA,FALSE
+mill creek,2022-03-11T00:00:00Z,chinook salmon,NA,NA,NA,65,NA,TRUE
+mill creek,2022-03-11T00:00:00Z,LamSpp,88,NA,NA,1,NA,FALSE
+mill creek,2022-03-11T00:00:00Z,LamSpp,96,NA,NA,1,NA,FALSE
+mill creek,2022-03-11T00:00:00Z,LamSpp,90,NA,NA,1,NA,FALSE
+mill creek,2022-03-11T00:00:00Z,SacPik,125,NA,NA,1,NA,FALSE
+mill creek,2022-03-10T00:00:00Z,chinook salmon,39,fry,NA,1,NA,FALSE
+mill creek,2022-03-10T00:00:00Z,chinook salmon,36,fry,NA,1,NA,FALSE
+mill creek,2022-03-10T00:00:00Z,chinook salmon,37,fry,NA,1,NA,FALSE
+mill creek,2022-03-10T00:00:00Z,chinook salmon,37,fry,NA,1,NA,FALSE
+mill creek,2022-03-10T00:00:00Z,chinook salmon,35,fry,NA,1,NA,FALSE
+mill creek,2022-03-10T00:00:00Z,chinook salmon,36,fry,NA,1,NA,FALSE
+mill creek,2022-03-10T00:00:00Z,chinook salmon,36,fry,NA,1,NA,FALSE
+mill creek,2022-03-10T00:00:00Z,chinook salmon,35,fry,NA,1,NA,FALSE
+mill creek,2022-03-10T00:00:00Z,chinook salmon,36,fry,NA,1,NA,FALSE
+mill creek,2022-03-10T00:00:00Z,chinook salmon,36,fry,NA,1,NA,FALSE
+mill creek,2022-03-10T00:00:00Z,chinook salmon,NA,NA,NA,97,NA,TRUE
+mill creek,2022-03-09T00:00:00Z,chinook salmon,37,fry,NA,1,NA,FALSE
+mill creek,2022-03-09T00:00:00Z,chinook salmon,37,fry,NA,1,NA,FALSE
+mill creek,2022-03-09T00:00:00Z,chinook salmon,36,fry,NA,1,NA,FALSE
+mill creek,2022-03-09T00:00:00Z,chinook salmon,35,fry,NA,1,NA,FALSE
+mill creek,2022-03-09T00:00:00Z,chinook salmon,36,fry,NA,1,NA,FALSE
+mill creek,2022-03-09T00:00:00Z,chinook salmon,35,fry,NA,1,NA,FALSE
+mill creek,2022-03-09T00:00:00Z,chinook salmon,36,fry,NA,1,NA,FALSE
+mill creek,2022-03-09T00:00:00Z,chinook salmon,37,fry,NA,1,NA,FALSE
+mill creek,2022-03-09T00:00:00Z,chinook salmon,50,parr,NA,1,NA,FALSE
+mill creek,2022-03-09T00:00:00Z,chinook salmon,37,fry,NA,1,NA,FALSE
+mill creek,2022-03-09T00:00:00Z,chinook salmon,NA,NA,NA,16,NA,TRUE
+mill creek,2022-03-08T00:00:00Z,chinook salmon,36,fry,NA,1,NA,FALSE
+mill creek,2022-03-08T00:00:00Z,chinook salmon,35,fry,NA,1,NA,FALSE
+mill creek,2022-03-08T00:00:00Z,chinook salmon,34,fry,NA,1,NA,FALSE
+mill creek,2022-03-08T00:00:00Z,chinook salmon,33,fry,NA,1,NA,FALSE
+mill creek,2022-03-08T00:00:00Z,chinook salmon,36,fry,NA,1,NA,FALSE
+mill creek,2022-03-08T00:00:00Z,chinook salmon,37,fry,NA,1,NA,FALSE
+mill creek,2022-03-08T00:00:00Z,chinook salmon,39,fry,NA,1,NA,FALSE
+mill creek,2022-03-08T00:00:00Z,chinook salmon,35,fry,NA,1,NA,FALSE
+mill creek,2022-03-08T00:00:00Z,chinook salmon,34,fry,NA,1,NA,FALSE
+mill creek,2022-03-08T00:00:00Z,chinook salmon,33,fry,NA,1,NA,FALSE
+mill creek,2022-03-08T00:00:00Z,chinook salmon,NA,NA,NA,8,NA,TRUE
+mill creek,2022-03-04T00:00:00Z,chinook salmon,98,NA,3.5,1,NA,FALSE
+mill creek,2022-03-04T00:00:00Z,chinook salmon,35,NA,0.2,1,NA,FALSE
+mill creek,2022-03-04T00:00:00Z,chinook salmon,32,NA,0.2,1,NA,FALSE
+mill creek,2022-03-04T00:00:00Z,chinook salmon,31,NA,0.1,1,NA,FALSE
+mill creek,2022-03-04T00:00:00Z,chinook salmon,33,NA,0.2,1,NA,FALSE
+mill creek,2022-03-04T00:00:00Z,chinook salmon,33,NA,0.1,1,NA,FALSE
+mill creek,2022-03-04T00:00:00Z,chinook salmon,34,NA,0.2,1,NA,FALSE
+mill creek,2022-03-04T00:00:00Z,chinook salmon,34,NA,0.2,1,NA,FALSE
+mill creek,2022-03-04T00:00:00Z,chinook salmon,33,NA,0.1,1,NA,FALSE
+mill creek,2022-03-04T00:00:00Z,chinook salmon,34,NA,0.2,1,NA,FALSE
+mill creek,2022-03-04T00:00:00Z,chinook salmon,34,NA,0.2,1,NA,FALSE
+mill creek,2022-03-04T00:00:00Z,chinook salmon,NA,NA,NA,84,NA,TRUE
+mill creek,2022-03-04T00:00:00Z,PacLam,129,NA,NA,1,NA,FALSE
+mill creek,2022-03-04T00:00:00Z,PacLam,125,NA,NA,1,NA,FALSE
+mill creek,2022-03-03T00:00:00Z,chinook salmon,32,fry,NA,1,NA,FALSE
+mill creek,2022-03-03T00:00:00Z,chinook salmon,31,fry,NA,1,NA,FALSE
+mill creek,2022-03-03T00:00:00Z,chinook salmon,35,fry,NA,1,NA,FALSE
+mill creek,2022-03-03T00:00:00Z,chinook salmon,33,fry,NA,1,NA,FALSE
+mill creek,2022-03-03T00:00:00Z,chinook salmon,34,fry,NA,1,NA,FALSE
+mill creek,2022-03-03T00:00:00Z,chinook salmon,36,fry,NA,1,NA,FALSE
+mill creek,2022-03-03T00:00:00Z,chinook salmon,35,fry,NA,1,NA,FALSE
+mill creek,2022-03-03T00:00:00Z,chinook salmon,35,fry,NA,1,NA,FALSE
+mill creek,2022-03-03T00:00:00Z,chinook salmon,32,fry,NA,1,NA,FALSE
+mill creek,2022-03-03T00:00:00Z,chinook salmon,37,fry,NA,1,NA,FALSE
+mill creek,2022-03-03T00:00:00Z,chinook salmon,35,fry,NA,1,NA,TRUE
+mill creek,2022-03-03T00:00:00Z,chinook salmon,NA,NA,NA,49,NA,FALSE
+mill creek,2022-03-03T00:00:00Z,SacPik,56,NA,NA,1,NA,FALSE
+mill creek,2022-03-03T00:00:00Z,SacPik,113,NA,NA,1,NA,FALSE
+mill creek,2022-03-02T00:00:00Z,chinook salmon,95,NA,NA,1,NA,FALSE
+mill creek,2022-03-02T00:00:00Z,chinook salmon,110,NA,NA,1,NA,FALSE
+mill creek,2022-03-02T00:00:00Z,chinook salmon,95,NA,NA,1,NA,FALSE
+mill creek,2022-03-02T00:00:00Z,chinook salmon,32,NA,NA,1,NA,FALSE
+mill creek,2022-03-02T00:00:00Z,chinook salmon,35,NA,NA,1,NA,FALSE
+mill creek,2022-03-02T00:00:00Z,chinook salmon,35,NA,NA,1,NA,FALSE
+mill creek,2022-03-02T00:00:00Z,chinook salmon,34,NA,NA,1,NA,FALSE
+mill creek,2022-03-02T00:00:00Z,chinook salmon,33,NA,NA,1,NA,FALSE
+mill creek,2022-03-02T00:00:00Z,chinook salmon,36,NA,NA,1,NA,FALSE
+mill creek,2022-03-02T00:00:00Z,chinook salmon,36,NA,NA,1,NA,FALSE
+mill creek,2022-03-02T00:00:00Z,chinook salmon,NA,NA,NA,62,NA,TRUE
+mill creek,2022-03-01T00:00:00Z,chinook salmon,32,NA,NA,1,NA,FALSE
+mill creek,2022-03-01T00:00:00Z,chinook salmon,34,NA,NA,1,NA,FALSE
+mill creek,2022-03-01T00:00:00Z,chinook salmon,32,NA,NA,1,NA,FALSE
+mill creek,2022-03-01T00:00:00Z,chinook salmon,35,NA,NA,1,NA,FALSE
+mill creek,2022-03-01T00:00:00Z,chinook salmon,38,NA,NA,1,NA,FALSE
+mill creek,2022-03-01T00:00:00Z,chinook salmon,33,NA,NA,1,NA,FALSE
+mill creek,2022-03-01T00:00:00Z,chinook salmon,115,NA,NA,1,NA,FALSE
+mill creek,2022-03-01T00:00:00Z,chinook salmon,35,NA,NA,1,NA,FALSE
+mill creek,2022-03-01T00:00:00Z,chinook salmon,34,NA,NA,1,NA,FALSE
+mill creek,2022-03-01T00:00:00Z,chinook salmon,37,NA,NA,1,NA,FALSE
+mill creek,2022-03-01T00:00:00Z,chinook salmon,NA,NA,NA,26,NA,TRUE
+mill creek,2022-03-01T00:00:00Z,SacPik,41,NA,NA,1,NA,FALSE
+mill creek,2022-03-01T00:00:00Z,SacPik,100,NA,NA,1,NA,FALSE
+mill creek,2022-03-01T00:00:00Z,SacPik,45,NA,NA,1,NA,FALSE
+mill creek,2022-03-01T00:00:00Z,SacSuc,50,NA,NA,1,NA,FALSE
+mill creek,2022-02-25T00:00:00Z,chinook salmon,33,fry,NA,1,NA,FALSE
+mill creek,2022-02-25T00:00:00Z,chinook salmon,31,fry,NA,1,NA,FALSE
+mill creek,2022-02-25T00:00:00Z,chinook salmon,34,fry,NA,1,NA,FALSE
+mill creek,2022-02-25T00:00:00Z,chinook salmon,34,fry,NA,1,NA,FALSE
+mill creek,2022-02-25T00:00:00Z,chinook salmon,33,fry,NA,1,NA,FALSE
+mill creek,2022-02-25T00:00:00Z,PacLam,120,NA,NA,1,NA,FALSE
+mill creek,2022-02-24T00:00:00Z,chinook salmon,36,fry,NA,1,NA,FALSE
+mill creek,2022-02-24T00:00:00Z,chinook salmon,32,sac fry,NA,1,NA,FALSE
+mill creek,2022-02-24T00:00:00Z,chinook salmon,36,fry,NA,1,NA,FALSE
+mill creek,2022-02-24T00:00:00Z,chinook salmon,32,sac fry,NA,1,NA,FALSE
+mill creek,2022-02-24T00:00:00Z,chinook salmon,36,fry,NA,1,NA,FALSE
+mill creek,2022-02-24T00:00:00Z,chinook salmon,37,fry,NA,1,NA,FALSE
+mill creek,2022-02-24T00:00:00Z,chinook salmon,32,sac fry,NA,1,NA,FALSE
+mill creek,2022-02-24T00:00:00Z,chinook salmon,31,sac fry,NA,1,NA,FALSE
+mill creek,2022-02-24T00:00:00Z,chinook salmon,30,fry,NA,1,NA,FALSE
+mill creek,2022-02-24T00:00:00Z,chinook salmon,35,sac fry,NA,1,NA,FALSE
+mill creek,2022-02-24T00:00:00Z,chinook salmon,106,silvery parr,NA,1,NA,FALSE
+mill creek,2022-02-24T00:00:00Z,chinook salmon,NA,NA,NA,7,NA,TRUE
+mill creek,2022-02-24T00:00:00Z,RiFScu,55,NA,NA,1,NA,FALSE
+mill creek,2022-02-23T00:00:00Z,chinook salmon,32,fry,NA,1,NA,FALSE
+mill creek,2022-02-23T00:00:00Z,chinook salmon,34,fry,NA,1,NA,FALSE
+mill creek,2022-02-23T00:00:00Z,chinook salmon,34,fry,NA,1,NA,FALSE
+mill creek,2022-02-23T00:00:00Z,chinook salmon,29,fry,NA,1,NA,FALSE
+mill creek,2022-02-23T00:00:00Z,chinook salmon,31,fry,NA,1,NA,FALSE
+mill creek,2022-02-23T00:00:00Z,chinook salmon,36,fry,NA,1,NA,FALSE
+mill creek,2022-02-23T00:00:00Z,chinook salmon,34,fry,NA,1,NA,FALSE
+mill creek,2022-02-23T00:00:00Z,chinook salmon,35,fry,NA,1,NA,FALSE
+mill creek,2022-02-23T00:00:00Z,chinook salmon,34,fry,NA,1,NA,FALSE
+mill creek,2022-02-23T00:00:00Z,chinook salmon,34,fry,NA,1,NA,FALSE
+mill creek,2022-02-23T00:00:00Z,chinook salmon,30,NA,NA,22,NA,TRUE
+mill creek,2022-02-18T00:00:00Z,chinook salmon,30,NA,NA,1,NA,FALSE
+mill creek,2022-02-18T00:00:00Z,chinook salmon,30,NA,NA,1,NA,FALSE
+mill creek,2022-02-18T00:00:00Z,chinook salmon,31,NA,NA,1,NA,FALSE
+mill creek,2022-02-18T00:00:00Z,chinook salmon,31,NA,NA,1,NA,FALSE
+mill creek,2022-02-18T00:00:00Z,chinook salmon,31,NA,NA,1,NA,FALSE
+mill creek,2022-02-18T00:00:00Z,chinook salmon,31,NA,NA,1,NA,FALSE
+mill creek,2022-02-18T00:00:00Z,chinook salmon,31,NA,NA,1,NA,FALSE
+mill creek,2022-02-18T00:00:00Z,chinook salmon,31,NA,NA,1,NA,FALSE
+mill creek,2022-02-18T00:00:00Z,chinook salmon,31,NA,NA,1,NA,FALSE
+mill creek,2022-02-18T00:00:00Z,chinook salmon,32,NA,NA,1,NA,FALSE
+mill creek,2022-02-18T00:00:00Z,chinook salmon,32,NA,NA,1,NA,FALSE
+mill creek,2022-02-18T00:00:00Z,chinook salmon,33,NA,NA,1,NA,FALSE
+mill creek,2022-02-18T00:00:00Z,chinook salmon,33,NA,NA,1,NA,FALSE
+mill creek,2022-02-18T00:00:00Z,chinook salmon,34,NA,NA,1,NA,FALSE
+mill creek,2022-02-18T00:00:00Z,chinook salmon,34,NA,NA,1,NA,FALSE
+mill creek,2022-02-18T00:00:00Z,chinook salmon,34,NA,NA,1,NA,FALSE
+mill creek,2022-02-18T00:00:00Z,chinook salmon,34,NA,NA,1,NA,FALSE
+mill creek,2022-02-18T00:00:00Z,chinook salmon,36,NA,NA,1,NA,FALSE
+mill creek,2022-02-18T00:00:00Z,chinook salmon,38,NA,NA,1,NA,FALSE
+mill creek,2022-02-18T00:00:00Z,chinook salmon,38,NA,NA,1,NA,FALSE
+mill creek,2022-02-18T00:00:00Z,prickly sculpin,NA,NA,NA,1,NA,FALSE
+mill creek,2022-06-01T00:00:00Z,RBT,28,F,NA,1,NA,NA
+mill creek,2022-06-01T00:00:00Z,RBT,31,F,NA,1,NA,NA
+mill creek,2022-06-01T00:00:00Z,RBT,29,F,NA,1,NA,NA
+mill creek,2022-06-01T00:00:00Z,RBT,31,F,NA,1,NA,NA
+mill creek,2022-06-01T00:00:00Z,RBT,32,F,NA,1,NA,NA
+mill creek,2022-06-01T00:00:00Z,RBT,40,F,NA,1,NA,NA
+mill creek,2022-06-01T00:00:00Z,RBT,31,F,NA,1,NA,NA
+mill creek,2022-06-02T00:00:00Z,RAITRO,48,F,2,1,NA,NA
+mill creek,2022-06-02T00:00:00Z,RAITRO,39,F,0.5,1,NA,NA
+mill creek,2022-06-02T00:00:00Z,RAITRO,45,F,2,1,NA,NA
+mill creek,2022-06-02T00:00:00Z,chinook salmon,72,F,4,1,NA,NA
+mill creek,2022-06-02T00:00:00Z,PACLAM,105,NA,NA,1,NA,NA
+mill creek,2022-06-03T00:00:00Z,PACLAM,108,NA,NA,1,NA,NA
+mill creek,2022-06-03T00:00:00Z,RAITRO,44,P,NA,1,NA,NA
+mill creek,2022-06-03T00:00:00Z,RAITRO,43,P,NA,1,NA,NA
+mill creek,2022-06-03T00:00:00Z,RAITRO,41,P,NA,1,NA,NA
+mill creek,2022-06-03T00:00:00Z,HARHE,51,NA,NA,1,NA,NA
+mill creek,2022-06-03T00:00:00Z,RSCU,66,NA,NA,1,NA,NA
+mill creek,2022-06-03T00:00:00Z,RSCU,38,NA,NA,1,NA,NA
+mill creek,2022-06-03T00:00:00Z,RSCU,82,NA,NA,1,NA,NA
+mill creek,2022-06-07T00:00:00Z,RAITRO,46,F,NA,1,NA,NA
+mill creek,2022-06-07T00:00:00Z,RAITRO,52,F,NA,1,NA,NA
+mill creek,2022-06-07T00:00:00Z,RAITRO,49,F,NA,1,NA,NA
+mill creek,2022-06-07T00:00:00Z,chinook salmon,64,NA,NA,1,NA,NA
+mill creek,2022-06-07T00:00:00Z,RAITRO,197,SP,112,1,NA,NA
+mill creek,2022-06-07T00:00:00Z,RAITRO,135,SP,39,1,NA,NA
+mill creek,2022-06-07T00:00:00Z,PIK,54,NA,NA,1,NA,NA
+mill creek,2022-06-07T00:00:00Z,PIK,50,NA,NA,1,NA,NA
+mill creek,2022-06-07T00:00:00Z,PIK,49,NA,NA,1,NA,NA
+mill creek,2022-06-07T00:00:00Z,PIK,65,NA,NA,1,NA,NA
+mill creek,2022-06-07T00:00:00Z,PIK,48,NA,NA,1,NA,NA
+mill creek,2022-06-07T00:00:00Z,SPDACE,59,NA,NA,1,NA,NA
+mill creek,2022-06-07T00:00:00Z,PACLAM,125,NA,NA,1,NA,NA
+mill creek,2022-06-07T00:00:00Z,PACLAM,123,NA,NA,1,NA,NA
+mill creek,2022-06-07T00:00:00Z,PACLAM,119,NA,NA,1,NA,NA
+mill creek,2022-06-07T00:00:00Z,PACLAM,124,NA,NA,1,NA,NA
+mill creek,2022-06-07T00:00:00Z,PACLAM,118,NA,NA,1,NA,NA
+mill creek,2022-06-07T00:00:00Z,PACLAM,126,NA,NA,1,NA,NA
+mill creek,2022-06-07T00:00:00Z,PACLAM,115,NA,NA,1,NA,NA
+mill creek,2022-06-07T00:00:00Z,PACLAM,114,NA,NA,1,NA,NA
+mill creek,2022-06-07T00:00:00Z,PACLAM,115,NA,NA,1,NA,NA
+mill creek,2022-06-07T00:00:00Z,PACLAM,122,NA,NA,1,NA,NA
+mill creek,2022-06-07T00:00:00Z,PACLAM,115,NA,NA,1,NA,NA
+mill creek,2022-06-07T00:00:00Z,PACLAM,117,NA,NA,1,NA,NA
+mill creek,2022-06-07T00:00:00Z,PACLAM,115,NA,NA,1,NA,NA
+mill creek,2022-06-07T00:00:00Z,AMM,125,NA,NA,1,NA,NA
+mill creek,2022-06-07T00:00:00Z,RIFSCU,68,NA,NA,1,NA,NA
+mill creek,2022-06-17T00:00:00Z,RFSU,25,NA,NA,1,NA,NA
+mill creek,2022-06-17T00:00:00Z,RFSU,32,NA,NA,1,NA,NA
+mill creek,2022-06-16T00:00:00Z,RSCU,30,NA,NA,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,RAITRO,42,F,1,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,RAITRO,52,F,1,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,RAITRO,41,F,1,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,RAITRO,63,P,2,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,RAITRO,53,P,1,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,RAITRO,65,P,3,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,chinook salmon,85,SP,5,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,chinook salmon,94,SP,9,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,SACSUK,194,NA,NA,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,AMM,121,NA,NA,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,AMM,105,NA,NA,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,AMM,108,NA,NA,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,AMM,64,NA,NA,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,AMM,116,NA,NA,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,AMM,118,NA,NA,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,AMM,104,NA,NA,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,AMM,119,NA,NA,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,AMM,106,NA,NA,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,AMM,106,NA,NA,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,AMM,127,NA,NA,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,AMM,110,NA,NA,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,AMM,114,NA,NA,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,AMM,115,NA,NA,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,AMM,113,NA,NA,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,AMM,108,NA,NA,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,AMM,118,NA,NA,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,AMM,123,NA,NA,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,AMM,103,NA,NA,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,AMM,125,NA,NA,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,AMM,NA,NA,NA,29,NA,TRUE
+mill creek,2022-06-14T00:00:00Z,HARDHE,134,NA,NA,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,HARDHE,41,NA,NA,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,HARDHE,38,NA,NA,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,PIKEM,80,NA,NA,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,PIKEM,55,NA,NA,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,PIKEM,41,NA,NA,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,PIKEM,43,NA,NA,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,PIKEM,78,NA,NA,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,PIKEM,62,NA,NA,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,PACLAM,130,NA,NA,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,PACLAM,126,NA,NA,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,PACLAM,135,NA,NA,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,PACLAM,136,NA,NA,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,PACLAM,117,NA,NA,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,PACLAM,130,NA,NA,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,PACLAM,136,NA,NA,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,PACLAM,137,NA,NA,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,PACLAM,113,NA,NA,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,PACLAM,134,NA,NA,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,PACLAM,135,NA,NA,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,PACLAM,120,NA,NA,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,PACLAM,115,NA,NA,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,PACLAM,114,NA,NA,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,PACLAM,126,NA,NA,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,PACLAM,131,NA,NA,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,PACLAM,124,NA,NA,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,PACLAM,126,NA,NA,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,PACLAM,114,NA,NA,1,NA,NA
+mill creek,2022-06-14T00:00:00Z,RIFSCU,64,NA,NA,1,NA,NA
+mill creek,2022-05-25T00:00:00Z,chinook salmon,92,SP,9,1,NA,NA
+mill creek,2022-05-25T00:00:00Z,chinook salmon,96,SP,9,1,NA,NA
+mill creek,2022-05-25T00:00:00Z,chinook salmon,88,SP,7,1,NA,NA
+mill creek,2022-05-25T00:00:00Z,RAITRO,29,F,NA,1,NA,NA
+mill creek,2022-05-25T00:00:00Z,RAITRO,32,F,NA,1,NA,NA
+mill creek,2022-05-25T00:00:00Z,RAITRO,31,F,NA,1,NA,NA
+mill creek,2022-05-25T00:00:00Z,RAITRO,57,NA,NA,1,NA,NA
+mill creek,2022-05-25T00:00:00Z,PACLAM,92,NA,NA,1,NA,NA
+mill creek,2022-05-25T00:00:00Z,HARDHE,40,NA,NA,1,NA,NA
+mill creek,2022-05-26T00:00:00Z,chinook salmon,91,SP,8,1,NA,NA
+mill creek,2022-05-26T00:00:00Z,chinook salmon,84,SP,7,1,NA,NA
+mill creek,2022-05-26T00:00:00Z,chinook salmon,72,SP,4,1,NA,NA
+mill creek,2022-05-26T00:00:00Z,RAITRO,37,F,2,1,NA,NA
+mill creek,2022-05-26T00:00:00Z,RAITRO,35,F,1,1,NA,NA
+mill creek,2022-05-26T00:00:00Z,HRDHE,30,NA,NA,1,NA,NA
+mill creek,2022-05-26T00:00:00Z,RIFSCU,74,NA,NA,1,NA,NA
+mill creek,2022-05-27T00:00:00Z,chinook salmon,81,SP,8,1,NA,NA
+mill creek,2022-05-27T00:00:00Z,chinook salmon,66,SP,3,1,NA,NA
+mill creek,2022-05-27T00:00:00Z,chinook salmon,82,SP,6,1,NA,NA
+mill creek,2022-05-27T00:00:00Z,chinook salmon,66,SP,4,1,NA,NA
+mill creek,2022-05-27T00:00:00Z,chinook salmon,77,SP,6,1,NA,NA
+mill creek,2022-05-27T00:00:00Z,RAITRO,62,P,4,1,NA,NA
+mill creek,2022-05-27T00:00:00Z,RAITRO,55,P,2,1,NA,NA
+mill creek,2022-05-27T00:00:00Z,RAITRO,28,F,1,1,NA,NA
+mill creek,2022-05-27T00:00:00Z,RAITRO,31,F,1,1,NA,NA
+mill creek,2022-05-27T00:00:00Z,PACLAM,102,NA,NA,1,NA,NA
+mill creek,2022-05-27T00:00:00Z,RIFSCU,83,NA,NA,1,NA,NA
+mill creek,2022-05-27T00:00:00Z,RIFSCU,79,NA,NA,1,NA,NA
+mill creek,2022-05-27T00:00:00Z,RIFSCU,79,NA,NA,1,NA,NA
+mill creek,2022-06-08T00:00:00Z,RAITRO,46,F,3,1,NA,NA
+mill creek,2022-06-08T00:00:00Z,RIFSCU,87,NA,NA,1,NA,NA
+mill creek,2022-06-08T00:00:00Z,RIFSCU,20,NA,NA,1,NA,NA
+mill creek,2022-06-08T00:00:00Z,RIFSCU,30,NA,NA,1,NA,NA
+mill creek,2022-06-08T00:00:00Z,RIFSCU,29,NA,NA,1,NA,NA
+mill creek,2022-06-08T00:00:00Z,RIFSCU,80,NA,NA,1,NA,NA
+mill creek,2022-06-08T00:00:00Z,PRICK,34,NA,NA,1,NA,NA
+mill creek,2022-06-08T00:00:00Z,PACLAM,110,NA,NA,1,NA,NA
+mill creek,2022-06-08T00:00:00Z,PACLAM,93,NA,NA,1,NA,NA
+mill creek,2022-06-09T00:00:00Z,RAITRO,44,P,NA,1,NA,NA
+mill creek,2022-06-09T00:00:00Z,RAITRO,44,P,NA,1,NA,NA
+mill creek,2022-06-09T00:00:00Z,RAITRO,48,P,NA,1,NA,NA
+mill creek,2022-06-09T00:00:00Z,RAITRO,49,P,NA,1,NA,NA
+mill creek,2022-06-09T00:00:00Z,RAITRO,44,P,NA,1,NA,NA
+mill creek,2022-06-09T00:00:00Z,PACLAM,131,NA,NA,1,NA,NA
+mill creek,2022-06-09T00:00:00Z,PACLAM,104,NA,NA,1,NA,NA
+mill creek,2022-06-09T00:00:00Z,RSCU,38,NA,NA,1,NA,NA
+mill creek,2022-06-09T00:00:00Z,RSCU,35,NA,NA,1,NA,NA
+mill creek,2022-06-10T00:00:00Z,OMYKISS,66,P,NA,1,NA,NA
+mill creek,2022-06-10T00:00:00Z,HRDHE,83,NA,NA,1,NA,NA
+mill creek,2022-06-10T00:00:00Z,RISCU,41,NA,NA,1,NA,NA
+mill creek,2022-06-10T00:00:00Z,RISCU,38,NA,NA,1,NA,NA
+mill creek,2022-05-24T00:00:00Z,chinook salmon,86,SP,7,1,NA,NA
+mill creek,2022-05-24T00:00:00Z,chinook salmon,81,SP,7,1,NA,NA
+mill creek,2022-05-24T00:00:00Z,AMM,120,NA,NA,1,NA,NA
+mill creek,2022-05-20T00:00:00Z,chinook salmon,85,SP,NA,1,NA,NA
+mill creek,2022-05-20T00:00:00Z,chinook salmon,66,SP,NA,1,NA,NA
+mill creek,2022-05-20T00:00:00Z,HARDHE,38,NA,NA,1,NA,NA
+mill creek,2022-05-20T00:00:00Z,HARDHE,39,NA,NA,1,NA,NA
+mill creek,2022-05-20T00:00:00Z,HARDHE,41,NA,NA,1,NA,NA
+mill creek,2022-05-20T00:00:00Z,RIFSCU,79,NA,NA,1,NA,NA
+mill creek,2022-05-20T00:00:00Z,RIFSCU,58,NA,NA,1,NA,NA
+mill creek,2022-05-20T00:00:00Z,RIFSCU,83,NA,NA,1,NA,NA
+mill creek,2022-05-19T00:00:00Z,chinook salmon,85,SP,7,1,NA,NA
+mill creek,2022-05-19T00:00:00Z,chinook salmon,77,SP,5,1,NA,NA
+mill creek,2022-05-19T00:00:00Z,chinook salmon,79,SP,6,1,NA,NA
+mill creek,2022-05-19T00:00:00Z,chinook salmon,75,SP,5,1,NA,NA
+mill creek,2022-05-19T00:00:00Z,chinook salmon,79,SP,5,1,NA,NA
+mill creek,2022-05-19T00:00:00Z,chinook salmon,83,SP,7,1,NA,NA
+mill creek,2022-05-19T00:00:00Z,chinook salmon,85,SP,7,1,NA,NA
+mill creek,2022-05-19T00:00:00Z,chinook salmon,83,SP,6,1,NA,NA
+mill creek,2022-05-18T00:00:00Z,chinook salmon,79,SP,6,1,NA,NA
+mill creek,2022-05-18T00:00:00Z,chinook salmon,74,SP,4,1,NA,NA
+mill creek,2022-05-18T00:00:00Z,RIFSCU,86,NA,NA,1,NA,NA
+mill creek,2022-05-18T00:00:00Z,RIFSCU,66,NA,NA,1,NA,NA
+mill creek,2022-05-17T00:00:00Z,chinook salmon,61,SP,2.3,1,NA,NA
+mill creek,2022-05-17T00:00:00Z,chinook salmon,70,SP,3.9,1,NA,NA
+mill creek,2022-05-17T00:00:00Z,RIFSCU,58,NA,NA,1,NA,NA
+mill creek,2022-05-17T00:00:00Z,RIFSCU,72,NA,NA,1,NA,NA
+mill creek,2022-05-17T00:00:00Z,HRDHE,55,NA,NA,1,NA,NA
+mill creek,2022-05-13T00:00:00Z,chinook salmon,59,SP,NA,1,NA,NA
+mill creek,2022-05-13T00:00:00Z,chinook salmon,78,SP,NA,1,NA,NA
+mill creek,2022-05-13T00:00:00Z,chinook salmon,93,SP,NA,1,NA,NA
+mill creek,2022-05-13T00:00:00Z,chinook salmon,48,P,NA,1,NA,NA
+mill creek,2022-05-13T00:00:00Z,PACLAM,405,NA,NA,1,NA,NA
+mill creek,2022-05-12T00:00:00Z,chinook salmon,79,SP,5,1,NA,NA
+mill creek,2022-05-12T00:00:00Z,chinook salmon,76,SP,3,1,NA,NA
+mill creek,2022-05-12T00:00:00Z,chinook salmon,64,SP,1,1,NA,NA
+mill creek,2022-05-12T00:00:00Z,RAITRO,27,F,NA,1,NA,NA
+mill creek,2022-05-11T00:00:00Z,chinook salmon,79,SP,5,1,NA,NA
+mill creek,2022-05-11T00:00:00Z,chinook salmon,70,P,6,1,NA,NA
+mill creek,2022-05-11T00:00:00Z,chinook salmon,65,P,3,1,NA,NA
+mill creek,2022-05-11T00:00:00Z,chinook salmon,93,SP,8,1,NA,NA
+mill creek,2022-05-11T00:00:00Z,chinook salmon,76,SP,5,1,NA,NA
+mill creek,2022-05-11T00:00:00Z,chinook salmon,70,P,4,1,NA,NA
+mill creek,2022-05-11T00:00:00Z,chinook salmon,79,SP,6,1,NA,NA
+mill creek,2022-05-11T00:00:00Z,chinook salmon,89,SP,7,1,NA,NA
+mill creek,2022-05-11T00:00:00Z,chinook salmon,70,SP,4,1,NA,NA
+mill creek,2022-05-11T00:00:00Z,chinook salmon,92,SP,9,1,NA,NA
+mill creek,2022-05-11T00:00:00Z,chinook salmon,NA,NA,NA,6,NA,TRUE
+mill creek,2022-04-26T00:00:00Z,chinook salmon,82,SP,4.4,1,NA,NA
+mill creek,2022-04-26T00:00:00Z,chinook salmon,70,P,3.1,1,NA,NA
+mill creek,2022-04-26T00:00:00Z,chinook salmon,76,P,3.2,1,NA,NA
+mill creek,2022-04-26T00:00:00Z,chinook salmon,80,SP,7,1,NA,NA
+mill creek,2022-04-26T00:00:00Z,chinook salmon,78,SP,4.9,1,NA,NA
+mill creek,2022-04-26T00:00:00Z,chinook salmon,67,P,4.8,1,NA,NA
+mill creek,2022-04-26T00:00:00Z,chinook salmon,75,SP,4,1,NA,NA
+mill creek,2022-04-26T00:00:00Z,chinook salmon,70,P,2.3,1,NA,NA
+mill creek,2022-04-26T00:00:00Z,chinook salmon,22,SP,3.6,1,NA,NA
+mill creek,2022-04-26T00:00:00Z,chinook salmon,65,P,2.9,1,NA,NA
+mill creek,2022-04-26T00:00:00Z,HRDHE,57,NA,NA,1,NA,NA
+mill creek,2022-04-26T00:00:00Z,HRDHE,60,NA,NA,1,NA,NA
+mill creek,2022-04-26T00:00:00Z,HRDHE,132,NA,NA,1,NA,NA
+mill creek,2022-04-26T00:00:00Z,AMM,102,NA,NA,1,NA,NA
+mill creek,2022-04-26T00:00:00Z,SACPIK,90,NA,NA,1,NA,NA
+mill creek,2022-04-27T00:00:00Z,chinook salmon,60,SP,NA,1,1,NA
+mill creek,2022-04-27T00:00:00Z,chinook salmon,57,SP,2,1,NA,NA
+mill creek,2022-04-27T00:00:00Z,chinook salmon,90,SP,8,1,NA,NA
+mill creek,2022-04-27T00:00:00Z,chinook salmon,78,SP,6,1,NA,NA
+mill creek,2022-04-27T00:00:00Z,chinook salmon,73,SP,6,1,NA,NA
+mill creek,2022-04-27T00:00:00Z,chinook salmon,71,SP,5,1,NA,NA
+mill creek,2022-04-27T00:00:00Z,chinook salmon,76,SP,5,1,NA,NA
+mill creek,2022-04-27T00:00:00Z,chinook salmon,83,SP,5,1,NA,NA
+mill creek,2022-04-27T00:00:00Z,OMYKISS,224,S,107,1,NA,NA
+mill creek,2022-04-27T00:00:00Z,LMP,111,NA,NA,1,NA,NA
+mill creek,2022-04-27T00:00:00Z,LMP,106,NA,NA,1,NA,NA
+mill creek,2022-04-27T00:00:00Z,LMP,108,NA,NA,1,NA,NA
+mill creek,2022-04-27T00:00:00Z,LMP,122,NA,NA,1,NA,NA
+mill creek,2022-04-27T00:00:00Z,HRDHE,NA,NA,NA,25,NA,NA
+mill creek,2022-04-27T00:00:00Z,PRIKSCUL,NA,NA,NA,2,NA,NA
+mill creek,2022-04-27T00:00:00Z,PKM,NA,NA,NA,6,NA,NA
+mill creek,2022-04-29T00:00:00Z,chinook salmon,84,P,NA,1,NA,NA
+mill creek,2022-04-29T00:00:00Z,chinook salmon,72,P,NA,1,NA,NA
+mill creek,2022-04-29T00:00:00Z,chinook salmon,71,F,NA,1,NA,NA
+mill creek,2022-04-29T00:00:00Z,chinook salmon,66,F,NA,1,NA,NA
+mill creek,2022-04-29T00:00:00Z,chinook salmon,66,F,NA,1,NA,NA
+mill creek,2022-04-29T00:00:00Z,chinook salmon,64,F,NA,1,NA,NA
+mill creek,2022-04-29T00:00:00Z,chinook salmon,70,F,NA,1,NA,NA
+mill creek,2022-04-29T00:00:00Z,chinook salmon,66,F,NA,1,NA,NA
+mill creek,2022-04-29T00:00:00Z,chinook salmon,44,F,NA,1,NA,NA
+mill creek,2022-04-29T00:00:00Z,chinook salmon,60,F,NA,1,NA,NA
+mill creek,2022-04-29T00:00:00Z,chinook salmon,NA,NA,NA,7,NA,NA
+mill creek,2022-04-29T00:00:00Z,HRDHE,125,NA,NA,1,NA,NA
+mill creek,2022-04-29T00:00:00Z,HRDHE,72,NA,NA,1,NA,NA
+mill creek,2022-04-29T00:00:00Z,HRDHE,41,NA,NA,1,NA,NA
+mill creek,2022-04-29T00:00:00Z,HRDHE,55,NA,NA,1,NA,NA
+mill creek,2022-04-29T00:00:00Z,HRDHE,51,NA,NA,1,NA,NA
+mill creek,2022-04-29T00:00:00Z,HRDHE,40,NA,NA,1,NA,NA
+mill creek,2022-04-29T00:00:00Z,HRDHE,62,NA,NA,1,NA,NA
+mill creek,2022-04-29T00:00:00Z,HRDHE,72,NA,NA,1,NA,NA
+mill creek,2022-04-29T00:00:00Z,RIFSCU,82,NA,NA,1,NA,NA
+mill creek,2022-04-29T00:00:00Z,PACLAM,120,NA,NA,1,NA,NA
+mill creek,2022-04-29T00:00:00Z,PACLAM,100,NA,NA,1,NA,NA
+mill creek,2022-05-03T00:00:00Z,chinook salmon,84,SP,7.4,1,NA,NA
+mill creek,2022-05-03T00:00:00Z,chinook salmon,72,SP,NA,1,NA,NA
+mill creek,2022-05-03T00:00:00Z,chinook salmon,87,SP,8,1,NA,NA
+mill creek,2022-05-03T00:00:00Z,chinook salmon,72,P,4.3,1,NA,NA
+mill creek,2022-05-03T00:00:00Z,chinook salmon,64,P,3.2,1,NA,NA
+mill creek,2022-05-03T00:00:00Z,chinook salmon,64,P,NA,1,NA,NA
+mill creek,2022-05-03T00:00:00Z,chinook salmon,64,P,NA,1,NA,NA
+mill creek,2022-05-03T00:00:00Z,chinook salmon,67,P,NA,1,NA,NA
+mill creek,2022-05-03T00:00:00Z,chinook salmon,70,P,NA,1,NA,NA
+mill creek,2022-05-03T00:00:00Z,chinook salmon,73,SP,NA,1,NA,NA
+mill creek,2022-05-03T00:00:00Z,chinook salmon,58,P,NA,1,NA,NA
+mill creek,2022-05-03T00:00:00Z,chinook salmon,59,P,NA,1,NA,NA
+mill creek,2022-05-03T00:00:00Z,chinook salmon,73,SP,NA,1,NA,NA
+mill creek,2022-05-03T00:00:00Z,chinook salmon,NA,NA,NA,7,NA,TRUE
+mill creek,2022-05-03T00:00:00Z,RSUIP,72,NA,NA,1,NA,NA
+mill creek,2022-05-03T00:00:00Z,RSUIP,69,NA,NA,1,NA,NA
+mill creek,2022-05-03T00:00:00Z,RSUIP,69,NA,NA,1,NA,NA
+mill creek,2022-05-03T00:00:00Z,RSUIP,68,NA,NA,1,NA,NA
+mill creek,2022-05-03T00:00:00Z,PACLAM,102,NA,NA,1,NA,NA
+mill creek,2022-05-03T00:00:00Z,PACLAM,89,NA,NA,1,NA,NA
+mill creek,2022-05-03T00:00:00Z,PACLAM,111,NA,NA,1,NA,NA
+mill creek,2022-05-03T00:00:00Z,PACLAM,112,NA,NA,1,NA,NA
+mill creek,2022-05-03T00:00:00Z,PACLAM,102,NA,NA,1,NA,NA
+mill creek,2022-05-04T00:00:00Z,chinook salmon,64,SP,3,1,NA,NA
+mill creek,2022-05-04T00:00:00Z,chinook salmon,52,F,2,1,NA,NA
+mill creek,2022-05-04T00:00:00Z,chinook salmon,78,SP,8,1,NA,NA
+mill creek,2022-05-04T00:00:00Z,chinook salmon,76,SP,4,1,NA,NA
+mill creek,2022-05-04T00:00:00Z,chinook salmon,83,SP,6,1,NA,NA
+mill creek,2022-05-04T00:00:00Z,chinook salmon,80,SP,5,1,NA,NA
+mill creek,2022-05-04T00:00:00Z,chinook salmon,74,SP,4,1,NA,NA
+mill creek,2022-05-04T00:00:00Z,chinook salmon,66,SP,3,1,NA,NA
+mill creek,2022-05-04T00:00:00Z,chinook salmon,54,P,3,1,NA,NA
+mill creek,2022-05-04T00:00:00Z,chinook salmon,76,SP,5,1,NA,NA
+mill creek,2022-05-04T00:00:00Z,chinook salmon,NA,NA,NA,24,NA,NA
+mill creek,2022-05-04T00:00:00Z,RAITRO,183,S,58,1,NA,NA
+mill creek,2022-05-04T00:00:00Z,AMM,91,NA,NA,1,NA,NA
+mill creek,2022-05-04T00:00:00Z,AMM,93,NA,NA,1,NA,NA
+mill creek,2022-05-04T00:00:00Z,AMM,111,NA,NA,1,NA,NA
+mill creek,2022-05-04T00:00:00Z,SACPIK,128,NA,NA,1,NA,NA
+mill creek,2022-05-04T00:00:00Z,SACPIK,40,NA,NA,1,NA,NA
+mill creek,2022-05-04T00:00:00Z,HARDHE,69,NA,NA,1,NA,NA
+mill creek,2022-05-04T00:00:00Z,HARDHE,64,NA,NA,1,NA,NA
+mill creek,2022-05-04T00:00:00Z,HARDHE,79,NA,NA,1,NA,NA
+mill creek,2022-05-04T00:00:00Z,HARDHE,54,NA,NA,1,NA,NA
+mill creek,2022-05-04T00:00:00Z,HARDHE,64,NA,NA,1,NA,NA
+mill creek,2022-05-04T00:00:00Z,RISCU,67,NA,NA,1,NA,NA
+mill creek,2022-05-05T00:00:00Z,chinook salmon,62,SP,3,1,NA,NA
+mill creek,2022-05-05T00:00:00Z,chinook salmon,44,P,2,1,NA,NA
+mill creek,2022-05-05T00:00:00Z,chinook salmon,76,SP,7,1,NA,NA
+mill creek,2022-05-05T00:00:00Z,chinook salmon,72,SP,4,1,NA,NA
+mill creek,2022-05-05T00:00:00Z,chinook salmon,71,SP,5,1,NA,NA
+mill creek,2022-05-05T00:00:00Z,chinook salmon,49,P,2,1,NA,NA
+mill creek,2022-05-05T00:00:00Z,chinook salmon,69,SP,5,1,NA,NA
+mill creek,2022-05-05T00:00:00Z,chinook salmon,55,SP,2,1,NA,NA
+mill creek,2022-05-05T00:00:00Z,chinook salmon,62,SP,2,1,NA,NA
+mill creek,2022-05-05T00:00:00Z,chinook salmon,44,P,2,1,NA,NA
+mill creek,2022-05-05T00:00:00Z,chinook salmon,NA,NA,NA,2,NA,NA
+mill creek,2022-05-05T00:00:00Z,RAITRO,24,F,NA,1,NA,TRUE
+mill creek,2022-05-05T00:00:00Z,AMM,110,NA,NA,1,NA,NA
+mill creek,2022-05-05T00:00:00Z,RIFSCU,66,NA,NA,1,NA,NA
+mill creek,2022-05-05T00:00:00Z,HRDHE,55,NA,NA,1,NA,NA
+mill creek,2022-05-05T00:00:00Z,HRDHE,55,NA,NA,1,NA,NA
+mill creek,2022-05-05T00:00:00Z,HRDHE,44,NA,NA,1,NA,NA
+mill creek,2022-05-05T00:00:00Z,HRDHE,45,NA,NA,1,NA,NA
+mill creek,2022-05-05T00:00:00Z,HRDHE,58,NA,NA,1,NA,NA
+mill creek,2022-05-05T00:00:00Z,HRDHE,52,NA,NA,1,NA,NA
+mill creek,2022-05-05T00:00:00Z,HRDHE,38,NA,NA,1,NA,NA
+mill creek,2022-05-05T00:00:00Z,CAROA,44,NA,NA,1,NA,NA
+mill creek,2022-05-05T00:00:00Z,CAROA,48,NA,NA,1,NA,NA
+mill creek,2022-05-06T00:00:00Z,chinook salmon,78,SP,NA,1,NA,NA
+mill creek,2022-05-06T00:00:00Z,chinook salmon,78,SP,NA,1,NA,NA
+mill creek,2022-05-06T00:00:00Z,chinook salmon,69,SP,NA,1,NA,NA
+mill creek,2022-05-06T00:00:00Z,chinook salmon,92,SP,NA,1,NA,NA
+mill creek,2022-05-06T00:00:00Z,chinook salmon,69,SP,NA,1,NA,NA
+mill creek,2022-05-06T00:00:00Z,chinook salmon,65,SP,NA,1,NA,NA
+mill creek,2022-05-06T00:00:00Z,RAITRO,24,F,NA,1,NA,NA
+mill creek,2022-05-06T00:00:00Z,HARDHE,46,NA,NA,1,NA,NA
+mill creek,2022-05-06T00:00:00Z,HARDHE,59,NA,NA,1,NA,NA
+mill creek,2022-05-06T00:00:00Z,HARDHE,44,NA,NA,1,NA,NA
+mill creek,2022-05-06T00:00:00Z,HARDHE,74,NA,NA,1,NA,NA
+mill creek,2022-05-06T00:00:00Z,RIFSCU,69,NA,NA,1,NA,NA
+mill creek,2022-05-06T00:00:00Z,RIFSCU,72,NA,NA,1,NA,NA
+mill creek,2022-05-06T00:00:00Z,RIFSCU,64,NA,NA,1,NA,NA
+mill creek,2022-05-06T00:00:00Z,RIFSCU,68,NA,NA,1,NA,NA
+mill creek,2022-05-06T00:00:00Z,PACLAM,120,NA,NA,1,NA,NA
+mill creek,2022-05-06T00:00:00Z,PACLAM,10,NA,NA,1,NA,NA
+mill creek,2022-05-06T00:00:00Z,PACLAM,108,NA,NA,1,NA,NA
+mill creek,2022-05-10T00:00:00Z,chinook salmon,84,Sp,7,1,NA,NA
+mill creek,2022-05-10T00:00:00Z,chinook salmon,83,SP,7,1,NA,NA
+mill creek,2022-05-10T00:00:00Z,chinook salmon,72,SP,5,1,NA,NA
+mill creek,2022-05-10T00:00:00Z,chinook salmon,81,SP,7,1,NA,NA
+mill creek,2022-05-10T00:00:00Z,chinook salmon,79,SP,5,1,NA,NA
+mill creek,2022-05-10T00:00:00Z,chinook salmon,75,SP,10,1,NA,NA
+mill creek,2022-05-10T00:00:00Z,chinook salmon,85,SP,8,1,NA,NA
+mill creek,2022-05-10T00:00:00Z,chinook salmon,81,SP,6,1,NA,NA
+mill creek,2022-05-10T00:00:00Z,chinook salmon,87,SP,7,1,NA,NA
+mill creek,2022-05-10T00:00:00Z,chinook salmon,80,SP,6,1,NA,NA
+mill creek,2022-05-10T00:00:00Z,chinook salmon,NA,NA,NA,15,NA,NA
+mill creek,2022-05-10T00:00:00Z,RAITRO,243,S,149,1,NA,NA
+mill creek,2022-05-10T00:00:00Z,RAITRO,215,S,121,1,NA,NA
+mill creek,2022-05-10T00:00:00Z,RIFSCU,56,NA,NA,1,NA,NA
+mill creek,2022-02-17T00:00:00Z,chinook salmon,32,SF,NA,1,NA,FALSE
+mill creek,2022-02-17T00:00:00Z,chinook salmon,32,SF,NA,1,NA,FALSE
+mill creek,2022-02-17T00:00:00Z,chinook salmon,33,F,NA,1,NA,FALSE
+mill creek,2022-02-17T00:00:00Z,chinook salmon,32,SF,NA,1,NA,FALSE
+mill creek,2022-02-17T00:00:00Z,chinook salmon,33,F,NA,1,NA,FALSE
+mill creek,2022-02-17T00:00:00Z,chinook salmon,37,F,NA,1,NA,FALSE
+mill creek,2022-02-17T00:00:00Z,chinook salmon,36,F,NA,1,NA,FALSE
+mill creek,2022-02-17T00:00:00Z,chinook salmon,35,SF,NA,1,NA,FALSE
+mill creek,2022-02-17T00:00:00Z,chinook salmon,31,SF,NA,1,NA,FALSE
+mill creek,2022-02-17T00:00:00Z,chinook salmon,34,SF,NA,1,NA,FALSE
+mill creek,2022-02-17T00:00:00Z,chinook salmon,NA,NA,NA,11,2,TRUE
+mill creek,2022-02-16T00:00:00Z,chinook salmon,39,F,NA,1,NA,FALSE
+mill creek,2022-02-16T00:00:00Z,chinook salmon,36,F,NA,1,NA,FALSE
+mill creek,2022-02-16T00:00:00Z,chinook salmon,29,F,NA,1,NA,FALSE
+mill creek,2022-02-16T00:00:00Z,chinook salmon,35,F,NA,1,NA,FALSE
+mill creek,2022-02-16T00:00:00Z,chinook salmon,37,F,NA,1,NA,FALSE
+mill creek,2022-02-16T00:00:00Z,chinook salmon,37,F,NA,1,NA,FALSE
+mill creek,2022-02-16T00:00:00Z,chinook salmon,38,F,NA,1,NA,FALSE
+mill creek,2022-02-16T00:00:00Z,chinook salmon,37,F,NA,1,NA,FALSE
+mill creek,2022-02-16T00:00:00Z,chinook salmon,36,F,NA,1,NA,FALSE
+mill creek,2022-02-16T00:00:00Z,chinook salmon,NA,NA,NA,27,NA,TRUE
+mill creek,2022-02-15T00:00:00Z,chinook salmon,38,F,NA,1,NA,FALSE
+mill creek,2022-02-15T00:00:00Z,chinook salmon,34,SF,NA,1,NA,FALSE
+mill creek,2022-02-15T00:00:00Z,chinook salmon,36,SF,NA,1,NA,FALSE
+mill creek,2022-02-15T00:00:00Z,chinook salmon,34,SF,NA,1,NA,FALSE
+mill creek,2022-02-15T00:00:00Z,chinook salmon,105,SP,NA,1,NA,FALSE
+mill creek,2022-02-15T00:00:00Z,chinook salmon,35,F,NA,1,NA,FALSE
+mill creek,2022-02-15T00:00:00Z,chinook salmon,40,F,NA,1,NA,FALSE
+mill creek,2022-02-15T00:00:00Z,chinook salmon,32,F,NA,1,NA,FALSE
+mill creek,2022-02-15T00:00:00Z,chinook salmon,34,F,NA,1,NA,FALSE
+mill creek,2022-02-15T00:00:00Z,chinook salmon,36,F,NA,1,NA,FALSE
+mill creek,2022-02-15T00:00:00Z,chinook salmon,NA,NA,NA,40,NA,TRUE
+mill creek,2022-02-15T00:00:00Z,SACPIK,39,NA,NA,1,1,FALSE
+mill creek,2022-02-11T00:00:00Z,chinook salmon,37,F,NA,1,NA,FALSE
+mill creek,2022-02-11T00:00:00Z,chinook salmon,34,F,NA,1,NA,FALSE
+mill creek,2022-02-11T00:00:00Z,chinook salmon,39,F,NA,1,NA,FALSE
+mill creek,2022-02-11T00:00:00Z,chinook salmon,34,F,NA,1,NA,FALSE
+mill creek,2022-02-11T00:00:00Z,chinook salmon,36,F,NA,1,NA,FALSE
+mill creek,2022-02-11T00:00:00Z,chinook salmon,33,F,NA,1,NA,FALSE
+mill creek,2022-02-11T00:00:00Z,chinook salmon,39,F,NA,1,NA,FALSE
+mill creek,2022-02-11T00:00:00Z,chinook salmon,37,F,NA,1,NA,FALSE
+mill creek,2022-02-11T00:00:00Z,chinook salmon,34,F,NA,1,NA,FALSE
+mill creek,2022-02-11T00:00:00Z,chinook salmon,36,F,NA,1,NA,FALSE
+mill creek,2022-02-11T00:00:00Z,chinook salmon,NA,NA,NA,2,NA,TRUE
+mill creek,2022-02-11T00:00:00Z,PKMN,208,NA,NA,1,NA,FALSE
+mill creek,2022-02-11T00:00:00Z,PKMN,95,NA,NA,1,NA,FALSE
+mill creek,2022-02-10T00:00:00Z,chinook salmon,36,F,0.1,1,NA,FALSE
+mill creek,2022-02-10T00:00:00Z,chinook salmon,38,F,0.1,1,NA,FALSE
+mill creek,2022-02-10T00:00:00Z,chinook salmon,37,F,0.2,1,NA,FALSE
+mill creek,2022-02-10T00:00:00Z,chinook salmon,35,F,0.1,1,NA,FALSE
+mill creek,2022-02-10T00:00:00Z,chinook salmon,35,F,0.1,1,NA,FALSE
+mill creek,2022-02-10T00:00:00Z,chinook salmon,38,F,0.2,1,NA,FALSE
+mill creek,2022-02-10T00:00:00Z,chinook salmon,37,F,0.1,1,NA,FALSE
+mill creek,2022-02-10T00:00:00Z,chinook salmon,38,F,0.2,1,NA,FALSE
+mill creek,2022-02-10T00:00:00Z,chinook salmon,36,F,0.1,1,NA,FALSE
+mill creek,2022-02-10T00:00:00Z,chinook salmon,37,F,0.1,1,NA,FALSE
+mill creek,2022-02-10T00:00:00Z,chinook salmon,NA,NA,NA,39,NA,TRUE
+mill creek,2022-02-10T00:00:00Z,LAMSPP,140,NA,NA,1,NA,FALSE
+mill creek,2022-02-10T00:00:00Z,SACPIK,57,NA,NA,1,NA,FALSE
+mill creek,2022-02-09T00:00:00Z,chinook salmon,34,F,0.2,1,NA,FALSE
+mill creek,2022-02-09T00:00:00Z,chinook salmon,35,F,0.2,1,NA,FALSE
+mill creek,2022-02-09T00:00:00Z,chinook salmon,36,F,0.3,1,NA,FALSE
+mill creek,2022-02-09T00:00:00Z,chinook salmon,37,F,0.2,1,NA,FALSE
+mill creek,2022-02-09T00:00:00Z,chinook salmon,28,SF,0.2,1,NA,FALSE
+mill creek,2022-02-09T00:00:00Z,chinook salmon,34,F,0.2,1,NA,FALSE
+mill creek,2022-02-09T00:00:00Z,chinook salmon,37,F,0.2,1,NA,FALSE
+mill creek,2022-02-09T00:00:00Z,chinook salmon,34,F,0.2,1,NA,FALSE
+mill creek,2022-02-09T00:00:00Z,chinook salmon,38,F,0.2,1,NA,FALSE
+mill creek,2022-02-09T00:00:00Z,chinook salmon,35,F,0.2,1,NA,FALSE
+mill creek,2022-02-09T00:00:00Z,chinook salmon,NA,NA,NA,3,NA,TRUE
+mill creek,2022-02-09T00:00:00Z,HARDHE,52,NA,NA,1,NA,FALSE
+mill creek,2022-02-09T00:00:00Z,SACPIK,43,NA,NA,1,NA,FALSE
+mill creek,2022-02-09T00:00:00Z,HARDHE,46,NA,NA,1,NA,FALSE
+mill creek,2022-02-09T00:00:00Z,HARDHE,54,NA,NA,1,NA,FALSE
+mill creek,2022-02-09T00:00:00Z,SACPIK,49,NA,NA,1,NA,FALSE
+mill creek,2022-02-08T00:00:00Z,chinook salmon,38,F,0.1,1,NA,FALSE
+mill creek,2022-02-08T00:00:00Z,chinook salmon,36,F,0.2,1,NA,FALSE
+mill creek,2022-02-08T00:00:00Z,chinook salmon,35,F,0.2,1,NA,FALSE
+mill creek,2022-02-08T00:00:00Z,chinook salmon,37,F,0.2,1,NA,FALSE
+mill creek,2022-02-08T00:00:00Z,chinook salmon,39,F,0.2,1,NA,FALSE
+mill creek,2022-02-08T00:00:00Z,chinook salmon,37,F,0.2,1,NA,FALSE
+mill creek,2022-02-08T00:00:00Z,chinook salmon,38,F,0.1,1,NA,FALSE
+mill creek,2022-02-08T00:00:00Z,chinook salmon,38,F,0.2,1,NA,FALSE
+mill creek,2022-02-08T00:00:00Z,chinook salmon,36,F,0.2,1,NA,FALSE
+mill creek,2022-02-08T00:00:00Z,chinook salmon,35,F,0.2,1,NA,FALSE
+mill creek,2022-02-08T00:00:00Z,chinook salmon,NA,NA,NA,7,NA,TRUE
+mill creek,2022-02-08T00:00:00Z,LAMPSPP,125,NA,NA,1,NA,FALSE
+mill creek,2022-02-04T00:00:00Z,chinook salmon,38,F,0.3,1,NA,FALSE
+mill creek,2022-02-04T00:00:00Z,chinook salmon,34,F,0.2,1,NA,FALSE
+mill creek,2022-02-04T00:00:00Z,chinook salmon,37,F,0.2,1,NA,FALSE
+mill creek,2022-02-04T00:00:00Z,chinook salmon,35,F,0.8,1,NA,FALSE
+mill creek,2022-02-04T00:00:00Z,PACLAM,125,NA,NA,1,NA,FALSE
+mill creek,2022-02-03T00:00:00Z,chinook salmon,36,F,0.1,1,NA,FALSE
+mill creek,2022-02-03T00:00:00Z,chinook salmon,34,F,0.1,1,NA,FALSE
+mill creek,2022-02-03T00:00:00Z,chinook salmon,36,F,0.3,1,NA,FALSE
+mill creek,2022-02-03T00:00:00Z,chinook salmon,32,F,0.2,1,NA,FALSE
+mill creek,2022-02-02T00:00:00Z,chinook salmon,34,F,NA,1,NA,FALSE
+mill creek,2022-02-02T00:00:00Z,PACLAM,105,NA,NA,1,NA,FALSE
+mill creek,2022-02-01T00:00:00Z,chinook salmon,35,F,0.4,1,NA,FALSE
+mill creek,2022-02-01T00:00:00Z,chinook salmon,36,F,0.2,1,NA,FALSE
+mill creek,2022-02-01T00:00:00Z,chinook salmon,36,F,0.2,1,NA,FALSE
+mill creek,2022-02-01T00:00:00Z,chinook salmon,37,F,0.2,1,NA,FALSE
+mill creek,2022-02-01T00:00:00Z,chinook salmon,36,F,0.1,1,NA,FALSE
+mill creek,2022-02-01T00:00:00Z,PACLAM,143,NA,NA,1,NA,FALSE
+mill creek,2022-02-01T00:00:00Z,HIRHE,103,NA,NA,1,NA,FALSE
+mill creek,2022-01-28T00:00:00Z,chinook salmon,33,F,0.6,1,NA,FALSE
+mill creek,2022-01-28T00:00:00Z,chinook salmon,34,F,1.1,1,NA,FALSE
+mill creek,2022-01-28T00:00:00Z,chinook salmon,36,F,0.1,1,NA,FALSE
+mill creek,2022-01-28T00:00:00Z,chinook salmon,31,F,NA,1,NA,FALSE
+mill creek,2022-01-28T00:00:00Z,PACLAM,108,NA,NA,1,NA,FALSE
+mill creek,2022-01-28T00:00:00Z,PACLAM,109,NA,NA,1,NA,FALSE
+mill creek,2022-01-28T00:00:00Z,PACLAM,115,NA,NA,1,NA,FALSE
+mill creek,2022-01-28T00:00:00Z,CALR,66,NA,NA,1,NA,FALSE
+mill creek,2022-01-28T00:00:00Z,CALR,48,NA,NA,1,NA,FALSE
+mill creek,2022-01-28T00:00:00Z,CALR,59,NA,NA,1,NA,FALSE
+mill creek,2022-01-28T00:00:00Z,CALR,48,NA,NA,1,NA,FALSE
+mill creek,2022-01-27T00:00:00Z,chinook salmon,30,F,0.2,1,NA,FALSE
+mill creek,2022-01-27T00:00:00Z,chinook salmon,32,F,0.1,1,NA,FALSE
+mill creek,2022-01-27T00:00:00Z,chinook salmon,36,F,0.2,1,NA,FALSE
+mill creek,2022-01-27T00:00:00Z,chinook salmon,36,F,0.1,1,NA,FALSE
+mill creek,2022-01-27T00:00:00Z,SACPIK,40,NA,NA,1,NA,FALSE
+mill creek,2022-01-27T00:00:00Z,SACPIK,55,NA,NA,1,NA,FALSE
+mill creek,2022-01-27T00:00:00Z,LAMPSPP,130,NA,NA,1,NA,FALSE
+mill creek,2022-01-27T00:00:00Z,LAMPSPP,70,NA,NA,1,NA,FALSE
+mill creek,2022-01-26T00:00:00Z,chinook salmon,36,F,0.1,1,NA,FALSE
+mill creek,2022-01-26T00:00:00Z,chinook salmon,35,F,0.1,1,NA,FALSE
+mill creek,2022-01-26T00:00:00Z,chinook salmon,37,F,0.1,1,NA,FALSE
+mill creek,2022-01-26T00:00:00Z,chinook salmon,30,F,0.1,1,NA,FALSE
+mill creek,2022-01-26T00:00:00Z,LAMPSPP,125,NA,NA,1,NA,FALSE
+mill creek,2022-01-25T00:00:00Z,chinook salmon,37,2,0.5,1,NA,FALSE
+mill creek,2022-01-25T00:00:00Z,chinook salmon,36,2,0.2,1,NA,FALSE
+mill creek,2022-01-25T00:00:00Z,chinook salmon,35,2,0.3,1,NA,FALSE
+mill creek,2022-01-25T00:00:00Z,chinook salmon,36,2,0.1,1,NA,FALSE
+mill creek,2022-01-25T00:00:00Z,chinook salmon,35,2,0.3,1,NA,FALSE
+mill creek,2022-01-25T00:00:00Z,chinook salmon,37,2,0.2,1,NA,FALSE
+mill creek,2022-01-25T00:00:00Z,chinook salmon,36,2,0.2,1,NA,FALSE
+mill creek,2022-01-25T00:00:00Z,chinook salmon,37,2,0.3,1,NA,FALSE
+mill creek,2022-01-25T00:00:00Z,chinook salmon,38,2,0.3,1,NA,FALSE
+mill creek,2022-01-25T00:00:00Z,chinook salmon,15,1,0.1,1,NA,FALSE
+mill creek,2022-01-25T00:00:00Z,chinook salmon,NA,NA,NA,10,NA,TRUE
+mill creek,2022-01-25T00:00:00Z,HARDHE,52,NA,NA,1,NA,FALSE
+mill creek,2022-01-21T00:00:00Z,chinook salmon,34,F,0.2,1,NA,FALSE
+mill creek,2022-01-21T00:00:00Z,chinook salmon,37,F,0.3,1,NA,FALSE
+mill creek,2022-01-21T00:00:00Z,chinook salmon,34,F,0.2,1,NA,FALSE
+mill creek,2022-01-21T00:00:00Z,chinook salmon,34,F,0.2,1,NA,FALSE
+mill creek,2022-01-21T00:00:00Z,chinook salmon,112,SP,7.3,1,NA,FALSE
+mill creek,2022-01-21T00:00:00Z,PACLAM,130,NA,NA,1,NA,FALSE
+mill creek,2022-01-21T00:00:00Z,PACLAM,115,NA,NA,1,NA,FALSE
+mill creek,2022-01-21T00:00:00Z,HHE,62,NA,NA,1,NA,FALSE
+mill creek,2022-01-20T00:00:00Z,chinook salmon,91,P,NA,1,NA,FALSE
+mill creek,2022-01-20T00:00:00Z,LAMPSPP,120,NA,NA,1,NA,FALSE
+mill creek,2022-01-20T00:00:00Z,SACPIK,48,NA,NA,1,NA,FALSE
+mill creek,2022-01-19T00:00:00Z,chinook salmon,35,F,NA,1,NA,FALSE
+mill creek,2022-01-14T00:00:00Z,PACLAM,107,NA,NA,1,NA,FALSE
+mill creek,2022-01-14T00:00:00Z,PACLAM,88,NA,NA,1,NA,FALSE
+mill creek,2022-01-13T00:00:00Z,chinook salmon,94,SP,NA,1,NA,FALSE
+mill creek,2022-01-13T00:00:00Z,LPAM,100,NA,NA,1,NA,FALSE
+mill creek,2022-01-12T00:00:00Z,PACLAM,185,NA,NA,1,NA,FALSE
+mill creek,2022-01-12T00:00:00Z,PACLAM,103,NA,NA,1,NA,FALSE
+mill creek,2022-01-12T00:00:00Z,HARDHE,87,NA,NA,1,NA,FALSE
+mill creek,2022-01-12T00:00:00Z,HARDHE,225,NA,NA,1,NA,FALSE
+mill creek,2022-01-11T00:00:00Z,SACPIK,52,NA,NA,1,NA,FALSE
+mill creek,2022-01-07T00:00:00Z,chinook salmon,97,4,NA,1,NA,FALSE
+mill creek,2022-01-07T00:00:00Z,chinook salmon,102,4,NA,1,NA,FALSE
+mill creek,2022-01-07T00:00:00Z,LAMPSPP,NA,NA,NA,6,NA,TRUE
+mill creek,2022-01-07T00:00:00Z,PMW,NA,NA,NA,1,NA,TRUE
+mill creek,2022-01-06T00:00:00Z,LAMPSPP,113,NA,NA,1,NA,FALSE
+mill creek,2022-01-06T00:00:00Z,LAMPSPP,117,NA,NA,1,NA,FALSE
+mill creek,2022-01-06T00:00:00Z,LAMPSPP,94,NA,NA,1,NA,FALSE
+mill creek,2022-01-06T00:00:00Z,LAMPSPP,65,NA,NA,1,NA,FALSE
+mill creek,2022-01-05T00:00:00Z,chinook salmon,103,SP,8.9,1,NA,FALSE
+mill creek,2022-01-05T00:00:00Z,chinook salmon,91,SP,5.4,1,NA,FALSE
+mill creek,2022-01-05T00:00:00Z,SH,147,SP,16.1,1,NA,FALSE
+mill creek,2022-01-05T00:00:00Z,LPAM,113,NA,NA,1,NA,FALSE
+mill creek,2022-01-05T00:00:00Z,LPAM,106,NA,NA,1,NA,FALSE
+mill creek,2022-01-05T00:00:00Z,LPAM,115,NA,NA,1,NA,FALSE
+mill creek,2022-01-05T00:00:00Z,LPAM,108,NA,NA,1,NA,FALSE
+mill creek,2022-01-05T00:00:00Z,LPAM,100,NA,NA,1,NA,FALSE
+mill creek,2022-01-05T00:00:00Z,LPAM,115,NA,NA,1,NA,FALSE
+mill creek,2022-01-05T00:00:00Z,LPAM,95,NA,NA,1,NA,FALSE
+mill creek,2022-01-05T00:00:00Z,LPAM,94,NA,NA,1,NA,FALSE
+mill creek,2022-01-05T00:00:00Z,LPAM,80,NA,NA,1,NA,FALSE
+mill creek,2022-01-05T00:00:00Z,LPAM,80,NA,NA,1,NA,FALSE
+mill creek,2022-01-05T00:00:00Z,LPAM,94,NA,NA,1,NA,FALSE
+mill creek,2022-01-05T00:00:00Z,LPAM,NA,NA,NA,1,NA,TRUE
+mill creek,2021-12-08T00:00:00Z,ammeocoete,NA,NA,NA,3,NA,TRUE
+mill creek,2021-12-09T00:00:00Z,ammeocoete,NA,NA,NA,1,NA,TRUE
+mill creek,2021-12-28T00:00:00Z,OMYKISS,89,3,NA,1,NA,FALSE
+mill creek,2021-12-28T00:00:00Z,HARDHE,NA,NA,NA,1,NA,TRUE
+mill creek,2021-12-28T00:00:00Z,ammeocoete,NA,NA,NA,8,NA,TRUE
+mill creek,2021-12-28T00:00:00Z,PACLAM,NA,NA,NA,1,NA,TRUE
+mill creek,2021-12-29T00:00:00Z,ammeocoete,NA,NA,NA,12,1,TRUE
+mill creek,2021-12-29T00:00:00Z,HARDHE,NA,NA,NA,2,NA,TRUE
+mill creek,2021-12-30T00:00:00Z,OMYKISS,242,5,151.17,1,NA,FALSE
+mill creek,2021-12-30T00:00:00Z,chinook salmon,100,NA,NA,1,NA,FALSE
+mill creek,2021-12-30T00:00:00Z,chinook salmon,117,NA,NA,1,NA,FALSE
+mill creek,2021-12-30T00:00:00Z,chinook salmon,94,NA,NA,1,NA,FALSE
+mill creek,2021-12-30T00:00:00Z,PMW,NA,NA,NA,5,NA,TRUE
+mill creek,2021-12-30T00:00:00Z,ammeocoete,NA,NA,NA,7,NA,TRUE
+mill creek,2021-12-31T00:00:00Z,OMYKISS,218,4,NA,1,NA,FALSE
+mill creek,2021-12-31T00:00:00Z,OMYKISS,217,4,NA,1,NA,FALSE
+mill creek,2021-12-31T00:00:00Z,chinook salmon,106,NA,NA,1,NA,FALSE
+mill creek,2021-12-31T00:00:00Z,chinook salmon,108,NA,NA,1,NA,FALSE
+mill creek,2021-12-31T00:00:00Z,chinook salmon,97,NA,NA,1,NA,FALSE
+mill creek,2021-12-31T00:00:00Z,LAMPSPP,NA,NA,NA,12,NA,TRUE
+mill creek,2021-12-31T00:00:00Z,HARDHE,NA,NA,NA,2,NA,TRUE
+mill creek,2021-12-31T00:00:00Z,cal roach,NA,NA,NA,1,NA,TRUE
+mill creek,2022-01-04T00:00:00Z,chinook salmon,104,NA,NA,1,NA,FALSE
+mill creek,2022-01-04T00:00:00Z,chinook salmon,94,NA,NA,1,NA,FALSE
+mill creek,2022-01-04T00:00:00Z,chinook salmon,98,NA,NA,1,NA,FALSE
+mill creek,2022-01-04T00:00:00Z,ammeocoete,NA,NA,NA,1,NA,TRUE

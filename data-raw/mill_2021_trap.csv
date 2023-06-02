@@ -1,0 +1,97 @@
+stream,trap_location,date,time,hours_fished,debris_code,debris_gal,water_temp,weather_code,flow_cfs,turbidity_ntu,total_revs,before_rpms,after_rpms,comments
+mill creek,upper mill creek,2022-05-10T00:00:00Z,1899-12-31T15:30:00Z,NA,NA,NA,9.6,NA,231,NA,NA,NA,NA,water flow CFS from CDEC MLM
+mill creek,upper mill creek,2022-04-25T00:00:00Z,1899-12-31T13:56:00Z,NA,NA,NA,12.7,NA,323,NA,NA,6.5,NA,water flow CFS from CDEC MLM
+mill creek,upper mill creek,2022-04-15T00:00:00Z,1899-12-31T13:56:00Z,NA,NA,NA,9.4,NA,238,NA,NA,NA,NA,water flow CFS from CDEC
+mill creek,upper mill creek,2022-04-14T00:00:00Z,1899-12-31T10:45:00Z,NA,NA,1,8.5,3,187,NA,NA,5,5,no weights because of wind. Water flow CFS and temp from CDEC MLM.
+mill creek,upper mill creek,2022-04-13T00:00:00Z,1899-12-31T09:08:00Z,NA,NA,1,8,2,180,NA,NA,4,4,temp from CDEC MLM
+mill creek,upper mill creek,2022-04-12T00:00:00Z,1899-12-31T11:40:00Z,NA,NA,NA,9,1,201,NA,NA,3,NA,water flow CFS from CDEC
+mill creek,upper mill creek,2022-04-08T00:00:00Z,1899-12-31T09:30:00Z,NA,NA,NA,14.1,NA,224,NA,6,NA,NA,Water flow CFS and temp from CDEC MLM.
+mill creek,upper mill creek,2022-04-07T00:00:00Z,1899-12-31T10:42:00Z,NA,NA,NA,12,1,217,NA,NA,4,NA,Water flow CFS and temp from CDEC MLM.
+mill creek,upper mill creek,2022-04-06T00:00:00Z,1899-12-31T12:11:00Z,NA,NA,1,12,1,210,NA,9,4.5,4.5,temp from CDEC MLM
+mill creek,upper mill creek,2022-04-05T00:00:00Z,1899-12-31T11:12:00Z,NA,NA,1,10,1,202,NA,NA,3.5,5,Water flow CFS and temp from CDEC MLM.
+mill creek,upper mill creek,2022-03-31T00:00:00Z,1899-12-31T12:24:00Z,NA,NA,0.5,11,1,237,1.5,NA,5,4.5,Temp converted to F
+mill creek,upper mill creek,2022-04-01T00:00:00Z,NA,NA,NA,NA,11,NA,228,NA,NA,NA,NA,Temp converted to F
+mill creek,upper mill creek,2022-03-30T00:00:00Z,1899-12-31T11:40:00Z,NA,NA,1,11,3,256,NA,NA,5,5,Water flow CFS and temp from CDEC MLM.
+mill creek,upper mill creek,2022-03-29T00:00:00Z,1899-12-31T14:20:00Z,NA,NA,0.25,11.4,7,248,NA,NA,6,5.5,Water flow CFS and temp from CDEC MLM.
+mill creek,upper mill creek,2022-03-25T00:00:00Z,1899-12-31T11:00:00Z,NA,NA,NA,11.1,1,323,NA,NA,6,NA,Water flow CFS from CDEC MLM. Pulled cone for weekend.
+mill creek,upper mill creek,2022-03-24T00:00:00Z,1899-12-31T14:10:00Z,NA,NA,5,11.5,1,315,5,NA,5.5,5.5,Water flow CFS and temp from CDEC MLM.
+mill creek,upper mill creek,2022-03-23T00:00:00Z,1899-12-31T11:08:00Z,NA,NA,1.5,11.5,1,380,5,NA,7,5.5,Crayfish. 2 American BF tadpoles. Turbidity is up ~5 NTU. 1 speckeled dace mort.
+mill creek,upper mill creek,2022-03-22T00:00:00Z,1899-12-31T14:33:00Z,NA,NA,2,11.5,1,262,NA,NA,4.5,NA,Water flow CFS and temp from CDEC MLM.
+mill creek,upper mill creek,2022-03-18T00:00:00Z,1899-12-31T11:37:00Z,NA,NA,1.5,9.6,1,247,NA,NA,6,NA,Pulled cone for weekend. Water flow CFS and temp from CDEC MLM.
+mill creek,upper mill creek,2022-03-17T00:00:00Z,1899-12-31T10:40:00Z,NA,NA,0.25,8,2,262,NA,5.5,5.5,6,Water flow CFS and temp from CDEC MLM.
+mill creek,upper mill creek,2022-03-16T00:00:00Z,1899-12-31T15:31:00Z,NA,NA,7.5,10,1,276,NA,NA,5.5,4.5,Banked one bullfrog tadpole. Turbidity up (1-6 NTU?)
+mill creek,upper mill creek,2022-03-15T00:00:00Z,1899-12-31T15:31:00Z,NA,NA,2,11,4,252,NA,NA,4.5,4,No weights. Slight breeze made scale inaccurate. Lengths may be total length not FL
+mill creek,upper mill creek,2022-03-11T00:00:00Z,1899-12-31T12:05:00Z,NA,NA,0,8,1,176,NA,NA,6,NA,Pulled cone/screen for weekend.
+mill creek,upper mill creek,2022-03-10T00:00:00Z,1899-12-31T09:00:00Z,NA,NA,1,8.6,1,183,NA,NA,4.5,NA,Windy - no weights. 1 MB ChiSal fry (included in plus count)
+mill creek,upper mill creek,2022-03-09T00:00:00Z,1899-12-31T12:11:00Z,NA,NA,NA,9,2,169,NA,NA,4,NA,Raitro - sample 0001 scale card
+mill creek,upper mill creek,2022-03-08T00:00:00Z,1899-12-31T15:37:00Z,NA,NA,NA,9,1,169,NA,NA,4,NA,Bat in trap - alive
+mill creek,upper mill creek,2022-03-04T00:00:00Z,1899-12-31T11:30:00Z,NA,NA,1,9.6,1,196,NA,NA,5.5,NA,Friday pulled in cone and screen
+mill creek,upper mill creek,2022-03-03T00:00:00Z,1899-12-31T10:05:00Z,NA,NA,NA,9,3,202,NA,NA,4.5,NA,Converted to degrees F
+mill creek,upper mill creek,2022-03-02T00:00:00Z,1899-12-31T12:57:00Z,NA,NA,NA,10.1,2,190,NA,10,5,5,1 tadpole - dead. Windy
+mill creek,upper mill creek,2022-03-01T00:00:00Z,1899-12-31T13:50:00Z,NA,NA,NA,NA,1,175,NA,NA,4,4,2 chinook fry mort in live well.  1 BBY fish.
+mill creek,upper mill creek,2022-02-25T00:00:00Z,1899-12-31T10:56:00Z,24,NA,1,5,1,167,NA,NA,6,NA,Pulled cone and screen for weekend.
+mill creek,upper mill creek,2022-02-24T00:00:00Z,1899-12-31T09:43:00Z,NA,NA,NA,5,1,174,NA,NA,4.5,4.5,NA
+mill creek,upper mill creek,2022-02-23T00:00:00Z,1899-12-31T13:35:00Z,NA,NA,NA,5,1,185,NA,NA,4.5,4.5,7 BBY recaps
+mill creek,upper mill creek,2022-06-01T00:00:00Z,1899-12-31T12:10:00Z,NA,not recorded,NA,17,NA,187,NA,NA,5,5,flow pulled from CECC MLM
+mill creek,upper mill creek,2022-06-02T00:00:00Z,1899-12-31T15:10:00Z,NA,not recorded,NA,19.4,NA,183,NA,NA,NA,NA,flow pulled from CECC MLM
+mill creek,upper mill creek,2022-06-03T00:00:00Z,1899-12-31T15:10:00Z,NA,not recorded,0,19.6,2,183,NA,NA,4.5,NA,pulled cone for weekend
+mill creek,upper mill creek,2022-06-07T00:00:00Z,1899-12-31T12:00:00Z,NA,not recorded,NA,17.9,2,210,NA,NA,3.5,NA,flow pulled from CECC MLM
+mill creek,upper mill creek,2022-06-17T00:00:00Z,1899-12-31T12:00:00Z,NA,not recorded,NA,18.2,NA,126,NA,NA,4,3,flow pulled from CECC MLM; pulled cone and screen
+mill creek,upper mill creek,2022-06-16T00:00:00Z,1899-12-31T12:00:00Z,NA,not recorded,NA,19.2,NA,183,NA,NA,3,3,flow pulled from CECC MLM
+mill creek,upper mill creek,2022-06-14T00:00:00Z,1899-12-31T12:45:00Z,NA,not recorded,1,18.2,1,208,NA,NA,3.5,NA,flow pulled from CECC MLM
+mill creek,upper mill creek,2022-05-25T00:00:00Z,1899-12-31T15:25:00Z,NA,not recorded,NA,19.4,2,212,NA,NA,4.5,NA,flow pulled from CECC MLM
+mill creek,upper mill creek,2022-05-26T00:00:00Z,1899-12-31T12:00:00Z,NA,not recorded,NA,19,1,221,NA,NA,NA,NA,flow pulled from CECC MLM
+mill creek,upper mill creek,2022-05-27T00:00:00Z,1899-12-31T12:00:00Z,NA,not recorded,NA,17.8,NA,217,NA,NA,NA,NA,flow pulled from CECC MLM
+mill creek,upper mill creek,2022-06-08T00:00:00Z,1899-12-31T12:00:00Z,NA,not recorded,NA,18.4,2,196,NA,NA,4,NA,flow pulled from CECC MLM
+mill creek,upper mill creek,2022-06-09T00:00:00Z,1899-12-31T10:51:00Z,NA,not recorded,NA,19.5,NA,194,NA,NA,5,5,flow pulled from CECC MLM; lots of algae debris
+mill creek,upper mill creek,2022-06-10T00:00:00Z,1899-12-31T10:55:00Z,NA,not recorded,NA,20.2,NA,192,NA,NA,5.5,NA,flow pulled from CECC MLM; pulled cone - lots of algae
+mill creek,upper mill creek,2022-05-24T00:00:00Z,1899-12-31T14:00:00Z,NA,not recorded,1,17,NA,212,NA,NA,3,NA,flow pulled from CECC MLM
+mill creek,upper mill creek,2022-05-20T00:00:00Z,1899-12-31T09:30:00Z,NA,not recorded,NA,11,NA,246,NA,NA,NA,NA,flow pulled from CECC MLM
+mill creek,upper mill creek,2022-05-19T00:00:00Z,1899-12-31T14:18:00Z,NA,not recorded,NA,17.7,1,236,NA,NA,5.5,5.5,flow pulled from CECC MLM
+mill creek,upper mill creek,2022-05-18T00:00:00Z,1899-12-31T09:30:00Z,NA,not recorded,NA,16.1,1,241,NA,NA,4.5,5.5,flow pulled from CECC MLM
+mill creek,upper mill creek,2022-05-17T00:00:00Z,1899-12-31T01:43:00Z,NA,not recorded,NA,16.7,1,205,NA,NA,5,5,flow pulled from CECC MLM
+mill creek,upper mill creek,2022-05-13T00:00:00Z,1899-12-31T11:00:00Z,NA,not recorded,NA,11.9,1,212,NA,NA,NA,NA,flow pulled from CECC MLM
+mill creek,upper mill creek,2022-05-12T00:00:00Z,1899-12-31T13:30:00Z,NA,not recorded,NA,10.8,NA,214,NA,NA,3,NA,flow pulled from CECC MLM
+mill creek,upper mill creek,2022-05-11T00:00:00Z,1899-12-31T13:15:00Z,NA,not recorded,NA,10.3,1,212,NA,NA,3,NA,flow pulled from CECC MLM
+mill creek,upper mill creek,2022-04-26T00:00:00Z,1899-12-31T12:00:00Z,NA,not recorded,NA,12,1,341,NA,NA,7,NA,flow pulled from CECC MLM
+mill creek,upper mill creek,2022-04-27T00:00:00Z,1899-12-31T09:30:00Z,NA,ALS,2.5,11.5,1,383,NA,NA,15,15,flow pulled from CECC MLM
+mill creek,upper mill creek,2022-04-29T00:00:00Z,1899-12-31T12:00:00Z,NA,not recorded,NA,12,NA,298,NA,NA,NA,NA,flow pulled from CECC MLM
+mill creek,upper mill creek,2022-05-03T00:00:00Z,1899-12-31T12:00:00Z,NA,not recorded,NA,11.1,1,266,NA,NA,5,5.5,flow pulled from CECC MLM
+mill creek,upper mill creek,2022-05-04T00:00:00Z,1899-12-31T12:00:00Z,NA,not recorded,NA,13.2,1,274,NA,NA,5,NA,flow pulled from CECC MLM
+mill creek,upper mill creek,2022-05-05T00:00:00Z,1899-12-31T14:50:00Z,NA,not recorded,NA,13,3,269,NA,NA,6,NA,flow pulled from CECC MLM
+mill creek,upper mill creek,2022-05-06T00:00:00Z,NA,NA,not recorded,NA,12,NA,248,NA,NA,6,NA,flow pulled from CECC MLM
+mill creek,upper mill creek,2022-05-10T00:00:00Z,1899-12-31T03:30:00Z,NA,not recorded,NA,9.6,NA,231,NA,NA,NA,NA,flow pulled from CECC MLM
+mill creek,upper mill creek,2022-02-17T00:00:00Z,1899-12-31T11:27:00Z,NA,NA,1,76.5,1,212,NA,NA,6,5,2 beheaded morts - chinook; convert to F
+mill creek,upper mill creek,2022-02-16T00:00:00Z,1899-12-31T01:54:00Z,NA,NA,5,79,1,223,NA,9,4.5,4.5,convert to F
+mill creek,upper mill creek,2022-02-15T00:00:00Z,1899-12-31T14:12:00Z,NA,NA,5,8,1,245,NA,NA,8.5,7.5,"Air 17C, windy - live well door needs inner metal safety bar, cone drop 11:57 on 2/14/2022"
+mill creek,upper mill creek,2022-02-11T00:00:00Z,1899-12-31T13:45:00Z,25,NA,1,9.6,1,221,NA,NA,7,0,pulled cone/screen for weekend
+mill creek,upper mill creek,2022-02-10T00:00:00Z,1899-12-31T11:11:00Z,NA,NA,NA,9,1,195,NA,NA,4,4,NA
+mill creek,upper mill creek,2022-02-09T00:00:00Z,1899-12-31T15:58:00Z,NA,NA,1,8.5,1,177,NA,NA,4.5,4.5,NA
+mill creek,upper mill creek,2022-02-08T00:00:00Z,1899-12-31T14:57:00Z,NA,NA,NA,10,1,169,NA,NA,4.5,4.5,NA
+mill creek,upper mill creek,2022-02-04T00:00:00Z,1899-12-31T10:00:00Z,24,NA,NA,6,1,157,NA,NA,6,0,pulled cone/screen for weekend
+mill creek,upper mill creek,2022-02-03T00:00:00Z,1899-12-31T09:16:00Z,NA,NA,NA,74.5,1,159,NA,NA,4,4,"zip the holding trap side door closed, gap large enough for small fish to escape, needs to be fixed, air temp 9C"
+mill creek,upper mill creek,2022-02-02T00:00:00Z,1899-12-31T10:40:00Z,26,NA,0,4.5,1,165,NA,NA,6,6,too windy to get an accurate weight (likely 0.1 to 0.2)
+mill creek,upper mill creek,2022-02-01T00:00:00Z,1899-12-31T10:33:00Z,26,NA,0,5.6,NA,164,NA,NA,8,NA,cone dropped 1/31 at 8:35
+mill creek,upper mill creek,2022-01-28T00:00:00Z,1899-12-31T10:21:00Z,24,NA,1,43.2,NA,173,NA,NA,9.5,NA,pulled cone/screen for weekend
+mill creek,upper mill creek,2022-01-27T00:00:00Z,1899-12-31T12:35:00Z,NA,NA,1,77,1,177,NA,NA,4.5,4.5,NA
+mill creek,upper mill creek,2022-01-26T00:00:00Z,1899-12-31T09:23:00Z,24,NA,NA,42.9,1,192,NA,NA,3,5,bird carcass
+mill creek,upper mill creek,2022-01-25T00:00:00Z,1899-12-31T09:09:00Z,NA,NA,NA,43.4,1,180,NA,NA,4,4.5,scale readings seem slightly too neglegable; dropped cone 1/24 at 11:05
+mill creek,upper mill creek,2022-01-21T00:00:00Z,1899-12-31T10:02:00Z,24,NA,0,44.8,1,194,NA,NA,6.5,0,pulled cone/screen for weekend
+mill creek,upper mill creek,2022-01-20T00:00:00Z,1899-12-31T11:50:00Z,23,NA,NA,44.5,1,187,NA,NA,4.5,NA,greater than 1/4 gallon of debris
+mill creek,upper mill creek,2022-01-19T00:00:00Z,1899-12-31T12:19:00Z,23,NA,NA,43.4,1,197,NA,NA,NA,NA,cone dropped 01/18/2022 at 13:45 4.5 RPM
+mill creek,upper mill creek,2022-01-14T00:00:00Z,1899-12-31T10:00:00Z,24,NA,1,43.9,1,220,NA,NA,9,0,pulled cone/screen for weekend
+mill creek,upper mill creek,2022-01-13T00:00:00Z,1899-12-31T13:40:00Z,26,T,NA,50,1,226,NA,NA,5.5,5.5,greater than 1/2 gallon of debris
+mill creek,upper mill creek,2022-01-12T00:00:00Z,1899-12-31T11:05:00Z,24,NA,1,44.3,1,234,NA,NA,7,7,NA
+mill creek,upper mill creek,2022-01-11T00:00:00Z,1899-12-31T12:00:00Z,24,T,NA,48,3,252,NA,NA,5,4,"minimal debris (about 1/2 gallon), new collar put in place, cone dropped 01/10/2022 at 12:45 4.5RPM 278CFS"
+mill creek,upper mill creek,2022-01-07T00:00:00Z,1899-12-31T10:45:00Z,24,T,NA,47,3,383,NA,NA,14,0,cone dropped at 01/06/2022 at 12:12
+mill creek,upper mill creek,2022-01-06T00:00:00Z,1899-12-31T12:12:00Z,24,NA,6.5,49,3,388,NA,NA,10,10,"no fish today, foggy/overcast"
+mill creek,upper mill creek,2022-01-05T00:00:00Z,1899-12-31T12:20:00Z,25,NA,18,33,3,410,NA,NA,9,9,NA
+mill creek,upper mill creek,2021-12-07T00:00:00Z,1899-12-31T09:56:00Z,NA,NA,1,50,2,98,NA,NA,3,NA,"no fish, adjusted trap upstream (5 ft), toward center (3 ft)"
+mill creek,upper mill creek,2021-12-08T00:00:00Z,1899-12-31T11:50:00Z,NA,NA,NA,15,4,95.9,NA,NA,NA,NA,NA
+mill creek,upper mill creek,2021-12-09T00:00:00Z,1899-12-31T10:48:00Z,NA,NA,1,51,1,95.7,NA,NA,NA,NA,raised cone
+mill creek,upper mill creek,2021-12-28T00:00:00Z,1899-12-31T11:24:00Z,NA,NA,3,49,4,335,NA,NA,7,NA,lengthened safety cables and added bumpers
+mill creek,upper mill creek,2021-12-29T00:00:00Z,1899-12-31T10:28:00Z,NA,NA,2,48,4,420,NA,NA,0,10,"trap shifted towards RR onto shallow cobble, no destructions in the intake"
+mill creek,upper mill creek,2021-12-30T00:00:00Z,1899-12-31T10:30:00Z,NA,NA,3,42.5,2,309,NA,NA,8,NA,NA
+mill creek,upper mill creek,2021-12-31T00:00:00Z,1899-12-31T11:32:00Z,NA,NA,0.1,43.2,1,292,NA,NA,6.5,NA,raised cone - offline
+mill creek,upper mill creek,2022-01-04T00:00:00Z,1899-12-31T11:24:00Z,NA,NA,11,41.6,3,434,NA,NA,NA,NA,"cone lowered and trap positioned on 1/3 - left with minimal revs but positioned to account for projected flow bump (200 - 1,000)"
+mill creek,upper mill creek,2022-02-18T00:00:00Z,1899-12-31T11:00:00Z,NA,NA,1,6.5,1,204,NA,NA,NA,NA,water cold
