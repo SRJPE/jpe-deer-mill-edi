@@ -28,11 +28,8 @@ metadata <- lapply(sheets, function(x) readxl::read_excel(excel_path, sheet = x)
 names(metadata) <- sheets
 
 abstract_docx <- "data-raw/metadata/abstract.docx"
-# methods_docx <- "data-raw/metadata/method.docx"
-methods_docx <- "data-raw/metadata/methods.md"
-
-#edi_number <- reserve_edi_id(user_id = Sys.getenv("EDI_USER_ID"), password = Sys.getenv("EDI_PASSWORD"))
-#edi_number <- "edi.1239.1"
+methods_docx <- "data-raw/metadata/methods.docx"
+#methods_docx <- "data-raw/metadata/methods.md"
 
 dataset <- list() %>%
   add_pub_date() %>%
@@ -48,17 +45,18 @@ dataset <- list() %>%
   add_datatable(datatable_metadata)
 
 # GO through and check on all units
-custom_units <- data.frame(id = c("number of rotations", "NTU", "revolutions per minute", "number of fish", "days"),
-                           unitType = c("dimensionless", "dimensionless", "dimensionless", "dimensionless", "dimensionless"),
-                           parentSI = c(NA, NA, NA, NA, NA),
-                           multiplierToSI = c(NA, NA, NA, NA, NA),
-                           description = c("number of rotations",
-                                           "nephelometric turbidity units, common unit for measuring turbidity",
+custom_units <- data.frame(id = c("NTU", "revolutions per minute", "number of fish"),
+                           unitType = c("dimensionless", "dimensionless", "dimensionless"),
+                           parentSI = c(NA, NA, NA),
+                           multiplierToSI = c(NA, NA, NA),
+                           description = c("nephelometric turbidity units, common unit for measuring turbidity",
                                            "number of revolutions per minute",
-                                           "number of fish counted",
-                                           "number of days"))
+                                           "number of fish counted"))
 
 unitList <- EML::set_unitList(custom_units)
+
+#edi_number <- reserve_edi_id(user_id = Sys.getenv("EDI_USER_ID"), password = Sys.getenv("EDI_PASSWORD"))
+edi_number <- "edi.1445.1"
 
 eml <- list(packageId = edi_number,
             system = "EDI",
@@ -67,8 +65,8 @@ eml <- list(packageId = edi_number,
             additionalMetadata = list(metadata = list(unitList = unitList))
 )
 
-# EML::write_eml(eml, "edi.1239.1.xml")
-# EML::eml_validate("edi.1239.1.xml")
+EML::write_eml(eml, paste0(edi_number, ".xml"))
+EML::eml_validate("edi.1445.1.xml")
 
 # evaluate <- EMLaide::evaluate_edi_package(user_id = Sys.getenv("EDI_USER_ID"),
 #                                           password = Sys.getenv("EDI_PASSWORD"),
