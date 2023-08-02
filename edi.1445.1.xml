@@ -30,7 +30,7 @@
       <electronicMailAddress>ryan.revnak@wildlife.ca.gov</electronicMailAddress>
       <role>principal investigator</role>
     </associatedParty>
-    <pubDate>2023-07-31</pubDate>
+    <pubDate>2023-08-02</pubDate>
     <abstract>
       <para>
     The California Department of Fish and Wildlife (CDFW) conducts
@@ -492,12 +492,12 @@
         <attribute>
           <attributeName>stream</attributeName>
           <attributeLabel>release</attributeLabel>
-          <attributeDefinition>Name of stream where fish releaed</attributeDefinition>
+          <attributeDefinition>Name of stream where fish released</attributeDefinition>
           <measurementScale>
             <nominal>
               <nonNumericDomain>
                 <textDomain>
-                  <definition>Name of stream where fish releaed</definition>
+                  <definition>Name of stream where fish released</definition>
                 </textDomain>
               </nonNumericDomain>
             </nominal>
@@ -729,12 +729,12 @@
         <attribute>
           <attributeName>weather</attributeName>
           <attributeLabel>trap</attributeLabel>
-          <attributeDefinition>Description of weather during trap visit. Levels = c("rain", "cloudy", "fog", "partly cloudy", "sunny", "rainy")</attributeDefinition>
+          <attributeDefinition>Description of weather during trap visit. Levels = c("cloudy", "fog", "partly cloudy", "sunny", "rainy", "snow")</attributeDefinition>
           <measurementScale>
             <nominal>
               <nonNumericDomain>
                 <textDomain>
-                  <definition>Description of weather during trap visit. Levels = c("rain", "cloudy", "fog", "partly cloudy", "sunny", "rainy")</definition>
+                  <definition>Description of weather during trap visit. Levels = c("cloudy", "fog", "partly cloudy", "sunny", "rainy", "snow")</definition>
                 </textDomain>
               </nonNumericDomain>
             </nominal>
