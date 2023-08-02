@@ -43,7 +43,8 @@ trap_historical <- deer_rst |>
          # these are errors
          rpm_before = ifelse(rpm_before > 15, NA, rpm_before),
          # assumed one tub is 5 gallons
-         debris_gal = tubs_of_debris*5) |>
+         debris_gal = tubs_of_debris*5,
+         weather = ifelse(weather == "rain", "rainy", weather)) |>
   group_by(date, stream) |>
   distinct() |>
   select(-time_for_10_revolutions, -tubs_of_debris)
