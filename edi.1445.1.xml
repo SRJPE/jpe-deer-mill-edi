@@ -15,22 +15,22 @@
     <title>Monitoring juvenile Chinook salmon outmigration using rotary screw traps on Deer and Mill creeks</title>
     <creator>
       <individualName>
-        <givenName>Chanel</givenName>
-        <surName>Somday</surName>
-      </individualName>
-      <organizationName>California Department of Fish and Wildlife</organizationName>
-      <electronicMailAddress>chanel.somday@wildlife.ca.gov</electronicMailAddress>
-    </creator>
-    <associatedParty>
-      <individualName>
         <givenName>Ryan</givenName>
         <surName>Revnak</surName>
       </individualName>
       <organizationName>California Department of Fish and Wildlife</organizationName>
       <electronicMailAddress>ryan.revnak@wildlife.ca.gov</electronicMailAddress>
-      <role>principal investigator</role>
+    </creator>
+    <associatedParty>
+      <individualName>
+        <givenName>Chanel</givenName>
+        <surName>Somday</surName>
+      </individualName>
+      <organizationName>California Department of Fish and Wildlife</organizationName>
+      <electronicMailAddress>chanel.somday@wildlife.ca.gov</electronicMailAddress>
+      <role>associate</role>
     </associatedParty>
-    <pubDate>2023-08-02</pubDate>
+    <pubDate>2023-08-04</pubDate>
     <abstract>
       <para>
     The California Department of Fish and Wildlife (CDFW) conducts
@@ -137,11 +137,11 @@
     </maintenance>
     <contact>
       <individualName>
-        <givenName>Chanel</givenName>
-        <surName>Somday</surName>
+        <givenName>Ryan</givenName>
+        <surName>Revnak</surName>
       </individualName>
       <organizationName>California Department of Fish and Wildlife</organizationName>
-      <electronicMailAddress>chanel.somday@wildlife.ca.gov</electronicMailAddress>
+      <electronicMailAddress>ryan.revnak@wildlife.ca.gov</electronicMailAddress>
     </contact>
     <methods>
       <methodStep>
@@ -239,11 +239,11 @@
       <title>Monitoring juvenile Chinook salmon outmigration using rotary screw traps on Deer and Mill creeks</title>
       <personnel>
         <individualName>
-          <givenName>Chanel</givenName>
-          <surName>Somday</surName>
+          <givenName>Ryan</givenName>
+          <surName>Revnak</surName>
         </individualName>
         <organizationName>California Department of Fish and Wildlife</organizationName>
-        <electronicMailAddress>chanel.somday@wildlife.ca.gov</electronicMailAddress>
+        <electronicMailAddress>ryan.revnak@wildlife.ca.gov</electronicMailAddress>
         <role>Project Lead</role>
       </personnel>
     </project>
