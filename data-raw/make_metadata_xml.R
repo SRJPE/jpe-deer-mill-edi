@@ -18,8 +18,8 @@ datatable_metadata <-
                                           "Daily trap operations"),
                 datatable_url = paste0("https://raw.githubusercontent.com/SRJPE/jpe-deer-mill-edi/main/data/",
                                        c("deer_mill_catch_edi.csv",
-                                         "deer_mill_recaptures_edi.csv",
-                                         "deer_mill_releases_edi.csv",
+                                         "deer_mill_recapture_edi.csv",
+                                         "deer_mill_release_edi.csv",
                                          "deer_mill_trap_edi.csv")))
 # save cleaned data to `data/`
 excel_path <- "data-raw/metadata/deer_mill_metadata.xlsx"
@@ -55,8 +55,9 @@ custom_units <- data.frame(id = c("NTU", "revolutions per minute", "number of fi
 
 unitList <- EML::set_unitList(custom_units)
 
-#edi_number <- reserve_edi_id(user_id = Sys.getenv("EDI_USER_ID"), password = Sys.getenv("EDI_PASSWORD"))
-edi_number <- "edi.1445.1"
+#edi_number <- reserve_edi_id(user_id = Sys.getenv("edi_user_id"), password = Sys.getenv("edi_password"))
+edi_number <- "edi.1504.1" # reserved 9-20-2023 under srjpe account
+
 
 eml <- list(packageId = edi_number,
             system = "EDI",
@@ -66,7 +67,12 @@ eml <- list(packageId = edi_number,
 )
 
 EML::write_eml(eml, paste0(edi_number, ".xml"))
-EML::eml_validate("edi.1445.1.xml")
+EML::eml_validate(paste0(edi_number, ".xml"))
+
+EMLaide::evaluate_edi_package(Sys.getenv("edi_user_id"), Sys.getenv("edi_password"), paste0(edi_number, ".xml"))
+View(report_df)
+EMLaide::upload_edi_package(Sys.getenv("edi_user_id"), Sys.getenv("edi_password"), paste0(edi_number, ".xml"))
+
 
 # evaluate <- EMLaide::evaluate_edi_package(user_id = Sys.getenv("EDI_USER_ID"),
 #                                           password = Sys.getenv("EDI_PASSWORD"),

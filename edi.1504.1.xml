@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:stmml="http://www.xml-cml.org/schema/stmml-1.2" packageId="edi.1445.1" system="EDI" xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://eml.ecoinformatics.org/eml-2.2.0/eml.xsd">
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:stmml="http://www.xml-cml.org/schema/stmml-1.2" packageId="edi.1504.1" system="EDI" xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://eml.ecoinformatics.org/eml-2.2.0/eml.xsd">
   <access authSystem="https://pasta.edirepository.org/authentication" order="allowFirst" scope="document">
     <allow>
       <principal>public</principal>
@@ -30,7 +30,7 @@
       <electronicMailAddress>chanel.somday@wildlife.ca.gov</electronicMailAddress>
       <role>associate</role>
     </associatedParty>
-    <pubDate>2023-08-04</pubDate>
+    <pubDate>2023-09-20</pubDate>
     <abstract>
       <para>
     The California Department of Fish and Wildlife (CDFW) conducts
@@ -69,6 +69,8 @@
       <keyword>RST</keyword>
       <keyword>California</keyword>
       <keyword>Central Valley</keyword>
+      <keyword>SRJPE</keyword>
+      <keyword>Chinook salmon</keyword>
     </keywordSet>
     <intellectualRights>
       <para>This information is released under the Creative Commons license - Attribution - CC BY (https://creativecommons.org/licenses/by/4.0/). The consumer of these data ("Data User" herein) is required to cite it appropriately in any publication that results from its use. The Data User should realize that these data may be actively used by others for ongoing research and that coordination may be necessary to prevent duplicate publication. The Data User is urged to contact the authors of these data if any questions about methodology or results occur. Where appropriate, the Data User is encouraged to consider collaboration or co-authorship with the authors. The Data User should realize that misinterpretation of data may occur if used out of context of the original study. While substantial efforts are made to ensure the accuracy of data and associated documentation, complete accuracy of data sets cannot be guaranteed. All data are made available "as is." The Data User should be aware, however, that data are updated periodically and it is the responsibility of the Data User to check for new versions of the data. The data authors and the repository where these data were obtained shall not be liable for damages resulting from any use or misinterpretation of the data. Thank you.</para>
@@ -252,8 +254,8 @@
       <entityDescription>Daily catch</entityDescription>
       <physical>
         <objectName>deer_mill_catch_edi.csv</objectName>
-        <size unit="bytes">14</size>
-        <authentication method="MD5">3be7b8b182ccd96e48989b4e57311193</authentication>
+        <size unit="bytes">3033419</size>
+        <authentication method="MD5">ef1a15280742ab79610b5e69d352308a</authentication>
         <dataFormat>
           <textFormat>
             <numHeaderLines>1</numHeaderLines>
@@ -394,8 +396,8 @@
       <entityDescription>Recaptured catch</entityDescription>
       <physical>
         <objectName>deer_mill_recapture_edi.csv</objectName>
-        <size unit="bytes">14</size>
-        <authentication method="MD5">3be7b8b182ccd96e48989b4e57311193</authentication>
+        <size unit="bytes">3445</size>
+        <authentication method="MD5">dce7dec38cc7ac539fd93bfbfcc57e18</authentication>
         <dataFormat>
           <textFormat>
             <numHeaderLines>1</numHeaderLines>
@@ -408,7 +410,7 @@
         </dataFormat>
         <distribution>
           <online>
-            <url function="download">https://raw.githubusercontent.com/SRJPE/jpe-deer-mill-edi/main/data/deer_mill_recaptures_edi.csv</url>
+            <url function="download">https://raw.githubusercontent.com/SRJPE/jpe-deer-mill-edi/main/data/deer_mill_recapture_edi.csv</url>
           </online>
         </distribution>
       </physical>
@@ -470,8 +472,8 @@
       <entityDescription>Release trial summary</entityDescription>
       <physical>
         <objectName>deer_mill_release_edi.csv</objectName>
-        <size unit="bytes">14</size>
-        <authentication method="MD5">3be7b8b182ccd96e48989b4e57311193</authentication>
+        <size unit="bytes">428</size>
+        <authentication method="MD5">94c9866294596b4b8095c800f20ffb9d</authentication>
         <dataFormat>
           <textFormat>
             <numHeaderLines>1</numHeaderLines>
@@ -484,7 +486,7 @@
         </dataFormat>
         <distribution>
           <online>
-            <url function="download">https://raw.githubusercontent.com/SRJPE/jpe-deer-mill-edi/main/data/deer_mill_releases_edi.csv</url>
+            <url function="download">https://raw.githubusercontent.com/SRJPE/jpe-deer-mill-edi/main/data/deer_mill_release_edi.csv</url>
           </online>
         </distribution>
       </physical>
@@ -644,8 +646,8 @@
       <entityDescription>Daily trap operations</entityDescription>
       <physical>
         <objectName>deer_mill_trap_edi.csv</objectName>
-        <size unit="bytes">14</size>
-        <authentication method="MD5">3be7b8b182ccd96e48989b4e57311193</authentication>
+        <size unit="bytes">243217</size>
+        <authentication method="MD5">ea4a56f43f4f96326fd74c9c60685885</authentication>
         <dataFormat>
           <textFormat>
             <numHeaderLines>1</numHeaderLines>
