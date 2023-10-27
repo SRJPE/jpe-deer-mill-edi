@@ -3301,3 +3301,184 @@ date,stream,trap_condition_code,turbidity,weather,water_temperature,debris_gal,r
 2021-12-31T11:32:00Z,mill creek,NA,NA,sunny,43.2,0.1,6.5,NA
 2022-01-04T11:24:00Z,mill creek,NA,NA,cloudy,41.6,11,NA,NA
 2022-02-18T11:00:00Z,mill creek,NA,NA,sunny,6.5,1,NA,NA
+2022-11-02T11:04:00Z,mill creek,NA,NA,cloudy,11,5,3,2
+2022-11-03T11:45:00Z,mill creek,NA,NA,NA,8.7,NA,3,3
+2022-11-04T10:00:00Z,mill creek,NA,NA,NA,7.7,NA,NA,NA
+2022-11-07T11:35:00Z,mill creek,NA,NA,partly cloudy,12,10,3,5
+2022-11-08T10:00:00Z,mill creek,NA,NA,rainy,8,4,4,4
+2022-11-09T12:15:00Z,mill creek,NA,NA,partly cloudy,10,NA,0,NA
+2022-11-10T13:14:00Z,mill creek,NA,NA,sunny,6.9,0.5,6,NA
+2022-11-14T10:41:00Z,mill creek,NA,NA,NA,6.2,NA,5,NA
+2022-11-15T11:02:00Z,mill creek,NA,NA,sunny,7,NA,3,NA
+2022-11-16T11:30:00Z,mill creek,NA,NA,sunny,8,1,4,2
+2022-11-17T10:00:00Z,mill creek,NA,NA,sunny,10,1,2,2
+2022-11-18T10:00:00Z,mill creek,NA,NA,NA,10.8,0.5,3.5,3.5
+2022-11-21T13:15:00Z,mill creek,NA,NA,partly cloudy,9,18,1,NA
+2022-11-29T10:28:00Z,mill creek,NA,NA,NA,8.9,1,3.5,3.5
+2022-11-30T10:20:00Z,mill creek,NA,NA,sunny,8,5,2,NA
+2022-12-01T09:04:00Z,mill creek,NA,NA,rainy,8,NA,4,NA
+2022-12-06T12:08:00Z,mill creek,NA,NA,sunny,9,2,5,NA
+2022-12-07T13:04:00Z,mill creek,NA,NA,sunny,9,5,7,NA
+2022-12-08T11:10:00Z,mill creek,NA,NA,cloudy,8,1,3,NA
+2022-12-13T01:30:00Z,mill creek,NA,NA,sunny,7,5,6,6
+2022-12-14T03:15:00Z,mill creek,NA,NA,sunny,6.5,3,5,4
+2022-12-15T01:10:00Z,mill creek,NA,NA,sunny,8,1,4,4.5
+2022-12-16T03:14:00Z,mill creek,NA,NA,sunny,8,1,3,3.5
+2022-12-17T00:00:00Z,mill creek,NA,NA,sunny,5.5,1,3.25,3
+2022-12-19T00:00:00Z,mill creek,NA,NA,cloudy,6,5,NA,NA
+2022-12-20T12:50:00Z,mill creek,NA,NA,partly cloudy,7,1,2.5,2.5
+2022-12-21T12:23:00Z,mill creek,NA,NA,partly cloudy,9,1.5,2.25,2.25
+2022-12-23T12:30:00Z,mill creek,NA,NA,cloudy,10,2,5,2.5
+2023-01-24T11:00:00Z,mill creek,NA,NA,sunny,9,1,8,7
+2022-12-24T12:10:00Z,mill creek,NA,NA,sunny,9.5,1,2.5,0
+2023-01-25T11:00:00Z,mill creek,NA,NA,sunny,9,NA,8,7
+2023-01-26T00:00:00Z,mill creek,NA,NA,sunny,8,NA,7,NA
+2023-01-27T12:35:00Z,mill creek,NA,NA,cloudy,9.5,0,7,7.25
+2023-01-30T00:00:00Z,mill creek,NA,NA,NA,7,1,8,8
+2023-01-31T12:45:00Z,mill creek,NA,NA,sunny,6,1,6.5,NA
+2023-02-01T11:30:00Z,mill creek,NA,NA,sunny,8.5,0,6.5,6.5
+2023-02-03T12:30:00Z,mill creek,NA,NA,partly cloudy,9,NA,6.75,7
+2023-02-04T11:00:00Z,mill creek,NA,NA,partly cloudy,10,0,7,7
+2023-02-06T12:30:00Z,mill creek,NA,NA,sunny,10,NA,6,7
+2023-02-07T00:00:00Z,mill creek,NA,NA,partly cloudy,8,0,6.5,7
+2023-02-08T10:28:00Z,mill creek,NA,NA,sunny,9,0,6,NA
+2023-02-09T11:22:00Z,mill creek,NA,NA,sunny,9,0,7,7
+2023-02-10T11:45:00Z,mill creek,NA,NA,sunny,11,NA,7,6.5
+2023-02-11T11:00:00Z,mill creek,NA,NA,partly cloudy,10,1,6.25,NA
+2023-02-13T10:47:00Z,mill creek,NA,NA,sunny,11,1,7,7
+2023-02-14T13:32:00Z,mill creek,NA,NA,sunny,9,0,8.5,NA
+2023-02-15T10:50:00Z,mill creek,NA,NA,sunny,8,1,6,NA
+2023-02-16T09:28:00Z,mill creek,NA,NA,partly cloudy,7,0,NA,3.5
+2023-02-17T10:00:00Z,mill creek,NA,NA,sunny,5,1,6.5,6.5
+2023-02-21T01:19:00Z,mill creek,NA,NA,partly cloudy,9,1,6,6
+2023-02-22T08:28:00Z,mill creek,NA,NA,sunny,9,1,7,NA
+2023-02-23T10:00:00Z,mill creek,NA,NA,partly cloudy,7,1,6,5.5
+2023-02-25T02:00:00Z,mill creek,NA,NA,cloudy,7.5,8,7,6.5
+2023-02-20T00:00:00Z,mill creek,NA,NA,NA,7,NA,NA,NA
+2023-03-01T10:50:00Z,mill creek,NA,NA,sunny,6.5,NA,9,NA
+2023-03-02T10:35:00Z,mill creek,NA,NA,sunny,6.5,NA,8.5,8
+2023-03-03T12:00:00Z,mill creek,NA,NA,NA,8,1.25,8.5,8.5
+2023-03-04T11:45:00Z,mill creek,NA,NA,NA,6.7,1,NA,NA
+2023-04-10T00:00:00Z,mill creek,NA,NA,NA,10,NA,NA,NA
+2023-04-11T00:00:00Z,mill creek,NA,NA,partly cloudy,10,NA,NA,NA
+2023-04-12T11:00:00Z,mill creek,NA,NA,NA,10,5,7,6
+2023-12-13T09:31:00Z,mill creek,NA,NA,sunny,9,3,7,7
+2023-04-17T01:25:00Z,mill creek,NA,NA,NA,10,2,5,6
+2023-04-18T02:03:00Z,mill creek,NA,NA,sunny,9,0,5,5
+2023-04-20T12:52:00Z,mill creek,NA,NA,sunny,9,1,NA,NA
+2023-04-21T10:00:00Z,mill creek,NA,NA,NA,9,1,6,6
+2023-04-24T12:45:00Z,mill creek,NA,NA,sunny,10,20,NA,NA
+2023-04-25T01:35:00Z,mill creek,NA,NA,NA,10,7,NA,NA
+2023-04-28T12:30:00Z,mill creek,NA,NA,sunny,10,NA,12,NA
+2023-05-03T02:00:00Z,mill creek,NA,NA,sunny,13,20,NA,NA
+2023-05-04T11:05:00Z,mill creek,NA,NA,NA,10,5,NA,NA
+2023-05-08T12:00:00Z,mill creek,NA,NA,NA,10,1,5,NA
+2023-05-11T00:00:00Z,mill creek,NA,NA,sunny,16,2,NA,NA
+2023-05-12T09:45:00Z,mill creek,NA,NA,sunny,13,1,6.5,5.5
+2023-05-15T17:00:00Z,mill creek,NA,NA,NA,13,20,NA,NA
+2023-05-16T13:30:00Z,mill creek,NA,NA,sunny,14,20,7.5,7.5
+2023-05-17T03:12:00Z,mill creek,NA,NA,sunny,12,20,7,NA
+2023-05-18T11:30:00Z,mill creek,NA,NA,NA,11,NA,NA,NA
+2023-05-19T12:00:00Z,mill creek,NA,NA,sunny,11,20,NA,NA
+2023-05-23T14:00:00Z,mill creek,NA,NA,NA,12.5,20,7.5,7.5
+2023-05-24T12:00:00Z,mill creek,NA,NA,sunny,12,NA,NA,NA
+2023-05-25T12:45:00Z,mill creek,NA,NA,sunny,12,10,NA,NA
+2023-05-26T16:30:00Z,mill creek,NA,NA,sunny,14,7.5,6.5,6.5
+2023-05-31T04:30:00Z,mill creek,NA,NA,sunny,14,10,8,NA
+2023-06-01T01:37:00Z,mill creek,NA,NA,sunny,14,5,5,NA
+2023-06-06T00:00:00Z,mill creek,NA,NA,partly cloudy,14,NA,NA,NA
+2023-06-08T10:06:00Z,mill creek,NA,NA,partly cloudy,15,8,NA,NA
+2023-06-13T01:30:00Z,mill creek,NA,NA,NA,16.5,NA,NA,NA
+2023-06-14T10:00:00Z,mill creek,NA,NA,sunny,11,3,NA,NA
+2023-06-22T02:20:00Z,mill creek,NA,NA,partly cloudy,15.5,0,NA,NA
+2022-11-02T09:19:00Z,deer creek,NA,NA,cloudy,11,7,5,5
+2022-11-02T02:00:00Z,deer creek,NA,NA,NA,8.5,NA,NA,NA
+2022-11-04T10:19:00Z,deer creek,NA,NA,rainy,12,5,4,4
+2022-11-07T10:08:00Z,deer creek,NA,NA,sunny,11,30,6,4
+2022-11-08T12:23:00Z,deer creek,NA,NA,rainy,9,30,7.5,7.5
+2022-11-09T09:50:00Z,deer creek,NA,NA,partly cloudy,10,5,2,2
+2022-11-16T10:00:00Z,deer creek,NA,NA,partly cloudy,8,33,NA,NA
+2022-11-17T08:32:00Z,deer creek,NA,NA,sunny,8,5,4,4
+2022-11-18T09:00:00Z,deer creek,NA,NA,NA,6,4,1,4
+2022-11-21T09:33:00Z,deer creek,NA,NA,partly cloudy,7,55,0,2
+2022-11-22T08:30:00Z,deer creek,NA,NA,sunny,6,5,2,2
+2022-11-23T08:10:00Z,deer creek,NA,NA,sunny,9,8,0,0
+2022-11-29T08:00:00Z,deer creek,NA,NA,sunny,7,20,4,3
+2022-11-30T08:00:00Z,deer creek,NA,NA,partly cloudy,4.5,30,0,0
+2022-12-06T08:51:00Z,deer creek,NA,NA,sunny,8,70,5,4
+2022-12-07T12:17:00Z,deer creek,NA,NA,sunny,8,5,0,4.5
+2022-12-08T09:00:00Z,deer creek,NA,NA,cloudy,7,3,0.5,0
+2022-12-13T10:19:00Z,deer creek,NA,NA,sunny,6,25,6,5
+2022-12-14T10:36:00Z,deer creek,NA,NA,sunny,6,5,3,3
+2022-12-15T10:55:00Z,deer creek,NA,NA,sunny,6,4,2,1.75
+2022-12-16T11:47:00Z,deer creek,NA,NA,sunny,6.5,5.5,1.5,1.75
+2022-12-17T10:25:00Z,deer creek,NA,NA,sunny,6,2,1.5,1
+2022-12-19T00:00:00Z,deer creek,NA,NA,cloudy,5,NA,0,5
+2022-12-20T11:30:00Z,deer creek,NA,NA,partly cloudy,7,10,3.5,3.5
+2022-12-21T11:04:00Z,deer creek,NA,NA,partly cloudy,8.9,5,3.75,3.75
+2022-12-22T10:36:00Z,deer creek,NA,NA,fog,8,5,4.5,NA
+2022-12-23T10:57:00Z,deer creek,NA,NA,cloudy,9.5,8,5.5,5.75
+2022-12-24T01:40:00Z,deer creek,NA,NA,sunny,9,6,4.5,0
+2023-01-24T09:04:00Z,deer creek,NA,NA,sunny,8,5,5,5
+2023-01-25T00:00:00Z,deer creek,NA,NA,sunny,0,1,4,4
+2023-01-26T09:15:00Z,deer creek,NA,NA,sunny,9,1,4,5
+2023-01-27T10:30:00Z,deer creek,NA,NA,cloudy,8.5,3,3.25,3.25
+2023-01-30T00:00:00Z,deer creek,NA,NA,sunny,5.5,5,3.5,NA
+2023-01-31T10:50:00Z,deer creek,NA,NA,sunny,3,2,3.5,NA
+2023-02-01T10:18:00Z,deer creek,NA,NA,NA,3,1,3.5,3.5
+2023-02-03T11:00:00Z,deer creek,NA,NA,partly cloudy,11,4.5,4,4
+2023-02-04T00:00:00Z,deer creek,NA,NA,NA,9.5,NA,2.5,2.5
+2023-02-06T11:21:00Z,deer creek,NA,NA,sunny,8.5,5,4,3.5
+2023-02-07T01:14:00Z,deer creek,NA,NA,partly cloudy,9,1,4,3.5
+2023-02-08T08:30:00Z,deer creek,NA,NA,partly cloudy,7,0,3.25,3
+2023-02-09T09:53:00Z,deer creek,NA,NA,sunny,8,0,4,NA
+2023-02-10T10:00:00Z,deer creek,NA,NA,sunny,6,NA,5.25,5.5
+2023-02-11T09:15:00Z,deer creek,NA,NA,partly cloudy,8,2,5.5,6
+2023-02-13T00:00:00Z,deer creek,NA,NA,sunny,10,3,5,5.5
+2023-02-14T15:34:00Z,deer creek,NA,NA,sunny,9.5,0,6,NA
+2023-02-15T00:00:00Z,deer creek,NA,NA,sunny,6,1,6,6
+2023-02-16T11:20:00Z,deer creek,NA,NA,NA,NA,1,NA,NA
+2023-02-17T10:30:00Z,deer creek,NA,NA,NA,6,NA,5,5
+2023-02-21T12:07:00Z,deer creek,NA,NA,sunny,7.7,5,6,6
+2023-02-22T10:00:00Z,deer creek,NA,NA,sunny,8,1,5.5,5.5
+2023-02-23T00:00:00Z,deer creek,NA,NA,NA,7,4,6,NA
+2023-02-25T10:00:00Z,deer creek,NA,NA,cloudy,6,15,4,4.5
+2023-02-27T13:19:00Z,deer creek,NA,NA,rainy,7,5,3,NA
+2023-02-28T10:45:00Z,deer creek,NA,NA,cloudy,7,5,2,NA
+2023-03-01T08:45:00Z,deer creek,NA,NA,sunny,6,1,2.5,NA
+2023-03-02T09:13:00Z,deer creek,NA,NA,sunny,5,1,5,5
+2023-03-03T10:20:00Z,deer creek,NA,NA,sunny,9,1,4.5,5
+2023-03-04T10:20:00Z,deer creek,NA,NA,cloudy,8,3,5,NA
+2023-03-08T09:33:00Z,deer creek,NA,NA,sunny,5,1,7,NA
+2023-04-12T09:26:00Z,deer creek,NA,NA,sunny,10,3,4,7
+2023-04-13T11:00:00Z,deer creek,NA,NA,NA,9,15,7,7
+2023-04-17T12:15:00Z,deer creek,NA,NA,cloudy,10,15,4.5,4
+2023-04-18T03:16:00Z,deer creek,NA,NA,partly cloudy,10,5,6,NA
+2023-04-20T03:48:00Z,deer creek,NA,NA,sunny,NA,5,4,4
+2023-04-21T11:00:00Z,deer creek,NA,NA,sunny,9,1,6.5,6.5
+2023-04-24T03:07:00Z,deer creek,NA,NA,sunny,12,10,5,NA
+2023-04-25T02:40:00Z,deer creek,NA,NA,sunny,12,3,6,6
+2023-04-27T12:57:00Z,deer creek,NA,NA,sunny,13,3,5,5
+2023-04-28T10:30:00Z,deer creek,NA,NA,sunny,12,2,9,9
+2023-05-03T03:15:00Z,deer creek,NA,NA,partly cloudy,11,5,4.5,NA
+2023-05-08T10:45:00Z,deer creek,NA,NA,partly cloudy,11,2,4,NA
+2023-05-09T02:30:00Z,deer creek,NA,NA,sunny,10,1,NA,NA
+2023-05-11T00:00:00Z,deer creek,NA,NA,sunny,10,1,NA,NA
+2023-05-12T11:00:00Z,deer creek,NA,NA,sunny,11,1,7,7
+2023-05-15T14:48:00Z,deer creek,NA,NA,NA,14,10,NA,NA
+2023-05-16T12:30:00Z,deer creek,NA,NA,NA,7,14,7.5,7.5
+2023-05-17T01:21:00Z,deer creek,NA,NA,NA,1,14,9.5,NA
+2023-05-18T12:45:00Z,deer creek,NA,NA,sunny,14,NA,NA,NA
+2023-05-19T09:40:00Z,deer creek,NA,NA,sunny,14,2,9,NA
+2023-05-22T12:30:00Z,deer creek,NA,NA,sunny,15,NA,7,7
+2023-05-23T11:30:00Z,deer creek,NA,NA,sunny,14,0.5,6.5,6.5
+2023-05-24T13:12:00Z,deer creek,NA,NA,partly cloudy,15,5,9,9
+2023-05-25T10:35:00Z,deer creek,NA,NA,sunny,14,1,NA,NA
+2023-05-26T15:00:00Z,deer creek,NA,NA,sunny,15,1.5,6,6
+2023-06-01T11:53:00Z,deer creek,NA,NA,sunny,15,1,NA,NA
+2023-06-02T12:06:00Z,deer creek,NA,NA,NA,15,NA,NA,NA
+2023-06-06T09:30:00Z,deer creek,NA,NA,rainy,16,1,5,5
+2023-06-08T08:41:00Z,deer creek,NA,NA,partly cloudy,16,0,5,5
+2023-06-13T11:41:00Z,deer creek,NA,NA,sunny,16,1,NA,NA
+2023-06-14T08:48:00Z,deer creek,NA,NA,sunny,16,4,5,NA
+2023-06-20T12:04:00Z,deer creek,NA,NA,sunny,17,0,NA,NA
