@@ -1,0 +1,91 @@
+stream,trap_location,date,time,hours_fished,debris_gal,water_temp,weather_code,staff_gage_ft,flow_cfs,total_revs,before_rpms,after_rpms,comments
+mill,upper dam,2022-11-02T00:00:00Z,11:04,NA,5,11,3,116,116,NA,3,2,NA
+mill,upper mill,2022-11-03T00:00:00Z,11:45,NA,NA,8.7,NA,101,101,NA,3,3,NA
+mill,NA,2022-11-04T00:00:00Z,10:00,NA,NA,7.7,NA,91,91,NA,NA,NA,NA
+mill,NA,2022-11-07T00:00:00Z,11:35,NA,10,12,2,150,150,NA,3,5,NA
+mill,NA,2022-11-08T00:00:00Z,10:00,NA,4,8,4,159,159,NA,4,4,NA
+mill,upper dam,2022-11-09T00:00:00Z,12:15,NA,NA,10,2,190,190,NA,0,NA,trap was stuck on river left gravel bar
+mill,upper dam,2022-11-10T00:00:00Z,13:14,NA,0.5,6.9,1,140,140,NA,6,NA,pulled cone/screen for weekend
+mill,upper dam,2022-11-14T00:00:00Z,10:41,NA,NA,6.2,NA,105,105,NA,5,NA,NA
+mill,upper mill,2022-11-15T00:00:00Z,11:02,NA,NA,7,1,101,101,NA,3,NA,NA
+mill,NA,2022-11-16T00:00:00Z,11:30,NA,1,8,1,99,99,NA,4,2,NA
+mill,NA,2022-11-17T00:00:00Z,10:00,NA,1,10,1,99,99,NA,2,2,NA
+mill,upper dam,2022-11-18T00:00:00Z,10:00,24,0.5,10.8,NA,99,99,NA,3.5,3.5,NA
+mill,NA,2022-11-21T00:00:00Z,13:15,NA,18,9,2,96,96,NA,1,NA,NA
+mill,upper dam,2022-11-29T00:00:00Z,10:28,NA,1,8.9,NA,NA,NA,NA,3.5,3.5,NA
+mill,NA,2022-11-30T00:00:00Z,10:20,NA,5,8,1,96,96,NA,2,NA,scale malfunction
+mill,upper dam,2022-12-01T00:00:00Z,9:04,NA,NA,8,4,164,164,NA,4,NA,NA
+mill,NA,2022-12-06T00:00:00Z,12:08,NA,2,9,1,232,232,NA,5,NA,NA
+mill,NA,2022-12-07T00:00:00Z,13:04,NA,5,9,1,159,159,NA,7,NA,NA
+mill,NA,2022-12-08T00:00:00Z,11:10,NA,1,8,3,142,142,NA,3,NA,raised cone
+mill,mill rst,2022-12-13T00:00:00Z,1:30,NA,5,7,1,174,174,NA,6,6,NA
+mill,NA,2022-12-14T00:00:00Z,3:15,NA,3,6.5,1,148,148,NA,5,4,NA
+mill,NA,2022-12-15T00:00:00Z,1:10,NA,1,8,1,136,136,NA,4,4.5,"plus one hardhead mortality (not in count), scale didn't work"
+mill,NA,2022-12-16T00:00:00Z,3:14,NA,1,8,1,127,127,NA,3,3.5,NA
+mill,NA,2022-12-17T00:00:00Z,NA,NA,1,5.5,1,121,121,NA,3.25,3,NA
+mill,upper dam,2022-12-19T00:00:00Z,NA,NA,5,6,3,115,115,NA,NA,NA,NA
+mill,NA,2022-12-20T00:00:00Z,12:50,NA,1,7,2,114,114,NA,2.5,2.5,NA
+mill,NA,2022-12-21T00:00:00Z,12:23,NA,1.5,9,2,114,114,NA,2.25,2.25,NA
+mill,NA,2022-12-23T00:00:00Z,12:30,NA,2,10,3,117,117,NA,5,2.5,NA
+mill,NA,2023-01-24T00:00:00Z,11:00,NA,1,9,1,247,247,NA,8,7,mort lamprey - 110. PIT TAG reader malfunction
+mill,NA,2022-12-24T00:00:00Z,12:10,NA,1,9.5,1,128,128,NA,2.5,0,lots of foam in trap. Pulled up trap.
+mill,NA,2023-01-25T00:00:00Z,11:00,NA,NA,9,1,231,231,NA,8,7,NA
+mill,NA,2023-01-26T00:00:00Z,NA,NA,NA,8,1,219,219,NA,7,NA,zero fish in trap
+mill,NA,2023-01-27T00:00:00Z,12:35,NA,0,9.5,3,211,211,NA,7,7.25,NA
+mill,upper dam,2023-01-30T00:00:00Z,NA,NA,1,7,NA,191,191,NA,8,8,NA
+mill,upper dam,2023-01-31T00:00:00Z,12:45,NA,1,6,1,182,182,NA,6.5,NA,scale wasn't reading properly
+mill,upper dam,2023-02-01T00:00:00Z,11:30,NA,0,8.5,1,177,177,NA,6.5,6.5,NA
+mill,NA,2023-02-03T00:00:00Z,12:30,NA,NA,9,2,174,174,NA,6.75,7,NA
+mill,NA,2023-02-04T00:00:00Z,11:00,NA,0,10,2,173,173,NA,7,7,NA
+mill,upper dam,2023-02-06T00:00:00Z,12:30,NA,NA,10,1,204,204,NA,6,7,NA
+mill,upper dam,2023-02-07T00:00:00Z,NA,NA,0,8,2,188,188,NA,6.5,7,branch in cone - spinning fine
+mill,upper dam,2023-02-08T00:00:00Z,10:28,NA,0,9,1,181,181,NA,6,NA,NA
+mill,upper dam,2023-02-09T00:00:00Z,11:22,NA,0,9,1,177,177,7,7,7,one mort chisal in usewell
+mill,NA,2023-02-10T00:00:00Z,11:45,NA,NA,11,1,178,178,NA,7,6.5,two morts
+mill,NA,2023-02-11T00:00:00Z,11:00,NA,1,10,2,183,183,NA,6.25,NA,NA
+mill,upper dam,2023-02-13T00:00:00Z,10:47,NA,1,11,1,178,178,NA,7,7,raised cone few inches
+mill,upper dam,2023-02-14T00:00:00Z,13:32,NA,0,9,1,179,183,NA,8.5,NA,NA
+mill,NA,2023-02-15T00:00:00Z,10:50,NA,1,8,1,176,176,NA,6,NA,NA
+mill,upper dam,2023-02-16T00:00:00Z,9:28,NA,0,7,2,167,167,NA,NA,3.5,NA
+mill,upper dam,2023-02-17T00:00:00Z,10:00,NA,1,5,1,192,192,NA,6.5,6.5,NA
+mill,upper dam,2023-02-21T00:00:00Z,1:19,NA,1,9,2,172,172,NA,6,6,NA
+mill,upper dam,2023-02-22T00:00:00Z,8:28,NA,1,9,1,167,167,NA,7,NA,NA
+mill,upper dam,2023-02-23T00:00:00Z,10:00,NA,1,7,2,169,169,NA,6,5.5,wind effect scale
+mill,NA,2023-02-25T00:00:00Z,2:00,NA,8,7.5,3,208,233,NA,7,6.5,"8 morts due to debris entrapment, cone was also jammed with a lot of sticks from the storm"
+mill,upper dam,2023-02-20T00:00:00Z,NA,NA,NA,7,NA,398,398,NA,NA,NA,NA
+mill,NA,2023-03-01T00:00:00Z,10:50,NA,NA,6.5,1,330,317,NA,9,NA,windy so didn't bring scale
+mill,NA,2023-03-02T00:00:00Z,10:35,NA,NA,6.5,1,274,274,NA,8.5,8,1 BBY
+mill,NA,2023-03-03T00:00:00Z,12:00,NA,1.25,8,rain,284,252,NA,8.5,8.5,NA
+mill,NA,2023-03-04T00:00:00Z,11:45,NA,1,6.7,rain,290,290,NA,NA,NA,pulled cone
+mill,NA,2023-04-10T00:00:00Z,NA,NA,NA,10,NA,480,480,NA,NA,NA,BBY released
+mill,upper dam,2023-04-11T00:00:00Z,NA,NA,NA,10,2,710,714,NA,NA,NA,NA
+mill,upper dam,2023-04-12T00:00:00Z,11:00,NA,5,10,7,771,771,NA,7,6,NA
+mill,upper dam,2023-12-13T00:00:00Z,9:31,NA,3,9,1,723,723,NA,7,7,NA
+mill,upper dam,2023-04-17T00:00:00Z,1:25,NA,2,10,587,NA,NA,NA,5,6,NA
+mill,upper dam,2023-04-18T00:00:00Z,2:03,NA,0,9,1,630,630,NA,5,5,moving trap to river left. Attached thermometer to screen
+mill,upper dam,2023-04-20T00:00:00Z,12:52,NA,1,9,1,746,746,NA,NA,NA,NA
+mill,upper dam,2023-04-21T00:00:00Z,10:00,NA,1,9,159,NA,NA,NA,6,6,nothing in trap - did not raise cone
+mill,NA,2023-04-24T00:00:00Z,12:45,NA,20,10,1,812,812,NA,NA,NA,NA
+mill,NA,2023-04-25T00:00:00Z,1:35,NA,7,10,NA,160,160,NA,NA,NA,6 bby
+mill,NA,2023-04-28T00:00:00Z,12:30,NA,NA,10,1,1019,1200,NA,12,NA,NA
+mill,upper dam,2023-05-03T00:00:00Z,2:00,NA,20,13,1,745,745,NA,NA,NA,7 bby
+mill,upper dam,2023-05-04T00:00:00Z,11:05,NA,5,10,NA,718,718,NA,NA,NA,NA
+mill,upper dam,2023-05-08T00:00:00Z,12:00,NA,1,10,NA,707,707,NA,5,NA,NA
+mill,upper dam,2023-05-11T00:00:00Z,NA,NA,2,16,1,545,545,NA,NA,NA,donut tightened
+mill,upper dam,2023-05-12T00:00:00Z,9:45,NA,1,13,1,635,635,NA,6.5,5.5,NA
+mill,upper dam,2023-05-15T00:00:00Z,17:00,NA,20,13,NA,874,874,NA,NA,NA,"3 dead sculpin, 2 dead lamprey, 3 adult suckers, and 4 adult lamprey"
+mill,upper dam,2023-05-16T00:00:00Z,13:30,24,20,14,1,957,957,NA,7.5,7.5,"high water, muddy, lots of debris"
+mill,upper dam,2023-05-17T00:00:00Z,3:12,NA,20,12,1,878,878,NA,7,NA,NA
+mill,upper dam,2023-05-18T00:00:00Z,11:30,NA,NA,11,NA,998,998,NA,NA,NA,very muddy water high flow
+mill,upper mill,2023-05-19T00:00:00Z,12:00,NA,20,11,1,1014,1014,NA,NA,NA,1 adult sucker. Pulled screen - could not pull cone
+mill,upper dam,2023-05-23T00:00:00Z,14:00,NA,20,12.5,NA,883,883,NA,7.5,7.5,lots of debris (2 BBY morts)
+mill,upper dam,2023-05-24T00:00:00Z,12:00,NA,NA,12,1,569,569,NA,NA,NA,high flows tons debris
+mill,upper mill,2023-05-25T00:00:00Z,12:45,NA,10,12,1,767,767,NA,NA,NA,o. mykiss mortality in trap - processed and put in freezer
+mill,upper dam,2023-05-26T00:00:00Z,16:30,NA,7.5,14,1,718,718,NA,6.5,6.5,NA
+mill,upper mill,2023-05-31T00:00:00Z,4:30,NA,10,14,1,635,635,NA,8,NA,NA
+mill,upper mill,2023-06-01T00:00:00Z,1:37,NA,5,14,1,639,639,NA,5,NA,NA
+mill,upper mill,2023-06-06T00:00:00Z,NA,NA,NA,14,2,600,600,NA,NA,NA,NA
+mill,upper mill,2023-06-08T00:00:00Z,10:06,NA,8,15,2,601,601,NA,NA,NA,"4 adult suckers, 1 adult pacific lamprey"
+mill,upper dam,2023-06-13T00:00:00Z,1:30,NA,NA,16.5,NA,685,685,NA,NA,NA,NA
+mill,upper dam,2023-06-14T00:00:00Z,10:00,NA,3,11,1,582,582,NA,NA,NA,NA
+mill,NA,2023-06-22T00:00:00Z,2:20,NA,0,15.5,2,818,818,NA,NA,NA,NA

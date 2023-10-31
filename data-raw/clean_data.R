@@ -63,6 +63,7 @@ release_2021_raw <- read_csv("data-raw/mill_2021_release.csv")
 # recapture
 recapture_2021_raw <- read_csv("data-raw/mill_2021_recaptures.csv")
 
+
 # lookup tables -----------------------------------------------------------
 species_lookup <- tibble(species = unique(catch_2021_raw$species),
                          species_clean = c("chinook salmon",
@@ -133,6 +134,79 @@ lifestage_lookup <- tibble(lifestage = unique(catch_2021_raw$lifestage),
                                        NA))
 
 
+# 2022 --------------------------------------------------------------------
+
+# catch 22 (haha)
+mill_catch_2022_raw <- read_csv("data-raw/mill_2022_catch.csv") |>
+  mutate(date = as.Date(date))
+deer_catch_2022_raw <- read_csv("data-raw/deer_2022_catch.csv") |>
+  mutate(date = as.Date(date))
+catch_2022_raw <- bind_rows(mill_catch_2022_raw, deer_catch_2022_raw)
+
+# trap 2022
+mill_trap_2022_raw <- read_csv("data-raw/mill_2022_trap.csv") |>
+  mutate(date = as.Date(date),
+         time = as.character(time),
+         stream = ifelse(stream == "mill", "mill creek", stream))
+deer_trap_2022_raw <- read_csv("data-raw/deer_2022_trap.csv") |>
+  mutate(time = hms::as_hms(time),
+         time = as.character(time),
+         date = as.Date(date))
+trap_2022_raw <- bind_rows(mill_trap_2022_raw, deer_trap_2022_raw)
+
+# recaptures 2022
+mill_recaptures_2022_raw <- read_csv("data-raw/mill_2022_recaptures.csv")
+
+
+# 2022 lookup tables ------------------------------------------------------
+species_lookup_2022 <- tibble(species = unique(catch_2022_raw$species),
+                         species_clean = c("chinook salmon",
+                                           "rainbow trout",
+                                           "hard head",
+                                           "pacific lamprey",
+                                           "pacific lamprey",
+                                           "sacramento pikeminnow",
+                                           "prickly sculpin",
+                                           "riffle sculpin",
+                                           "river lamprey",
+                                           "ammocoete",
+                                           "sacramento sucker",
+                                           "speckled dace",
+                                           "prickly sculpin",
+                                           "california roach",
+                                           "cyprinid fry",
+                                           "riffle sculpin",
+                                           "california roach",
+                                           "california roach",
+                                           "pacific lamprey",
+                                           "hard head",
+                                           NA,
+                                           "pacific lamprey",
+                                           "rainbow trout",
+                                           "river lamprey",
+                                           "sacramento pikeminnow",
+                                           "california roach",
+                                           "sacramento sucker",
+                                           "rainbow trout",
+                                           "riffle sculpin",
+                                           "california roach",
+                                           "prickly sculpin",
+                                           "unknown sculpin",
+                                           "unknown fry"))
+lifestage_lookup_2022 <- tibble(lifestage = unique(catch_2022_raw$lifestage),
+                           lifestage_clean = c("smolt",
+                                               "silvery parr",
+                                               NA,
+                                               "parr",
+                                               NA,
+                                               NA,
+                                               NA,
+                                               "fry",
+                                               NA,
+                                               NA,
+                                               "sac fry",
+                                               "alevin"))
+
 # cleaning ----------------------------------------------------------------
 
 catch_2021_mort <- filter(catch_2021_raw, mort > 0) |>
@@ -146,6 +220,21 @@ catch_2021_clean <- catch_2021_raw |>
   # standardize species and lifestage
   left_join(species_lookup) |>
   left_join(lifestage_lookup) |>
+  mutate(species = species_clean,
+         lifestage = lifestage_clean) |>
+  select(-c(lifestage_clean, species_clean))
+
+catch_2022_mort <- filter(catch_2022_raw, mort > 0) |>
+  select(stream, date, species, mort) |>
+  rename(count = mort) |>
+  mutate(mort = T)
+catch_2022_clean <- catch_2022_raw |>
+  filter(is.na(mort) | mort == 0) |>
+  mutate(mort = F) |>
+  bind_rows(catch_2022_mort) |>
+  # standardize species and lifestage
+  left_join(species_lookup_2022) |>
+  left_join(lifestage_lookup_2022) |>
   mutate(species = species_clean,
          lifestage = lifestage_clean) |>
   select(-c(lifestage_clean, species_clean))
@@ -169,6 +258,22 @@ trap_2021_clean <- trap_2021_raw |>
                              weather == 6 ~ "fog")) |>
   select(-c(trap_location, comments, debris_code, turbidity_ntu, hours_fished, total_revs, time))
 
+trap_2022_clean <- trap_2022_raw |>
+  rename(water_temperature = water_temp,
+         flow = flow_cfs,
+         rpm_before = before_rpms,
+         rpm_after = after_rpms,
+         weather = weather_code) |>
+  mutate(date = as_datetime(paste0(date, " ", time)),
+         weather = case_when(weather == 1 ~ "sunny",
+                             weather == 2 ~ "partly cloudy",
+                             weather %in% c(3, "windy/cloudy") ~ "cloudy",
+                             weather == 4 ~ "rainy",
+                             weather == 5 ~ "snow",
+                             weather == 6 ~ "fog")) |>
+  select(-c(trap_location, comments, hours_fished, total_revs, time))
+
+
 releases_2021_clean <- release_2021_raw |>
   rename(min_rotations = min_rotations_during_efficiency,
          max_rotations = max_rotations_during_efficiency_test,
@@ -189,17 +294,22 @@ releases_2021_clean <- release_2021_raw |>
          recapture_start_date = as_datetime(paste0(recapture_start_date, " ", recapture_start_time)),
          recapture_end_time = hms::as_hms(recapture_end_time),
          recapture_end_date = as_datetime(paste0(recapture_end_date, " ", recapture_end_time))) |>
-select(-c(trap_location, min_fl_recaptured, max_fl_recaptured, mean_fl_recaptured, total_recaptured, estimated_efficiency, `pdf_page_#`, total_number_marked, recapture_start_time, recapture_end_time, release_time))
+  select(-c(trap_location, min_fl_recaptured, max_fl_recaptured, mean_fl_recaptured, total_recaptured, estimated_efficiency, `pdf_page_#`, total_number_marked, recapture_start_time, recapture_end_time, release_time))
 
-recaptures_2021_clean <- recapture_2021_raw
+recaptures_2021_clean <- bind_rows(recapture_2021_raw, mill_recaptures_2022_raw)
+
+
+
 # combine -----------------------------------------------------------------
 
 catch_clean <- bind_rows(catch_historical,
-                         catch_2021_clean) |>
+                         catch_2021_clean,
+                         catch_2022_clean) |>
   select(-mort, -is_plus_count)
 write_csv(catch_clean, "data/deer_mill_catch_edi.csv")
 trap_clean <- bind_rows(trap_historical,
-                        trap_2021_clean) |>
+                        trap_2021_clean,
+                        trap_2022_clean) |>
   # this is gage data so not useful to have here too
   select(-flow) |>
   select(date, stream, trap_condition_code, turbidity, weather, water_temperature, debris_gal, rpm_before, rpm_after)
