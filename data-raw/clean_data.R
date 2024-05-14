@@ -58,10 +58,51 @@ catch_2021_raw <- read_csv("data-raw/mill_2021_catch.csv")
 trap_2021_raw <- read_csv("data-raw/mill_2021_trap.csv")
 
 # release
-release_2021_raw <- read_csv("data-raw/mill_2021_release.csv")
+releases_2021_clean <- read_csv("data-raw/mill_2021_release.csv") |>
+  rename(min_rotations = min_rotations_during_efficiency,
+         max_rotations = max_rotations_during_efficiency_test,
+         min_flow = min_flow_cfs,
+         max_flow = max_flow_cfs,
+         mean_flow = mean_flow_cfs,
+         release_lifestage = life_stage_released,
+         number_released = total_number_released,
+         turbidity = turbidity_ntu,
+         recapture_start_date = recapture_begining_date,
+         recapture_start_time = recapture_begining_time) |>
+  mutate(release_time = hms::as_hms(release_time),
+         release_date = as_datetime(paste0(release_date, " ", release_time)),
+         recapture_start_time = hms::as_hms(recapture_start_time),
+         recapture_start_date = as_datetime(paste0(recapture_start_date, " ", recapture_start_time)),
+         recapture_end_time = hms::as_hms(recapture_end_time),
+         recapture_end_date = as_datetime(paste0(recapture_end_date, " ", recapture_end_time)),
+         min_fl_released = ifelse(min_fl_released == "not recorded", NA, min_fl_released),
+         mean_fl_released = ifelse(mean_fl_released == "not recorded", NA, mean_fl_released),
+         max_fl_released = ifelse(max_fl_released == "not recorded", NA, max_fl_released),
+         stream = "mill creek") |>
+  select(-c(trap_location, min_fl_recaptured, max_fl_recaptured, mean_fl_recaptured,
+            total_recaptured, estimated_efficiency, `pdf_page_#`, total_number_marked,
+            recapture_start_time, recapture_end_time, release_time, recapture_start_date,
+            recapture_end_date, turbidity,
+            mark_color, min_flow, max_flow, mean_flow, min_rotations, max_rotations, release_lifestage)) |>
+  mutate(release_id = c("mill202101", "mill202102", "mill202103")) |> glimpse()
 
 # recapture
-recapture_2021_raw <- read_csv("data-raw/mill_2021_recaptures.csv")
+recapture_2021_clean <- read_csv("data-raw/mill_2021_recaptures.csv") |>
+  mutate(recapture_date = date) |>
+  group_by(recapture_date) |>
+  summarize(mean_fl_recaptured = mean(fork_length, na.rm = TRUE),
+            min_fl_recaptured = min(fork_length, na.rm = TRUE),
+            max_fl_recaptured = max(fork_length, na.rm = TRUE),
+            total_recaptured = n()) |>
+  mutate(release_id = c("mill202101", "mill202102", "mill202102", "mill202102", "mill202103", "mill202103", "mill202103", NA, NA, NA, NA),
+         stream = "mill creek") |>
+  filter(!is.na(release_id)) |>
+  group_by(release_id, stream) |>
+  summarize(recapture_date = as.Date(min(recapture_date)),
+            mean_fl_recaptured = mean(mean_fl_recaptured, na.rm = TRUE),
+            min_fl_recaptured = min(min_fl_recaptured, na.rm = TRUE),
+            max_fl_recaptured = max(max_fl_recaptured, na.rm = TRUE),
+            total_recaptured = sum(total_recaptured)) |> glimpse()
 
 
 # lookup tables -----------------------------------------------------------
@@ -154,8 +195,46 @@ deer_trap_2022_raw <- read_csv("data-raw/deer_2022_trap.csv") |>
          date = as.Date(date))
 trap_2022_raw <- bind_rows(mill_trap_2022_raw, deer_trap_2022_raw)
 
-# recaptures 2022
-mill_recaptures_2022_raw <- read_csv("data-raw/mill_2022_recaptures.csv")
+recapture_2021_clean |> glimpse()
+releases_2021_clean |> glimpse()
+
+# EFFICIENCY 2022
+# removed old efficiency (just realeases and recaptures, inconsistant with new data and seemed inaccurate) data from mill shared May 13, 2024
+mill_new_efficiency <- read_csv("data-raw/mill_efficiency_data_2022.csv") |>
+  janitor::clean_names() |>
+  select(-c(max_trap_rotations, min_trap_rotations, min_velocity, max_velocity,
+            min_discharge, max_discharge, min_turbidity, max_turbidity, river_miles)) |>
+  mutate(release_date = as.Date(release_date_time, format = "%m/%d/%y"),
+         recapture_date = as.Date(recap_date_time, format = "%m/%d/%y"),
+         mean_fl_released = ifelse(release_size_avg == 0, NA, release_size_avg),
+         mean_fl_recaptured = ifelse(recap_size_avg == 0, NA, recap_size_avg)) |>
+  rename(total_recaptured = total_recap,
+         number_released = total_release) |>
+  select(-c(release_date_time, recap_date_time, recap_size_avg, release_size_avg, estimated_efficiency)) |>
+  mutate(release_id = c("mill202201", "mill202202", "mill202203", "mill202204", "mill202205", "mill202206", "mill202207"),
+         stream = "mill creek",
+         release_origin = "hatchery") |> glimpse()
+
+mill_2022_release <- mill_new_efficiency |> select(release_id, stream, release_origin, release_date, number_released, mean_fl_released) |> glimpse()
+mill_2022_recaptured <- mill_new_efficiency |> select(release_id, stream, recapture_date, total_recaptured, mean_fl_recaptured) |> glimpse()
+
+deer_new_efficiency <- read_csv("data-raw/deer_efficiency_data_2022.csv") |>
+  janitor::clean_names() |>
+  select(-c(max_trap_rotations, min_trap_rotations, min_velocity, max_velocity,
+            min_discharge, max_discharge, min_turbidity, max_turbidity, river_miles)) |>
+  mutate(release_date = as.Date(release_date_time, format = "%m/%d/%y"),
+         recapture_date = as.Date(recap_date_time, format = "%m/%d/%y"),
+         mean_fl_released = ifelse(release_size_avg == 0, NA, release_size_avg),
+         mean_fl_recaptured = ifelse(recap_size_avg == 0, NA, recap_size_avg)) |>
+  rename(total_recaptured = total_recap,
+         number_released = total_release) |>
+  select(-c(release_date_time, recap_date_time, recap_size_avg, release_size_avg, estimated_efficiency)) |>
+  mutate(release_id = c("deer202201", "deer202202", "deer202203", "deer202204", "deer202205", "deer202206"),
+         stream = "deer creek",
+         release_origin = "hatchery") |> glimpse()
+
+deer_2022_release <- deer_new_efficiency |> select(release_id, stream, release_origin, release_date, number_released, mean_fl_released) |> glimpse()
+deer_2022_recaptured <- deer_new_efficiency |> select(release_id, stream, recapture_date, total_recaptured, mean_fl_recaptured) |> glimpse()
 
 
 # 2022 lookup tables ------------------------------------------------------
@@ -274,39 +353,18 @@ trap_2022_clean <- trap_2022_raw |>
   select(-c(trap_location, comments, hours_fished, total_revs, time))
 
 
-releases_2021_clean <- release_2021_raw |>
-  rename(min_rotations = min_rotations_during_efficiency,
-         max_rotations = max_rotations_during_efficiency_test,
-         min_flow = min_flow_cfs,
-         max_flow = max_flow_cfs,
-         mean_flow = mean_flow_cfs,
-         min_fork_length = min_fl_released,
-         max_fork_length = max_fl_released,
-         mean_fork_length = mean_fl_released,
-         release_lifestage = life_stage_released,
-         number_released = total_number_released,
-         turbidity = turbidity_ntu,
-         recapture_start_date = recapture_begining_date,
-         recapture_start_time = recapture_begining_time) |>
-  mutate(release_time = hms::as_hms(release_time),
-         release_date = as_datetime(paste0(release_date, " ", release_time)),
-         recapture_start_time = hms::as_hms(recapture_start_time),
-         recapture_start_date = as_datetime(paste0(recapture_start_date, " ", recapture_start_time)),
-         recapture_end_time = hms::as_hms(recapture_end_time),
-         recapture_end_date = as_datetime(paste0(recapture_end_date, " ", recapture_end_time))) |>
-  select(-c(trap_location, min_fl_recaptured, max_fl_recaptured, mean_fl_recaptured, total_recaptured, estimated_efficiency, `pdf_page_#`, total_number_marked, recapture_start_time, recapture_end_time, release_time))
 
-recaptures_2021_clean <- bind_rows(recapture_2021_raw, mill_recaptures_2022_raw)
 
 
 
 # combine -----------------------------------------------------------------
-
+# Catch
 catch_clean <- bind_rows(catch_historical,
                          catch_2021_clean,
                          catch_2022_clean) |>
   select(-mort, -is_plus_count)
 write_csv(catch_clean, "data/deer_mill_catch_edi.csv")
+# Trap
 trap_clean <- bind_rows(trap_historical,
                         trap_2021_clean,
                         trap_2022_clean) |>
@@ -314,9 +372,12 @@ trap_clean <- bind_rows(trap_historical,
   select(-flow) |>
   select(date, stream, trap_condition_code, turbidity, weather, water_temperature, debris_gal, rpm_before, rpm_after)
 write_csv(trap_clean, "data/deer_mill_trap_edi.csv")
-release_clean <- releases_2021_clean |>
-  select(-c(min_fork_length, max_fork_length, mean_fork_length, release_lifestage, mean_flow, mark_color, turbidity,
-            min_flow, max_flow, mean_flow))
+
+# Release
+release_clean <- bind_rows(releases_2021_clean |> mutate(release_date = as.Date(release_date)), mill_2022_release, deer_2022_release) |>
+  select(-c(min_fl_released, max_fl_released)) |>  glimpse() # remove because all NA
 write_csv(release_clean, "data/deer_mill_release_edi.csv")
-recapture_clean <- recaptures_2021_clean
+
+# Recaptures
+recapture_clean <- bind_rows(recapture_2021_clean |> ungroup(), mill_2022_recaptured, deer_2022_recaptured) |> glimpse()
 write_csv(recapture_clean, "data/deer_mill_recapture_edi.csv")
