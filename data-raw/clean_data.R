@@ -370,7 +370,8 @@ trap_clean <- bind_rows(trap_historical,
                         trap_2022_clean) |>
   # this is gage data so not useful to have here too
   select(-flow) |>
-  select(date, stream, trap_condition_code, turbidity, weather, water_temperature, debris_gal, rpm_before, rpm_after)
+  select(date, stream, trap_condition_code, turbidity, weather, water_temperature, debris_gal, rpm_before, rpm_after) |>
+  rename(trap_condition = trap_condition_code)
 write_csv(trap_clean, "data/deer_mill_trap_edi.csv")
 
 # Release

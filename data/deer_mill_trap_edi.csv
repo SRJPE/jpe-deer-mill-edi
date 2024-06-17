@@ -1,4 +1,4 @@
-date,stream,trap_condition_code,turbidity,weather,water_temperature,debris_gal,rpm_before,rpm_after
+date,stream,trap_condition,turbidity,weather,water_temperature,debris_gal,rpm_before,rpm_after
 1992-10-14T00:00:00Z,deer creek,normal,NA,NA,NA,NA,NA,NA
 1992-10-17T00:00:00Z,deer creek,normal,NA,NA,NA,NA,NA,NA
 1992-10-30T00:00:00Z,deer creek,normal,NA,NA,NA,NA,NA,NA

@@ -30,7 +30,7 @@
       <electronicMailAddress>chanel.somday@wildlife.ca.gov</electronicMailAddress>
       <role>associate</role>
     </associatedParty>
-    <pubDate>2024-05-14</pubDate>
+    <pubDate>2024-06-17</pubDate>
     <abstract>
       <para>
     The California Department of Fish and Wildlife (CDFW) conducts
@@ -730,7 +730,7 @@
           </measurementScale>
         </attribute>
         <attribute>
-          <attributeName>trap_condition_code</attributeName>
+          <attributeName>trap_condition</attributeName>
           <attributeLabel>trap</attributeLabel>
           <attributeDefinition>Condition of the trap. Levels = c("normal", "cone stopped", "partial blockage", "total blockage")</attributeDefinition>
           <measurementScale>
