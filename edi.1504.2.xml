@@ -245,8 +245,8 @@
       <entityDescription>Daily catch</entityDescription>
       <physical>
         <objectName>deer_mill_catch_edi.csv</objectName>
-        <size unit="bytes">3230353</size>
-        <authentication method="MD5">f5d702c33182ae57e77add218e7bd01a</authentication>
+        <size unit="bytes">3176043</size>
+        <authentication method="MD5">773fb05c450d65415ee53502ace27501</authentication>
         <dataFormat>
           <textFormat>
             <numHeaderLines>1</numHeaderLines>
@@ -387,8 +387,8 @@
       <entityDescription>Recaptured catch</entityDescription>
       <physical>
         <objectName>deer_mill_recapture_edi.csv</objectName>
-        <size unit="bytes">802</size>
-        <authentication method="MD5">4789d56ace9ca6c6656133b9b1d28935</authentication>
+        <size unit="bytes">862</size>
+        <authentication method="MD5">40a573bbf62910d729a45541ec495edb</authentication>
         <dataFormat>
           <textFormat>
             <numHeaderLines>1</numHeaderLines>
@@ -534,8 +534,8 @@
       <entityDescription>Release trial summary</entityDescription>
       <physical>
         <objectName>deer_mill_release_edi.csv</objectName>
-        <size unit="bytes">915</size>
-        <authentication method="MD5">101f3f6e234805b2fd0a7d69d7596cfd</authentication>
+        <size unit="bytes">954</size>
+        <authentication method="MD5">0155cb3e6e7d1739df671c639c3b01c5</authentication>
         <dataFormat>
           <textFormat>
             <numHeaderLines>1</numHeaderLines>
@@ -671,8 +671,8 @@
       <entityDescription>Daily trap operations</entityDescription>
       <physical>
         <objectName>deer_mill_trap_edi.csv</objectName>
-        <size unit="bytes">256134</size>
-        <authentication method="MD5">a544d3a8fed1ee293f57a1cb57fe0f96</authentication>
+        <size unit="bytes">253288</size>
+        <authentication method="MD5">699f7e3a57e20517b7fdce69f02707b8</authentication>
         <dataFormat>
           <textFormat>
             <numHeaderLines>1</numHeaderLines>
