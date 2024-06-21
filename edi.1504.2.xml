@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:stmml="http://www.xml-cml.org/schema/stmml-1.2" packageId="edi.1504.1" system="EDI" xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://eml.ecoinformatics.org/eml-2.2.0/eml.xsd">
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:stmml="http://www.xml-cml.org/schema/stmml-1.2" packageId="edi.1504.2" system="EDI" xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://eml.ecoinformatics.org/eml-2.2.0/eml.xsd">
   <access authSystem="https://pasta.edirepository.org/authentication" order="allowFirst" scope="document">
     <allow>
       <principal>public</principal>
@@ -21,16 +21,7 @@
       <organizationName>California Department of Fish and Wildlife</organizationName>
       <electronicMailAddress>ryan.revnak@wildlife.ca.gov</electronicMailAddress>
     </creator>
-    <associatedParty>
-      <individualName>
-        <givenName>Chanel</givenName>
-        <surName>Somday</surName>
-      </individualName>
-      <organizationName>California Department of Fish and Wildlife</organizationName>
-      <electronicMailAddress>chanel.somday@wildlife.ca.gov</electronicMailAddress>
-      <role>associate</role>
-    </associatedParty>
-    <pubDate>2024-06-17</pubDate>
+    <pubDate>2024-06-21</pubDate>
     <abstract>
       <para>
     The California Department of Fish and Wildlife (CDFW) conducts
@@ -254,8 +245,8 @@
       <entityDescription>Daily catch</entityDescription>
       <physical>
         <objectName>deer_mill_catch_edi.csv</objectName>
-        <size unit="bytes">3176043</size>
-        <authentication method="MD5">773fb05c450d65415ee53502ace27501</authentication>
+        <size unit="bytes">3230353</size>
+        <authentication method="MD5">f5d702c33182ae57e77add218e7bd01a</authentication>
         <dataFormat>
           <textFormat>
             <numHeaderLines>1</numHeaderLines>
@@ -396,8 +387,8 @@
       <entityDescription>Recaptured catch</entityDescription>
       <physical>
         <objectName>deer_mill_recapture_edi.csv</objectName>
-        <size unit="bytes">4436</size>
-        <authentication method="MD5">1aeec31301e09156611056e421ea2078</authentication>
+        <size unit="bytes">802</size>
+        <authentication method="MD5">4789d56ace9ca6c6656133b9b1d28935</authentication>
         <dataFormat>
           <textFormat>
             <numHeaderLines>1</numHeaderLines>
@@ -543,8 +534,8 @@
       <entityDescription>Release trial summary</entityDescription>
       <physical>
         <objectName>deer_mill_release_edi.csv</objectName>
-        <size unit="bytes">428</size>
-        <authentication method="MD5">94c9866294596b4b8095c800f20ffb9d</authentication>
+        <size unit="bytes">915</size>
+        <authentication method="MD5">101f3f6e234805b2fd0a7d69d7596cfd</authentication>
         <dataFormat>
           <textFormat>
             <numHeaderLines>1</numHeaderLines>
@@ -680,8 +671,8 @@
       <entityDescription>Daily trap operations</entityDescription>
       <physical>
         <objectName>deer_mill_trap_edi.csv</objectName>
-        <size unit="bytes">253293</size>
-        <authentication method="MD5">b2e43e4822d7be32fff64689e7f89f66</authentication>
+        <size unit="bytes">256134</size>
+        <authentication method="MD5">a544d3a8fed1ee293f57a1cb57fe0f96</authentication>
         <dataFormat>
           <textFormat>
             <numHeaderLines>1</numHeaderLines>
