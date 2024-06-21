@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:stmml="http://www.xml-cml.org/schema/stmml-1.2" packageId="edi.1504.1" system="EDI" xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://eml.ecoinformatics.org/eml-2.2.0/eml.xsd">
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:stmml="http://www.xml-cml.org/schema/stmml-1.2" packageId="edi.1445.1" system="EDI" xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://eml.ecoinformatics.org/eml-2.2.0/eml.xsd">
   <access authSystem="https://pasta.edirepository.org/authentication" order="allowFirst" scope="document">
     <allow>
       <principal>public</principal>
@@ -11,52 +11,29 @@
     </allow>
   </access>
   <dataset>
-    <shortName>Deer and Mill creeks RST</shortName>
+    <shortName>Deer and Mill creek RST</shortName>
     <title>Monitoring juvenile Chinook salmon outmigration using rotary screw traps on Deer and Mill creeks</title>
     <creator>
-      <individualName>
-        <givenName>Ryan</givenName>
-        <surName>Revnak</surName>
-      </individualName>
-      <organizationName>California Department of Fish and Wildlife</organizationName>
-      <electronicMailAddress>ryan.revnak@wildlife.ca.gov</electronicMailAddress>
-    </creator>
-    <associatedParty>
       <individualName>
         <givenName>Chanel</givenName>
         <surName>Somday</surName>
       </individualName>
-      <organizationName>California Department of Fish and Wildlife</organizationName>
+      <organizationName>California Department of Water Resources</organizationName>
       <electronicMailAddress>chanel.somday@wildlife.ca.gov</electronicMailAddress>
-      <role>associate</role>
+    </creator>
+    <associatedParty>
+      <individualName>
+        <givenName>Ryan</givenName>
+        <surName>Revnak</surName>
+      </individualName>
+      <organizationName>California Department of Water Resources</organizationName>
+      <electronicMailAddress>ryan.revnak@wildlife.ca.gov</electronicMailAddress>
+      <role>principal investigator</role>
     </associatedParty>
-    <pubDate>2024-06-17</pubDate>
+    <pubDate>2023-06-26</pubDate>
     <abstract>
       <para>
-    The California Department of Fish and Wildlife (CDFW) conducts
-    juvenile salmonid emigration monitoring on Mill and Deer Creek
-    (Tehama County, CA) annually from October through June using rotary
-    screw traps (RSTs). Data from this monitoring is used to estimate
-    juvenile spring-run Chinook salmon (Oncorhynchus tshawytscha)
-    (spring-run) abundance and passage, identify yearling outmigration
-    timing and alert resource agencies of juvenile spring-run presence
-    in the lower Sacramento-San Joaquin Delta. This data will be
-    included in the development of a juvenile production estimate (JPE)
-    for spring-run Chinook salmon in the Sacramento River as required by
-    Condition of Approval 7.5.2 of Incidental Take Permit No.
-    2081-2019-006-00 (ITP) issued by CDFW to California Department of
-    Water Resources (DWR) for the long-term operation of the State Water
-    Project. Salmonid data collected from the Mill and Deer RSTs, among
-    other datasets, is also used by the Salmon Monitoring Team (SaMT) to
-    understand the movement of juvenile salmon in the Sacramento River
-    Watershed to estimate the number of winter-run and spring-run
-    Chinook salmon that have entered the Sacramento-San Joaquin Delta
-    (Delta). SaMT is a real-time operations monitoring team required by
-    Condition of Approval 8.1.2 of the ITP which meets weekly from
-    October through June, to provide advice for real-time management of
-    SWP operations to DWR, CDFW, and the Water Operation Management Team
-    (WOMT) to minimize take of winter-run and spring-run Chinook salmon
-    in the Delta.
+    To Be Filled In!
   </para>
     </abstract>
     <keywordSet>
@@ -69,8 +46,6 @@
       <keyword>RST</keyword>
       <keyword>California</keyword>
       <keyword>Central Valley</keyword>
-      <keyword>SRJPE</keyword>
-      <keyword>Chinook salmon</keyword>
     </keywordSet>
     <intellectualRights>
       <para>This information is released under the Creative Commons license - Attribution - CC BY (https://creativecommons.org/licenses/by/4.0/). The consumer of these data ("Data User" herein) is required to cite it appropriately in any publication that results from its use. The Data User should realize that these data may be actively used by others for ongoing research and that coordination may be necessary to prevent duplicate publication. The Data User is urged to contact the authors of these data if any questions about methodology or results occur. Where appropriate, the Data User is encouraged to consider collaboration or co-authorship with the authors. The Data User should realize that misinterpretation of data may occur if used out of context of the original study. While substantial efforts are made to ensure the accuracy of data and associated documentation, complete accuracy of data sets cannot be guaranteed. All data are made available "as is." The Data User should be aware, however, that data are updated periodically and it is the responsibility of the Data User to check for new versions of the data. The data authors and the repository where these data were obtained shall not be liable for damages resulting from any use or misinterpretation of the data. Thank you.</para>
@@ -82,7 +57,7 @@
     </licensed>
     <coverage>
       <geographicCoverage>
-        <geographicDescription>Deer and Mill creeks RST</geographicDescription>
+        <geographicDescription>Deer and Mill Creek RST</geographicDescription>
         <boundingCoordinates>
           <westBoundingCoordinate>-122.1176</westBoundingCoordinate>
           <eastBoundingCoordinate>-121.9607</eastBoundingCoordinate>
@@ -139,101 +114,18 @@
     </maintenance>
     <contact>
       <individualName>
-        <givenName>Ryan</givenName>
-        <surName>Revnak</surName>
+        <givenName>Chanel</givenName>
+        <surName>Somday</surName>
       </individualName>
-      <organizationName>California Department of Fish and Wildlife</organizationName>
-      <electronicMailAddress>ryan.revnak@wildlife.ca.gov</electronicMailAddress>
+      <organizationName>California Department of Water Resources</organizationName>
+      <electronicMailAddress>chanel.somday@wildlife.ca.gov</electronicMailAddress>
     </contact>
     <methods>
       <methodStep>
         <description>
-          <section>
-            <title>Trap equipment</title>
-            <para>
-      A single 5-foot diameter rotary screw trap RST operated on each
-      creek.
-    </para>
-          </section>
-          <section>
-            <title>Current trap location</title>
-            <para>
-      Mill Creek: Upper Dam on Mill Creek, located approximately 6
-      river-miles from the confluence with the Sacramento River near the
-      town of Los Molinos, California.
-    </para>
-            <para>
-      Deer Creek: Deer Creek RST is located approximately 9.5
-      river-miles from the confluence of the Sacramento River near the
-      town of Vina, California.
-    </para>
-          </section>
-          <section>
-            <title>Monitoring schedule</title>
-            <para>
-      October through June.
-    </para>
-            <para>
-      Continuously trapping except under high flows and unsafe working
-      conditions.
-    </para>
-            <para>
-      Serviced daily within a 24-hour period, more if needed due to high
-      debris amounts or fish catch.
-    </para>
-          </section>
-          <section>
-            <title>Daily environmental data</title>
-            <para>
-      Water temperature (Celsius)
-    </para>
-            <para>
-      Flow (cubic feet per second)
-    </para>
-          </section>
-          <section>
-            <title>Fish measurements</title>
-            <para>
-      Fork length measurements to the nearest mm are taken for: Chinook
-      salmon: 10 randomly selected; Non-salmonid fish: first 10 (fork
-      length measurement).
-    </para>
-          </section>
-          <section>
-            <title>Fish counts</title>
-            <para>
-      All fish not measured are plus counted by hand.
-    </para>
-          </section>
-          <section>
-            <title>Trap efficiency trials</title>
-            <para>
-      Hatchery-origin juvenile fall-run Chinook salmon from Coleman
-      National Fish Hatchery are used for efficiency trials.
-    </para>
-            <para>
-      Trials are conducted bi-weekly from February to May across
-      variable flow and environmental conditions as catch totals allow. 
-    </para>
-            <para>
-      A minimum of seven consecutive days of fishing after the release
-      date is required for a release to be included in analyses.
-    </para>
-            <para>
-      Mortality between the release point and the trap is assumed to be
-      negligible.  
-    </para>
-            <para>
-      Release site located approximately 1 mile upstream of the trapping
-      site.
-    </para>
-          </section>
-          <section>
-            <title>Trap efficiency mark</title>
-            <para>
-      Fish are marked with Bismarck Brown Y (BBY) whole body stain. 
-    </para>
-          </section>
+          <para>
+    To Be Filled In!
+  </para>
         </description>
       </methodStep>
     </methods>
@@ -241,11 +133,11 @@
       <title>Monitoring juvenile Chinook salmon outmigration using rotary screw traps on Deer and Mill creeks</title>
       <personnel>
         <individualName>
-          <givenName>Ryan</givenName>
-          <surName>Revnak</surName>
+          <givenName>Chanel</givenName>
+          <surName>Somday</surName>
         </individualName>
-        <organizationName>California Department of Fish and Wildlife</organizationName>
-        <electronicMailAddress>ryan.revnak@wildlife.ca.gov</electronicMailAddress>
+        <organizationName>California Department of Water Resources</organizationName>
+        <electronicMailAddress>chanel.somday@wildlife.ca.gov</electronicMailAddress>
         <role>Project Lead</role>
       </personnel>
     </project>
@@ -254,8 +146,8 @@
       <entityDescription>Daily catch</entityDescription>
       <physical>
         <objectName>deer_mill_catch_edi.csv</objectName>
-        <size unit="bytes">3176043</size>
-        <authentication method="MD5">773fb05c450d65415ee53502ace27501</authentication>
+        <size unit="bytes">14</size>
+        <authentication method="MD5">3be7b8b182ccd96e48989b4e57311193</authentication>
         <dataFormat>
           <textFormat>
             <numHeaderLines>1</numHeaderLines>
@@ -279,7 +171,6 @@
           <attributeDefinition>Date and time of day associated with the trap visit</attributeDefinition>
           <measurementScale>
             <dateTime>
-              <formatString>YYYY-MM-DD hh:mm:ss</formatString>
               <dateTimeDomain>
                 <bounds>
                   <minimum exclusive="false">33891</minimum>
@@ -389,15 +280,15 @@
           </measurementScale>
         </attribute>
       </attributeList>
-      <numberOfRecords>54311</numberOfRecords>
+      <numberOfRecords>51887</numberOfRecords>
     </dataTable>
     <dataTable>
       <entityName>deer_mill_recapture_edi.csv</entityName>
       <entityDescription>Recaptured catch</entityDescription>
       <physical>
         <objectName>deer_mill_recapture_edi.csv</objectName>
-        <size unit="bytes">4436</size>
-        <authentication method="MD5">1aeec31301e09156611056e421ea2078</authentication>
+        <size unit="bytes">14</size>
+        <authentication method="MD5">3be7b8b182ccd96e48989b4e57311193</authentication>
         <dataFormat>
           <textFormat>
             <numHeaderLines>1</numHeaderLines>
@@ -410,46 +301,17 @@
         </dataFormat>
         <distribution>
           <online>
-            <url function="download">https://raw.githubusercontent.com/SRJPE/jpe-deer-mill-edi/main/data/deer_mill_recapture_edi.csv</url>
+            <url function="download">https://raw.githubusercontent.com/SRJPE/jpe-deer-mill-edi/main/data/deer_mill_recaptures_edi.csv</url>
           </online>
         </distribution>
       </physical>
       <attributeList>
         <attribute>
-          <attributeName>release_id</attributeName>
-          <attributeLabel>release</attributeLabel>
-          <attributeDefinition>Unique identifier assigned to each release trial ( stream name, year, release trial )</attributeDefinition>
-          <measurementScale>
-            <nominal>
-              <nonNumericDomain>
-                <textDomain>
-                  <definition>Unique identifier assigned to each release trial ( stream name, year, release trial )</definition>
-                </textDomain>
-              </nonNumericDomain>
-            </nominal>
-          </measurementScale>
-        </attribute>
-        <attribute>
-          <attributeName>stream</attributeName>
-          <attributeLabel>release</attributeLabel>
-          <attributeDefinition>Name of stream where fish released</attributeDefinition>
-          <measurementScale>
-            <nominal>
-              <nonNumericDomain>
-                <textDomain>
-                  <definition>Name of stream where fish released</definition>
-                </textDomain>
-              </nonNumericDomain>
-            </nominal>
-          </measurementScale>
-        </attribute>
-        <attribute>
-          <attributeName>recapture_date</attributeName>
-          <attributeLabel>recapture</attributeLabel>
-          <attributeDefinition>Date and time of recaptures</attributeDefinition>
+          <attributeName>date</attributeName>
+          <attributeLabel>catch</attributeLabel>
+          <attributeDefinition>Date and time of day associated with the trap visit</attributeDefinition>
           <measurementScale>
             <dateTime>
-              <formatString>YYYY-MM-DD hh:mm:ss</formatString>
               <dateTimeDomain>
                 <bounds>
                   <minimum exclusive="false">44601</minimum>
@@ -460,91 +322,48 @@
           </measurementScale>
         </attribute>
         <attribute>
-          <attributeName>mean_fl_recaptured</attributeName>
-          <attributeLabel>release</attributeLabel>
-          <attributeDefinition>Mean fork length of recaptured fish</attributeDefinition>
+          <attributeName>fork_length</attributeName>
+          <attributeLabel>recapture</attributeLabel>
+          <attributeDefinition>Fork length of the fish measured in millimeters</attributeDefinition>
           <measurementScale>
             <ratio>
               <unit>
-                <customUnit>number of fish</customUnit>
+                <standardUnit>millimeter</standardUnit>
               </unit>
               <numericDomain>
-                <numberType>whole</numberType>
+                <numberType>real</numberType>
                 <bounds>
-                  <minimum exclusive="false">10</minimum>
-                  <maximum exclusive="false">100</maximum>
+                  <minimum exclusive="false">43</minimum>
+                  <maximum exclusive="false">77</maximum>
                 </bounds>
               </numericDomain>
             </ratio>
           </measurementScale>
         </attribute>
         <attribute>
-          <attributeName>min_fl_recaptured</attributeName>
-          <attributeLabel>release</attributeLabel>
-          <attributeDefinition>Min fork length of recaptured fish</attributeDefinition>
+          <attributeName>lifestage</attributeName>
+          <attributeLabel>recapture</attributeLabel>
+          <attributeDefinition>Life stage of the fish. Levels = c("silvery parr", "smolt", "parr", "fry", "sac fry")</attributeDefinition>
           <measurementScale>
-            <ratio>
-              <unit>
-                <customUnit>number of fish</customUnit>
-              </unit>
-              <numericDomain>
-                <numberType>whole</numberType>
-                <bounds>
-                  <minimum exclusive="false">10</minimum>
-                  <maximum exclusive="false">100</maximum>
-                </bounds>
-              </numericDomain>
-            </ratio>
-          </measurementScale>
-        </attribute>
-        <attribute>
-          <attributeName>max_fl_recaptured</attributeName>
-          <attributeLabel>release</attributeLabel>
-          <attributeDefinition>Max fork length of recaptured fish</attributeDefinition>
-          <measurementScale>
-            <ratio>
-              <unit>
-                <customUnit>number of fish</customUnit>
-              </unit>
-              <numericDomain>
-                <numberType>whole</numberType>
-                <bounds>
-                  <minimum exclusive="false">10</minimum>
-                  <maximum exclusive="false">100</maximum>
-                </bounds>
-              </numericDomain>
-            </ratio>
-          </measurementScale>
-        </attribute>
-        <attribute>
-          <attributeName>total_recaptured</attributeName>
-          <attributeLabel>release</attributeLabel>
-          <attributeDefinition>Total number of fish recaptured associated with a given release trial</attributeDefinition>
-          <measurementScale>
-            <ratio>
-              <unit>
-                <customUnit>number of fish</customUnit>
-              </unit>
-              <numericDomain>
-                <numberType>whole</numberType>
-                <bounds>
-                  <minimum exclusive="false">0</minimum>
-                  <maximum exclusive="false">400</maximum>
-                </bounds>
-              </numericDomain>
-            </ratio>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Life stage of the fish. Levels = c("silvery parr", "smolt", "parr", "fry", "sac fry")</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
           </measurementScale>
         </attribute>
       </attributeList>
-      <numberOfRecords>16</numberOfRecords>
+      <numberOfRecords>126</numberOfRecords>
     </dataTable>
     <dataTable>
       <entityName>deer_mill_release_edi.csv</entityName>
       <entityDescription>Release trial summary</entityDescription>
       <physical>
         <objectName>deer_mill_release_edi.csv</objectName>
-        <size unit="bytes">428</size>
-        <authentication method="MD5">94c9866294596b4b8095c800f20ffb9d</authentication>
+        <size unit="bytes">14</size>
+        <authentication method="MD5">3be7b8b182ccd96e48989b4e57311193</authentication>
         <dataFormat>
           <textFormat>
             <numHeaderLines>1</numHeaderLines>
@@ -557,7 +376,7 @@
         </dataFormat>
         <distribution>
           <online>
-            <url function="download">https://raw.githubusercontent.com/SRJPE/jpe-deer-mill-edi/main/data/deer_mill_release_edi.csv</url>
+            <url function="download">https://raw.githubusercontent.com/SRJPE/jpe-deer-mill-edi/main/data/deer_mill_releases_edi.csv</url>
           </online>
         </distribution>
       </physical>
@@ -565,12 +384,12 @@
         <attribute>
           <attributeName>stream</attributeName>
           <attributeLabel>release</attributeLabel>
-          <attributeDefinition>Name of stream where fish released</attributeDefinition>
+          <attributeDefinition>Name of stream where fish releaed</attributeDefinition>
           <measurementScale>
             <nominal>
               <nonNumericDomain>
                 <textDomain>
-                  <definition>Name of stream where fish released</definition>
+                  <definition>Name of stream where fish releaed</definition>
                 </textDomain>
               </nonNumericDomain>
             </nominal>
@@ -607,25 +426,6 @@
           </measurementScale>
         </attribute>
         <attribute>
-          <attributeName>mean_fl_released</attributeName>
-          <attributeLabel>release</attributeLabel>
-          <attributeDefinition>Mean fork length of released fish</attributeDefinition>
-          <measurementScale>
-            <ratio>
-              <unit>
-                <customUnit>number of fish</customUnit>
-              </unit>
-              <numericDomain>
-                <numberType>whole</numberType>
-                <bounds>
-                  <minimum exclusive="false">10</minimum>
-                  <maximum exclusive="false">100</maximum>
-                </bounds>
-              </numericDomain>
-            </ratio>
-          </measurementScale>
-        </attribute>
-        <attribute>
           <attributeName>number_released</attributeName>
           <attributeLabel>release</attributeLabel>
           <attributeDefinition>Number of fish released that were alive with mark intact</attributeDefinition>
@@ -637,7 +437,7 @@
               <numericDomain>
                 <numberType>whole</numberType>
                 <bounds>
-                  <minimum exclusive="false">300</minimum>
+                  <minimum exclusive="false">399</minimum>
                   <maximum exclusive="false">400</maximum>
                 </bounds>
               </numericDomain>
@@ -659,29 +459,85 @@
           </measurementScale>
         </attribute>
         <attribute>
-          <attributeName>release_id</attributeName>
+          <attributeName>recapture_start_date</attributeName>
           <attributeLabel>release</attributeLabel>
-          <attributeDefinition>Unique identifier assigned to each release trial ( stream name, year, release trial )</attributeDefinition>
+          <attributeDefinition>Date and time when stopped trapping and looking for recaptures</attributeDefinition>
           <measurementScale>
-            <nominal>
-              <nonNumericDomain>
-                <textDomain>
-                  <definition>Unique identifier assigned to each release trial ( stream name, year, release trial )</definition>
-                </textDomain>
-              </nonNumericDomain>
-            </nominal>
+            <dateTime>
+              <formatString>YYYY-MM-DD hh:mm:ss</formatString>
+              <dateTimeDomain>
+                <bounds>
+                  <minimum exclusive="false">44600.616</minimum>
+                  <maximum exclusive="false">44628</maximum>
+                </bounds>
+              </dateTimeDomain>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>recapture_end_date</attributeName>
+          <attributeLabel>release</attributeLabel>
+          <attributeDefinition>Date and time when started trapping and looking for recaptures</attributeDefinition>
+          <measurementScale>
+            <dateTime>
+              <formatString>YYYY-MM-DD hh:mm:ss</formatString>
+              <dateTimeDomain>
+                <bounds>
+                  <minimum exclusive="false">44601.6653</minimum>
+                  <maximum exclusive="false">44617.4583</maximum>
+                </bounds>
+              </dateTimeDomain>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>min_rotations</attributeName>
+          <attributeLabel>release</attributeLabel>
+          <attributeDefinition>Minimum rotations during efficiency trial</attributeDefinition>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <customUnit>number of fish</customUnit>
+              </unit>
+              <numericDomain>
+                <numberType>whole</numberType>
+                <bounds>
+                  <minimum exclusive="false">8</minimum>
+                  <maximum exclusive="false">8</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>max_rotations</attributeName>
+          <attributeLabel>release</attributeLabel>
+          <attributeDefinition>Maximum rotations during efficiency trial</attributeDefinition>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <customUnit>number of fish</customUnit>
+              </unit>
+              <numericDomain>
+                <numberType>whole</numberType>
+                <bounds>
+                  <minimum exclusive="false">8</minimum>
+                  <maximum exclusive="false">8</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
           </measurementScale>
         </attribute>
       </attributeList>
-      <numberOfRecords>16</numberOfRecords>
+      <numberOfRecords>3</numberOfRecords>
     </dataTable>
     <dataTable>
       <entityName>deer_mill_trap_edi.csv</entityName>
       <entityDescription>Daily trap operations</entityDescription>
       <physical>
         <objectName>deer_mill_trap_edi.csv</objectName>
-        <size unit="bytes">253293</size>
-        <authentication method="MD5">b2e43e4822d7be32fff64689e7f89f66</authentication>
+        <size unit="bytes">14</size>
+        <authentication method="MD5">3be7b8b182ccd96e48989b4e57311193</authentication>
         <dataFormat>
           <textFormat>
             <numHeaderLines>1</numHeaderLines>
@@ -730,7 +586,7 @@
           </measurementScale>
         </attribute>
         <attribute>
-          <attributeName>trap_condition</attributeName>
+          <attributeName>trap_condition_code</attributeName>
           <attributeLabel>trap</attributeLabel>
           <attributeDefinition>Condition of the trap. Levels = c("normal", "cone stopped", "partial blockage", "total blockage")</attributeDefinition>
           <measurementScale>
@@ -765,12 +621,12 @@
         <attribute>
           <attributeName>weather</attributeName>
           <attributeLabel>trap</attributeLabel>
-          <attributeDefinition>Description of weather during trap visit. Levels = c("cloudy", "fog", "partly cloudy", "sunny", "rainy", "snow")</attributeDefinition>
+          <attributeDefinition>Description of weather during trap visit. Levels = c("rain", "cloudy", "fog", "partly cloudy", "sunny", "rainy")</attributeDefinition>
           <measurementScale>
             <nominal>
               <nonNumericDomain>
                 <textDomain>
-                  <definition>Description of weather during trap visit. Levels = c("cloudy", "fog", "partly cloudy", "sunny", "rainy", "snow")</definition>
+                  <definition>Description of weather during trap visit. Levels = c("rain", "cloudy", "fog", "partly cloudy", "sunny", "rainy")</definition>
                 </textDomain>
               </nonNumericDomain>
             </nominal>
@@ -853,7 +709,7 @@
           </measurementScale>
         </attribute>
       </attributeList>
-      <numberOfRecords>3483</numberOfRecords>
+      <numberOfRecords>3302</numberOfRecords>
     </dataTable>
   </dataset>
   <additionalMetadata>
