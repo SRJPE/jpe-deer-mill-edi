@@ -57,8 +57,8 @@ unitList <- EML::set_unitList(custom_units)
 
 
 #edi_number <- reserve_edi_id(user_id = Sys.getenv("edi_user_id"), password = Sys.getenv("edi_password"))
-edi_number <- "edi.1504.2" # reserved 9-20-2023 under srjpe account, update to 1504.2 on june 21 2024
-
+edi_number <- "edi.1504.3" # reserved 9-20-2023 under srjpe account, update to 1504.2 on june 21 2024
+# needed to change project end date so updated again
 
 eml <- list(packageId = edi_number,
             system = "EDI",
