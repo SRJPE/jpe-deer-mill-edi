@@ -57,7 +57,7 @@ unitList <- EML::set_unitList(custom_units)
 
 
 #edi_number <- reserve_edi_id(user_id = Sys.getenv("edi_user_id"), password = Sys.getenv("edi_password"))
-edi_number <- "edi.1504.1" # reserved 9-20-2023 under srjpe account
+edi_number <- "edi.1504.2" # reserved 9-20-2023 under srjpe account, update to 1504.2 on june 21 2024
 
 
 eml <- list(packageId = edi_number,
@@ -70,9 +70,9 @@ eml <- list(packageId = edi_number,
 EML::write_eml(eml, paste0(edi_number, ".xml"))
 EML::eml_validate(paste0(edi_number, ".xml"))
 
-EMLaide::evaluate_edi_package(Sys.getenv("edi_user_id"), Sys.getenv("edi_password"), paste0(edi_number, ".xml"))
+EMLaide::evaluate_edi_package(Sys.getenv("EDI_USER_ID"), Sys.getenv("EDI_PASSWORD"), paste0(edi_number, ".xml"))
 View(report_df)
-EMLaide::upload_edi_package(Sys.getenv("edi_user_id"), Sys.getenv("edi_password"), paste0(edi_number, ".xml"))
+EMLaide::upload_edi_package(Sys.getenv("EDI_USER_ID"), Sys.getenv("EDI_PASSWORD"), paste0(edi_number, ".xml"))
 
 
 # evaluate <- EMLaide::evaluate_edi_package(user_id = Sys.getenv("EDI_USER_ID"),
